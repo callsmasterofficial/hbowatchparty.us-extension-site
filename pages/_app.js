@@ -31,6 +31,8 @@ function MyApp({ Component, pageProps }) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="robots" content="index, follow" />
         <meta property="og:type" content="article" />
+        
+        <meta name="msvalidate.01" content="51C5E4D9E2BD02A3C99D780B37D301D3" />
         <meta property="og:sitename" content={siteConfig.siteName} />
         <link
           rel="stylesheet"
