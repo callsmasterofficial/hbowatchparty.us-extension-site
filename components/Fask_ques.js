@@ -15,7 +15,7 @@ function Fask_question() {
         {/* text section */}
         <div className="f-ask-box  mb-10 flex items-center justify-center border-b-2  border-white">
           <h4 className="primary_text_color mb-5 p-2 text-2xl font-semibold md:text-3xl">
-            FAQ - Hbo Party
+            FAQ - HBO PARTY
           </h4>
         </div>
         <div>
