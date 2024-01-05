@@ -30,7 +30,7 @@ export default {
           id: 1,
           question: 'Install and pin the extension to the toolbar',
           answer:
-            'Kindly install the extension by <a href="https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa" target="_blank" ><u>Get Chrome extension</u></a>. Please note that the extension is only compatible with Chromebook, Windows, or macOS devices. In addition to this, you should also keep in mind that you can download the extension via Google Chrome or Microsoft Edge browsers. Once you’ve installed the extension, you should pin it to the toolbar.',
+            'Kindly install the extension by <a href="https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa" target="_blank" ><u> Chrome extension</u></a>. Please note that the extension is only compatible with Chromebook, Windows, or macOS devices. In addition to this, you should also keep in mind that you can download the extension via Google Chrome or Microsoft Edge browsers. Once you’ve installed the extension, you should pin it to the toolbar.',
         },
 
         {
