@@ -15,7 +15,7 @@ export default {
     first: {
       heading:
         'HBO Watch Party - Watch HBO Max with Your Friends & Family Online',
-      html: ` <a href="https://www.hbowatchparty.us/"><b>HBO Watch Party</b></a> enables you to stream HBO videos in sync with as many people as you want. The extension is available for all HBO subscribers. It ensures the perfect audio and video synchronization of all the watch party participants. Furthermore, you can also chat with other participants in a sidebar while streaming the video together!`,
+      html: `HBO Watch Party enables you to stream HBO videos in sync with as many people as you want. The extension is available for all HBO subscribers. It ensures the perfect audio and video synchronization of all the <a href="https://www.hbowatchparty.us/"><b><u>HBO Watch Party</u></b></a> participants. Furthermore, you can also chat with other participants in a sidebar while streaming the video together!`,
       video:
         'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4',
     },
@@ -30,7 +30,7 @@ export default {
           id: 1,
           question: 'Install and pin the extension to the toolbar',
           answer:
-            'Kindly install the extension by <a href="https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa" target="_blank" ><u>Clicking here</u></a>. Please note that the extension is only compatible with Chromebook, Windows, or macOS devices. In addition to this, you should also keep in mind that you can download the extension via Google Chrome or Microsoft Edge browsers. Once you’ve installed the extension, you should pin it to the toolbar.',
+            'Kindly install the extension by <a href="https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa" target="_blank" ><u>Get Chrome extension</u></a>. Please note that the extension is only compatible with Chromebook, Windows, or macOS devices. In addition to this, you should also keep in mind that you can download the extension via Google Chrome or Microsoft Edge browsers. Once you’ve installed the extension, you should pin it to the toolbar.',
         },
 
         {

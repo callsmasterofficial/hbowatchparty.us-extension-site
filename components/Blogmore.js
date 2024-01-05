@@ -13,25 +13,23 @@ function Blogmore({ data }) {
             </h2>
           </div>
           <div className="img-box my-4 flex h-[100%] w-[100%] items-start justify-start object-contain">
-            
             <img
               className="img my-2 cursor-pointer rounded-md"
               src={data.featured_image}
               alt="Batman Image"
               style={{ boxShadow: '0px 0px 4px 4px white' }}
             />
-            
           </div>
           <div
             dangerouslySetInnerHTML={{
-              __html: data.description
+              __html: data.description,
             }}
           />
         </div>
         {/* ))} */}
 
         <div>
-          <span >Tags: - </span>{' '}
+          <span>Tags: - </span>{' '}
           {data.tags?.map((item, index) => (
             <span key={`tag-${index}-${item}`}>{item}, </span>
           ))}
