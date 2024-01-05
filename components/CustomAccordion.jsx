@@ -17,8 +17,33 @@ export default function CustomAccordion({ item, show, toggleFunc }) {
         </div>
 
         {show === item.id && (
-          <div className=" my-2 p-4 font-semibold text-white">
-            {item.answer}
+          <div>
+            <div
+              className="accordion-body primary_text_color px-5 py-4"
+              dangerouslySetInnerHTML={{ __html: item.answer }}
+            />
+            {item.p1 && (
+              <p className="primary_text_color px-5 py-2 ">{item.p1}</p>
+            )}
+            {item.p2 && (
+              <p className="primary_text_color px-5 py-2 ">{item.p2}</p>
+            )}
+            {item.p3 && (
+              <p className="primary_text_color px-5 py-2 ">{item.p3}</p>
+            )}
+            {item.p4 && (
+              <p className="primary_text_color px-5 py-2 ">{item.p4}</p>
+            )}
+
+            {item.p5 && (
+              <p className="primary_text_color px-5 py-2 ">{item.p5}</p>
+            )}
+            {item.p6 && (
+              <p className="primary_text_color px-5 py-2 ">{item.p6}</p>
+            )}
+            {item.p7 && (
+              <p className="primary_text_color px-5 py-2 ">{item.p7}</p>
+            )}
           </div>
         )}
       </div>
