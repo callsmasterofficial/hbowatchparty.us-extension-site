@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Optellen bij", "free": "Het is gratis" },
+    "navBarHeading": "is nu beschikbaar op Google Chrome, Microsoft Edge en Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Bekijk HBO Max met je vrienden",
+      "html": "Met HBO Watch Party kun je HBO-video's synchroniseren met zoveel mensen als je wilt. De extensie is beschikbaar voor alle HBO-abonnees. Het zorgt voor de perfecte audio- en videosynchronisatie van alle <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> deelnemers . Bovendien kun je in een zijbalk ook met andere deelnemers chatten terwijl je samen de video streamt!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Hoe HBO Max Watch Party te gebruiken",
+      "subHeading": "Volg de onderstaande stappen om aan de slag te gaan met de HBO Watch Party-extensie: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installeer de extensie en zet deze vast op de werkbalk",
+          "answer": "Installeer de extensie via de <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome-extensie</u></a >. Houd er rekening mee dat de extensie alleen compatibel is met Chromebook-, Windows- of macOS-apparaten. Daarnaast moet je er ook rekening mee houden dat je de extensie kunt downloaden via Google Chrome of Microsoft Edge browsers. Nadat u de extensie heeft geïnstalleerd, moet u deze op de werkbalk vastzetten."
+        },
+        {
+          "id": "2",
+          "question": "HBO-login",
+          "answer": "Om gebruik te kunnen maken van de HBO Party-extensie heb je een HBO-abonnement nodig. Bovendien moet je inloggen op je HBO-account om het virtuele feest te creëren of eraan deel te nemen."
+        },
+        {
+          "id": "3",
+          "question": "Zoek en speel de video af",
+          "answer": "Nadat je je bij HBO hebt aangemeld, moet je zoeken naar een tv-programma, webserie, film of andere video die je wilt streamen in je HBO Party. Bovendien moet je de video afspelen om een ​​feestje te creëren."
+        },
+        {
+          "id": "4",
+          "question": "Organiseer of creëer een virtueel feest",
+          "answer": "U kunt het virtuele feest creëren of hosten met behulp van de HBO Watch Party-extensie. Hiervoor hoef je alleen maar in te loggen op het HBO-account en de video te zoeken en af ​​te spelen. Hierna klikt u op het HBO Party-extensiepictogram. Selecteer vervolgens de optie \"Start het feest\" om uw virtuele feestlink te maken. Deel deze link bovendien met vrienden en familie om hen uit te nodigen voor de HBO Party."
+        },
+        {
+          "id": "5",
+          "question": "Sluit je aan bij een HBO Watch Party",
+          "answer": "Via de partylink kun je deelnemen aan de HBO-party. Hiervoor moet je inloggen op het HBO-account en op de link klikken. Bovendien moet je de HBO Party-extensie installeren als je dat nog niet hebt gedaan. Nu wordt u doorgestuurd naar de partij."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Opvallende kenmerken van HBO Watch Party",
+      "subHeading": "De extensie biedt u toegang tot verschillende unieke en verbluffende functies, zoals:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Aanpassingsfunctie",
+          "answer": "Met de aanpassingsfunctie van de extensie kunt u de gebruikersnaam en het gebruikerspictogram van uw keuze kiezen en instellen. HBO Watch Party Extension heeft ook verschillende leuke en grappige avatars die je kunt instellen als je profielpictogram. Daarnaast kunt u ook uw bijnaam als gebruikersnaam instellen. Uw gebruikersnaam en pictogram zijn zichtbaar voor mensen."
+        },
+        {
+          "id": "t2",
+          "question": "Chatten met vrienden",
+          "answer": "Je kunt tijdens het streamen ook chatten met de andere virtuele groepsleden. Daarom zal het meer plezier toevoegen aan uw kijkfeest."
+        },
+        {
+          "id": "t3",
+          "question": "Ondersteunt verschillende apparaten",
+          "answer": "De HBO Watch Party-extensie is compatibel met alle macOS-, Windows- en Chromebook-laptops of pc's."
+        },
+        {
+          "id": "t4",
+          "question": "Wereldwijde beschikbaarheid",
+          "answer": "De extensie is over de hele wereld beschikbaar. Zo kun je altijd en overal samen met je vrienden of familie naar je favoriete HBO-films en -programma's kijken."
+        },
+        {
+          "id": "t5",
+          "question": "HD-streaming in synchronisatie",
+          "answer": "Bekijk uw favoriete tv-programma's, films en elke video op HBO gesynchroniseerd met uw favoriete mensen, ook in HD-kwaliteit en met snelle buffering."
+        },
+        {
+          "id": "t6",
+          "question": "Beheer de titel van uw kijkfeest",
+          "answer": "Met HBO Watch Party kan de gastheer de controle over het feest behouden door de knop 'Alleen ik heb controle' in te schakelen. Hiermee kunnen ze de afspeelinstellingen van de video beheren."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Veel Gestelde Vragen",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Wat kan ik doen met de HBO Max Watch Party-extensie?",
+        "answer": "Als u een HBO-abonnee bent, kunt u bij HBO uw favoriete tv-programma's, webseries, films en nog veel meer bekijken, gesynchroniseerd met uw favoriete mensen online. Bovendien kunt u met de extensie ook chatten met uw vrienden terwijl u films kijkt."
+      },
+      {
+        "id": "f2",
+        "question": "Hoeveel mensen kunnen deelnemen aan één HBO Watch Party?",
+        "answer": "Er is geen beperking op het aantal mensen dat deel kan nemen aan het virtuele feest. U kunt dus zoveel leden toevoegen als u wilt."
+      },
+      {
+        "id": "f3",
+        "question": "Heeft de extensie ook een chatfunctie?",
+        "answer": "Ja, hij beschikt over de chatfunctie, waarmee je tijdens het streamen kunt chatten met de andere deelnemers."
+      },
+      {
+        "id": "f4",
+        "question": "Wat zijn de vereisten om de HBO Watch Party-extensie te installeren?",
+        "answer": "HBO Watch Party instellen: -",
+        "p1": "1. Officiële HBO-website: Bezoek de ondersteuningssectie van HBO voor informatie over watchparty's en extensies.",
+        "p2": "2. Extension Store: Controleer de Chrome Web Store of Mozilla Add-ons voor de extensie \"HBO watch party\".",
+        "p3": "3. Systeemvereisten: Controleer de systeem- en browservereisten.",
+        "p4": "4. Extensie installeren: Klik op 'Toevoegen aan Chrome' of iets soortgelijks in de extensiewinkel.",
+        "p5": "5. Inloggen: log na de installatie in op je HBO-account.",
+        "p6": "6. Uitnodigen: Initieer en nodig deelnemers uit volgens de platforminstructies."
+      },
+      {
+        "id": "f5",
+        "question": "Wat is de methode om een ​​virtueel feest te creëren met behulp van de HBO Watch Party-extensie?",
+        "answer": "Een HBO Watch Party maken: -",
+        "p1": "1. Bezoek de officiële website of sociale mediakanalen van HBO voor aankondigingen over de Watch Party-functie.",
+        "p2": "2. Zoek naar 'HBO Watch Party' in de extensiewinkel van uw browser (bijvoorbeeld de Chrome Web Store). Installeer de extensie, indien beschikbaar.",
+        "p3": "3. Log na het installeren van de extensie in op je HBO-account om inhoud en feesten te synchroniseren.",
+        "P4": "4. Zoek naar de optie om een ​​Watch Party te starten, selecteer inhoud en nodig vrienden uit om mee te doen.",
+        "p5": "5. Gebruik ingebouwde tools om vrienden uit te nodigen via een link, code of contactenlijst.",
+        "p6": "6. Begin met kijken zodra deelnemers meedoen; het afspelen is doorgaans gesynchroniseerd.",
+        "p7": "7. Gebruik de chat- of commentaarfunctie voor realtime communicatie en reacties."
+      },
+      {
+        "id": "f6",
+        "question": "Hoe sluit je je aan bij het kijkfeest?",
+        "answer": "Volg deze stappen om lid te worden van het feest: –",
+        "p1": "1. Selecteer een streamingdienst (bijvoorbeeld Netflix, Hulu) of een social-mediaplatform met watchparty-functies.",
+        "p2": "2. Zoek naar 'Watch Party' of soortgelijke functies. Installeer indien nodig de vereiste browserextensies of apps.",
+        "p3": "3. Deel een link, genereer een code of gebruik uw contactenlijst om vrienden uit te nodigen.",
+        "p4": "4. Zodra de deelnemers meedoen, start de host de video en kijkt iedereen tegelijkertijd.",
+        "p5": "5. Neem deel aan realtime discussies met behulp van de chat- of commentaarfunctie van het platform.",
+        "p6": "6. Houd u aan eventuele platformspecifieke vereisten, zoals browserextensies of app-installaties."
+      },
+      {
+        "id": "f7",
+        "question": "Is het noodzakelijk dat alle leden van de Watch Party zich in hetzelfde land bevinden?",
+        "answer": "Ja, als een lid of deelnemer van dezelfde virtuele partij in een ander land woont, kan hij of zij een VPN gebruiken."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Laat het ons weten.",
+    "anyQuestions": "Vragen hebben? Bezoek onze ondersteuningspagina",
+    "blog": "Bloggen",
+    "privacy": "Privacy",
+    "popularSearches": "populaire zoekopdrachten",
+    "disclaimer": "Vrijwaring",
+    "disclaimerContent": "HBO is een handelsmerk van Home Box Office, Inc.. Deze website",
+    "footerTags": [
+      "HBO Max Kijkfeest",
+      "HBO-kijkfeest",
+      "Bekijk Party HBO Max",
+      "HBO Go Watch-feestje",
+      "HBO-partij",
+      "HBO Max-feest"
+    ]
+  }
+}

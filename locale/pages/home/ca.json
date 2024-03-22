@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Afegir a", "free": "És Gratuït" },
+    "navBarHeading": "ja està disponible a Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party: mira HBO Max amb els teus amics",
+      "html": "HBO Watch Party us permet reproduir vídeos d'HBO sincronitzats amb tantes persones com vulgueu. L'extensió està disponible per a tots els subscriptors d'HBO. Assegura la perfecta sincronització d'àudio i vídeo de tots els participants de la <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a>. . A més, també podeu xatejar amb altres participants en una barra lateral mentre reproduïu el vídeo junts!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Com utilitzar HBO Max Watch Party",
+      "subHeading": "Si us plau, seguiu els passos que s'indiquen a continuació per començar amb l'extensió HBO Watch Party: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instal·leu i fixeu l'extensió a la barra d'eines",
+          "answer": "Si us plau, instal·leu l'extensió mitjançant l'<a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Extensió de Chrome</u></a >. Tingueu en compte que l'extensió només és compatible amb dispositius Chromebook, Windows o macOS. A més d'això, també heu de tenir en compte que podeu descarregar l'extensió mitjançant els navegadors Google Chrome o Microsoft Edge. Un cop instal·lada l'extensió, hauríeu de fixar-la a la barra d'eines."
+        },
+        {
+          "id": "2",
+          "question": "Inici de sessió HBO",
+          "answer": "Heu de tenir una subscripció a HBO per utilitzar l'extensió HBO Party. A més, heu d'iniciar sessió al vostre compte d'HBO per crear o unir-vos a la festa virtual."
+        },
+        {
+          "id": "3",
+          "question": "Cerca i reprodueix el vídeo",
+          "answer": "Després d'iniciar la sessió a HBO, hauríeu de cercar un programa de televisió, una sèrie web, una pel·lícula o qualsevol altre vídeo que vulgueu reproduir a la vostra festa d'HBO. A més, heu de reproduir el vídeo per crear una festa."
+        },
+        {
+          "id": "4",
+          "question": "Organitza o crea una festa virtual",
+          "answer": "Podeu crear o allotjar la festa virtual mitjançant l'extensió HBO Watch Party. Per a això, tot el que heu de fer és iniciar sessió al compte HBO i cercar i reproduir el vídeo. Després d'això, hauríeu de fer clic a la icona de l'extensió HBO Party. A continuació, seleccioneu l'opció \"Comença la festa\" per crear l'enllaç de la vostra festa virtual. A més, comparteix aquest enllaç amb amics i familiars per convidar-los a la festa d'HBO."
+        },
+        {
+          "id": "5",
+          "question": "Uneix-te a una festa de rellotge d'HBO",
+          "answer": "Pots unir-te a la festa d'HBO amb l'enllaç de la festa. Per a això, heu d'iniciar sessió al compte d'HBO i fer clic a l'enllaç. A més, heu d'instal·lar l'extensió HBO Party si encara no ho heu fet. Ara, se us redirigirà a la festa."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Característiques destacades de HBO Watch Party",
+      "subHeading": "L'extensió us proporciona accés a diverses funcions úniques i al·lucinants, com ara:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Funció de personalització",
+          "answer": "La funció de personalització de l'extensió us permet triar i configurar el nom d'usuari i la icona d'usuari que trieu. HBO Watch Party Extension també té diversos avatars simpàtics i divertits que podeu configurar com a icona del vostre perfil. A més, també podeu posar el vostre àlies com a nom d'usuari. El vostre nom d'usuari i la vostra icona seran visibles per a la gent."
+        },
+        {
+          "id": "t2",
+          "question": "Xateja amb els amics",
+          "answer": "També podeu xatejar amb els altres membres del grup virtual mentre emeteu la reproducció. Per tant, afegirà més diversió a la vostra festa de rellotge."
+        },
+        {
+          "id": "t3",
+          "question": "Admet diferents dispositius",
+          "answer": "L'extensió HBO Watch Party és compatible amb tots els ordinadors portàtils o ordinadors macOS, Windows i Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Disponibilitat mundial",
+          "answer": "L'extensió està disponible a tot el món. Per tant, podeu gaudir mirant les vostres pel·lícules i programes preferits de HBO juntament amb els vostres amics o familiars en qualsevol moment i en qualsevol lloc."
+        },
+        {
+          "id": "t5",
+          "question": "Transmissió en HD en sincronització",
+          "answer": "Mireu els vostres programes de televisió, pel·lícules i qualsevol vídeo preferits a HBO sincronitzats amb les vostres persones preferides també en qualitat HD i amb una memòria intermèdia ràpida."
+        },
+        {
+          "id": "T 6",
+          "question": "Controla el títol de la teva festa de rellotge",
+          "answer": "HBO Watch Party permet a l'amfitrió mantenir el control de la festa activant el botó \"Només tinc el control\". Els permet controlar la configuració de reproducció del vídeo."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Preguntes freqüents",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Què puc fer amb l'extensió HBO Max Watch Party?",
+        "answer": "Si sou subscriptor d'HBO, podeu gaudir de veure els vostres programes de televisió, sèries web, pel·lícules i molt més a HBO sincronitzats amb les vostres persones preferides en línia. A més, l'extensió també us permet xatejar amb els vostres amics mentre mireu pel·lícules."
+      },
+      {
+        "id": "f2",
+        "question": "Quantes persones poden unir-se a una sola HBO Watch Party?",
+        "answer": "No hi ha cap limitació en el nombre de persones que poden unir-se a la festa virtual. Per tant, podeu afegir tants membres com vulgueu."
+      },
+      {
+        "id": "f3",
+        "question": "L'extensió també té una funció de xat?",
+        "answer": "Sí, té la funció de xat, que permet xatejar mentre es reprodueix amb els altres participants."
+      },
+      {
+        "id": "f4",
+        "question": "Quins són els requisits previs per instal·lar l'extensió HBO Watch Party?",
+        "answer": "Per configurar HBO Watch Party:-",
+        "p1": "1. Lloc web oficial d'HBO: visiteu la secció d'assistència d'HBO per obtenir informació i extensions de la festa de visualització.",
+        "p2": "2. Botiga d'extensions: comproveu l'extensió \"HBO Watch Party\" a Chrome Web Store o als complements de Mozilla.",
+        "p3": "3. Requisits del sistema: Verifiqueu els requisits del sistema i del navegador.",
+        "p4": "4. Instal·leu l'extensió: feu clic a \"Afegeix a Chrome\" o l'equivalent a la botiga d'extensions.",
+        "p5": "5. Inici de sessió: inicieu sessió al vostre compte HBO després de la instal·lació.",
+        "p6": "6. Convida: inicia i convida els participants segons les instruccions de la plataforma."
+      },
+      {
+        "id": "f5",
+        "question": "Quin és el mètode per crear una festa virtual amb l'extensió HBO Watch Party?",
+        "answer": "Per crear una festa de visualització d'HBO:",
+        "p1": "1. Visiteu el lloc web oficial d'HBO o els canals de xarxes socials per obtenir anuncis sobre la funció Watch Party.",
+        "p2": "2. Cerqueu \"HBO Watch Party\" a la botiga d'extensions del vostre navegador (p. ex., Chrome Web Store). Si està disponible, instal·leu l'extensió.",
+        "p3": "3. Inicieu sessió al vostre compte d'HBO després d'instal·lar l'extensió per sincronitzar contingut i festes.",
+        "P4": "4. Busqueu l'opció per iniciar una Watch Party, seleccionar contingut i convidar amics a unir-se.",
+        "p5": "5. Utilitzeu eines integrades per convidar amics mitjançant un enllaç, un codi o una llista de contactes.",
+        "p6": "6. Comenceu a mirar un cop els participants s'uneixin; la reproducció normalment es sincronitza.",
+        "p7": "7. Utilitzeu la funció de xat o comentari per a la comunicació i les reaccions en temps real."
+      },
+      {
+        "id": "f6",
+        "question": "Com unir-se a la festa del rellotge?",
+        "answer": "Seguiu aquests passos per unir-vos a la festa: -",
+        "p1": "1. Seleccioneu un servei de reproducció en temps real (p. ex., Netflix, Hulu) o una plataforma de xarxes socials amb funcions de rellotge.",
+        "p2": "2. Cerqueu \"Watch Party\" o funcions similars. Instal·leu les extensions del navegador o les aplicacions necessàries si cal.",
+        "p3": "3. Comparteix un enllaç, genera un codi o utilitza la teva llista de contactes per convidar amics.",
+        "p4": "4 . Un cop els participants s'uneixen, l'amfitrió comença el vídeo i tothom el mira simultàniament.",
+        "p5": "5. Participa en debats en temps real mitjançant la funció de xat o comentari de la plataforma.",
+        "p6": "6. Compliu els requisits específics de la plataforma, com ara extensions del navegador o instal·lacions d'aplicacions."
+      },
+      {
+        "id": "f7",
+        "question": "És necessari que tots els membres del partit de vigilància estiguin al mateix país?",
+        "answer": "Sí, si algun membre o participant de la mateixa festa virtual viu en un país diferent, pot utilitzar una VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Fes-nos-ho saber.",
+    "anyQuestions": "Tens preguntes? Visiteu la nostra pàgina d'assistència",
+    "blog": "Bloc",
+    "privacy": "Privadesa",
+    "popularSearches": "Cerques populars",
+    "disclaimer": "Exempció de responsabilitat",
+    "disclaimerContent": "HBO és una marca comercial de Home Box Office, Inc.. Aquest lloc web",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Veure Party HBO Max",
+      "HBO Go Watch Party",
+      "Festa HBO",
+      "Festa HBO Max"
+    ]
+  }
+}

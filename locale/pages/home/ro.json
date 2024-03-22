@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Adaugă la", "free": "Este gratis" },
+    "navBarHeading": "este acum disponibil pe Google Chrome, Microsoft Edge și Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Urmărește HBO Max cu prietenii tăi",
+      "html": "HBO Watch Party vă permite să redați în flux videoclipuri HBO în sincronizare cu câte persoane doriți. Extensia este disponibilă pentru toți abonații HBO. Acesta asigură sincronizarea audio și video perfectă a tuturor participanților la <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . În plus, puteți, de asemenea, să discutați cu alți participanți într-o bară laterală în timp ce transmiteți videoclipul împreună!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Cum să utilizați HBO Max Watch Party",
+      "subHeading": "Vă rugăm să urmați pașii enumerați mai jos pentru a începe cu extensia HBO Watch Party: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instalați și fixați extensia pe bara de instrumente",
+          "answer": "Vă rugăm să instalați extensia prin <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Extensia Chrome</u></a >. Rețineți că extensia este compatibilă numai cu dispozitivele Chromebook, Windows sau macOS. În plus, ar trebui să țineți cont de faptul că puteți descărca extensia prin browserele Google Chrome sau Microsoft Edge. Odată ce ați instalat extensia, ar trebui să o fixați pe bara de instrumente."
+        },
+        {
+          "id": "2",
+          "question": "Conectare HBO",
+          "answer": "Trebuie să aveți un abonament HBO pentru a utiliza extensia HBO Party. Mai mult, trebuie să vă conectați la contul dvs. HBO pentru a crea sau a vă alătura petrecerii virtuale."
+        },
+        {
+          "id": "3",
+          "question": "Căutați și redați videoclipul",
+          "answer": "După conectarea la HBO, ar trebui să căutați o emisiune TV, un serial web, un film sau orice alt videoclip pe care doriți să-l transmiteți în flux în HBO Party. În plus, trebuie să redați videoclipul pentru a crea o petrecere."
+        },
+        {
+          "id": "4",
+          "question": "Găzduiește sau creează o petrecere virtuală",
+          "answer": "Puteți crea sau găzdui petrecerea virtuală folosind extensia HBO Watch Party. Pentru aceasta, tot ce trebuie să faceți este să vă conectați la contul HBO și să căutați și să redați videoclipul. După aceasta, ar trebui să faceți clic pe pictograma extensiei HBO Party. Apoi, selectați opțiunea „Începeți petrecerea” pentru a crea legătura cu petrecerea virtuală. În plus, vă rugăm să distribuiți acest link prietenilor și familiei pentru a-i invita la petrecerea HBO."
+        },
+        {
+          "id": "5",
+          "question": "Alăturați-vă unei petreceri de vizionare HBO",
+          "answer": "Vă puteți alătura petrecerii HBO cu linkul pentru petrecere. Pentru aceasta, trebuie să vă conectați la contul HBO și să faceți clic pe link. În plus, trebuie să instalați extensia HBO Party dacă nu ați făcut-o deja. Acum, vei fi redirecționat către petrecere."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Caracteristici remarcabile ale HBO Watch Party",
+      "subHeading": "Extensia vă oferă acces la diverse funcții unice și uimitoare, cum ar fi:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Caracteristica de personalizare",
+          "answer": "Caracteristica de personalizare a extensiei vă permite să alegeți și să setați numele de utilizator și pictograma de utilizator la alegere. HBO Watch Party Extension are, de asemenea, diverse avatare drăguțe și amuzante pe care le puteți seta ca pictogramă de profil. În plus, puteți pune și pseudonimul ca nume de utilizator. Numele de utilizator și pictograma dvs. vor fi vizibile pentru oameni."
+        },
+        {
+          "id": "t2",
+          "question": "Discutați cu prietenii",
+          "answer": "De asemenea, puteți discuta cu ceilalți membri virtuali ai partidului în timp ce transmiteți în flux. Prin urmare, va adăuga mai multă distracție petrecerii tale de ceas."
+        },
+        {
+          "id": "t3",
+          "question": "Suporta diferite dispozitive",
+          "answer": "Extensia HBO Watch Party este compatibilă cu toate laptopurile sau PC-urile macOS, Windows și Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Disponibilitate la nivel mondial",
+          "answer": "Extensia este disponibilă în toată lumea. Prin urmare, vă puteți bucura să vizionați filmele și emisiunile HBO preferate împreună cu prietenii sau familia, oricând și oriunde."
+        },
+        {
+          "id": "t5",
+          "question": "Streaming HD în sincronizare",
+          "answer": "Urmărește emisiunile TV, filmele, orice videoclip preferat de pe HBO, sincronizat cu oamenii tăi preferați și la calitate HD și cu tamponare rapidă."
+        },
+        {
+          "id": "t6",
+          "question": "Controlează-ți titlul petrecerii de ceas",
+          "answer": "HBO Watch Party permite gazdei să păstreze controlul asupra petrecerii, activând butonul „Numai eu am controlul”. Le permite să controleze setările de redare ale videoclipului."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "întrebări frecvente",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ce pot face cu extensia HBO Max Watch Party?",
+        "answer": "Dacă sunteți abonat HBO, atunci vă puteți bucura să vizionați emisiunile TV, serialele web, filme și multe altele preferate la HBO, în sincronizare cu oamenii dvs. preferați online. În plus, extensia vă permite și să discutați cu prietenii în timp ce vizionați filme."
+      },
+      {
+        "id": "f2",
+        "question": "Câte persoane se pot alătura unei singure petreceri de vizionare HBO?",
+        "answer": "Nu există o limitare a numărului de persoane care se pot alătura petrecerii virtuale. Prin urmare, puteți adăuga cât de mulți membri doriți."
+      },
+      {
+        "id": "f3",
+        "question": "Extensia are și o funcție de chat?",
+        "answer": "Da, are funcția de chat, care vă permite să discutați în timp ce transmiteți în flux cu ceilalți participanți."
+      },
+      {
+        "id": "f4",
+        "question": "Care sunt cerințele prealabile pentru a instala extensia HBO Watch Party?",
+        "answer": "Pentru a configura HBO Watch Party:-",
+        "p1": "1. Site-ul web oficial al HBO: Vizitați secțiunea de asistență a HBO pentru informații și extensii despre petrecerea de vizionare.",
+        "p2": "2. Magazin de extensii: verificați Magazinul web Chrome sau suplimentele Mozilla pentru extensia „HBO Watch Party”.",
+        "p3": "3. Cerințe de sistem: Verificați cerințele de sistem și browser.",
+        "p4": "4. Instalați extensia: faceți clic pe „Adăugați la Chrome” sau echivalent în magazinul de extensii.",
+        "p5": "5. Autentificare: Conectați-vă la contul dvs. HBO după instalare.",
+        "p6": "6. Invitați: inițiați și invitați participanții conform instrucțiunilor platformei."
+      },
+      {
+        "id": "f5",
+        "question": "Care este metoda de a crea o petrecere virtuală folosind extensia HBO Watch Party?",
+        "answer": "Pentru a crea o petrecere de vizionare HBO:-",
+        "p1": "1. Vizitați site-ul web oficial al HBO sau canalele de socializare pentru anunțuri despre funcția Watch Party.",
+        "p2": "2. Căutați „HBO Watch Party” în magazinul de extensii al browserului dvs. (de exemplu, Chrome Web Store). Dacă este disponibilă, instalați extensia.",
+        "p3": "3. Conectați-vă la contul dvs. HBO după instalarea extensiei pentru a sincroniza conținutul și petrecerile.",
+        "P4": "4. Căutați opțiunea de a începe o petrecere de vizionare, de a selecta conținut și de a invita prietenii să se alăture.",
+        "p5": "5. Utilizați instrumente încorporate pentru a invita prietenii prin link, cod sau listă de contacte.",
+        "p6": "6. Începeți să vizionați odată ce participanții se alătură; redarea este de obicei sincronizată.",
+        "p7": "7. Utilizați funcția de chat sau de comentarii pentru comunicare și reacții în timp real."
+      },
+      {
+        "id": "f6",
+        "question": "Cum să participi la petrecerea ceasului?",
+        "answer": "Urmați acești pași pentru a vă alătura petrecerii: -",
+        "p1": "1. Selectați un serviciu de streaming (de exemplu, Netflix, Hulu) sau o platformă de socializare cu funcții pentru petrecerea de vizionare.",
+        "p2": "2. Căutați „Watch Party” sau funcții similare. Instalați extensiile de browser sau aplicațiile necesare, dacă este necesar.",
+        "p3": "3. Partajați un link, generați un cod sau utilizați lista de contacte pentru a invita prieteni.",
+        "p4": "4 . Odată ce participanții se alătură, gazda pornește videoclipul și toată lumea vizionează simultan.",
+        "p5": "5. Implică-te în discuții în timp real folosind chatul sau caracteristica de comentarii a platformei.",
+        "p6": "6. Respectați orice cerințe specifice platformei, cum ar fi extensiile de browser sau instalările de aplicații."
+      },
+      {
+        "id": "f7",
+        "question": "Este necesar ca toți membrii partidului de veghe să fie în aceeași țară?",
+        "answer": "Da, dacă vreun membru sau participant la aceeași petrecere virtuală locuiește într-o țară diferită, poate folosi un VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Anunță-ne.",
+    "anyQuestions": "Ai întrebări? Vizitați pagina noastră de asistență",
+    "blog": "Blog",
+    "privacy": "Confidențialitate",
+    "popularSearches": "Căutări populare",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "HBO este o marcă comercială a Home Box Office, Inc.. Acest site web",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Urmărește Party HBO Max",
+      "HBO Go Watch Party",
+      "Petrecere HBO",
+      "Petrecere HBO Max"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tambah Pada", "free": "Ianya Percuma" },
+    "navBarHeading": "kini tersedia di Google Chrome, Microsoft Edge dan Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Tonton HBO Max bersama Rakan Anda",
+      "html": "HBO Watch Party membolehkan anda menstrim video HBO secara serentak dengan seberapa ramai orang yang anda mahu. Sambungan ini tersedia untuk semua pelanggan HBO. Ia memastikan penyegerakan audio dan video yang sempurna bagi semua peserta <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Tambahan pula, anda juga boleh bersembang dengan peserta lain dalam bar sisi sambil menstrim video bersama-sama!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Cara menggunakan HBO Max Watch Party",
+      "subHeading": "Sila ikuti langkah yang disenaraikan di bawah untuk bermula dengan Sambungan Parti Tontonan HBO: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Pasang dan sematkan sambungan pada bar alat",
+          "answer": "Sila pasang sambungan dengan <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Sambungan Chrome</u></a >. Sila ambil perhatian bahawa sambungan hanya serasi dengan peranti Chromebook, Windows atau macOS. Di samping itu, anda juga harus ingat bahawa anda boleh memuat turun sambungan melalui pelayar Google Chrome atau Microsoft Edge. Setelah anda memasang sambungan, anda harus menyematkannya pada bar alat."
+        },
+        {
+          "id": "2",
+          "question": "Log Masuk HBO",
+          "answer": "Anda mesti mempunyai langganan HBO untuk menggunakan sambungan HBO Party. Selain itu, anda perlu log masuk ke akaun HBO anda untuk membuat atau menyertai parti maya."
+        },
+        {
+          "id": "3",
+          "question": "Cari dan mainkan video",
+          "answer": "Selepas HBO log masuk, anda harus mencari rancangan TV, siri web, filem atau mana-mana video lain yang anda mahu strim dalam Parti HBO anda. Tambahan pula, anda perlu memainkan video untuk membuat parti."
+        },
+        {
+          "id": "4",
+          "question": "Hos atau Buat Parti Maya",
+          "answer": "Anda boleh membuat atau mengehoskan parti maya menggunakan sambungan HBO Watch Party. Untuk ini, anda hanya perlu log masuk ke akaun HBO dan cari serta mainkan video tersebut. Selepas ini, anda harus mengklik pada ikon sambungan Parti HBO. Kemudian, pilih pilihan \"Mulakan Parti\" untuk membuat pautan parti maya anda. Selain itu, sila kongsi pautan ini dengan rakan dan keluarga untuk menjemput mereka ke Parti HBO."
+        },
+        {
+          "id": "5",
+          "question": "Sertai Pesta Tontonan HBO",
+          "answer": "Anda boleh menyertai parti HBO dengan pautan parti. Untuk ini, anda perlu log masuk ke akaun HBO dan klik pada pautan. Tambahan pula, anda perlu memasang sambungan HBO Party jika anda belum melakukannya. Sekarang, anda akan diarahkan ke parti."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Ciri-ciri cemerlang HBO Watch Party",
+      "subHeading": "Sambungan ini memberi anda akses kepada pelbagai ciri unik dan menarik, seperti:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Ciri penyesuaian",
+          "answer": "Ciri penyesuaian sambungan membolehkan anda memilih dan menetapkan nama pengguna dan ikon pengguna pilihan anda. Sambungan Parti Tontonan HBO juga mempunyai pelbagai avatar comel dan lucu yang boleh anda tetapkan sebagai ikon profil anda. Selain itu, anda juga boleh meletakkan nama panggilan anda sebagai nama pengguna anda. Nama pengguna dan ikon anda akan kelihatan kepada orang ramai."
+        },
+        {
+          "id": "t2",
+          "question": "Berbual dengan Rakan",
+          "answer": "Anda juga boleh bersembang dengan ahli parti maya yang lain semasa penstriman. Oleh itu, ia akan menambahkan lagi keseronokan kepada pesta jam tangan anda."
+        },
+        {
+          "id": "t3",
+          "question": "Menyokong peranti yang berbeza",
+          "answer": "Sambungan parti jam tangan HBO serasi dengan semua komputer riba atau PC macOS, Windows dan Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Ketersediaan di seluruh dunia",
+          "answer": "Sambungan tersedia di seluruh dunia. Oleh itu, anda boleh menikmati menonton filem dan rancangan HBO kegemaran anda bersama rakan atau keluarga anda pada bila-bila masa, di mana sahaja."
+        },
+        {
+          "id": "t5",
+          "question": "Penstriman HD dalam Penyegerakan",
+          "answer": "Tonton rancangan TV kegemaran anda, filem, mana-mana video di HBO selari dengan orang kegemaran anda yang juga dalam kualiti HD dan dengan penimbalan pantas."
+        },
+        {
+          "id": "t6",
+          "question": "Kawal tajuk pesta jam tangan anda",
+          "answer": "HBO Watch Party membenarkan hos mengawal parti dengan mendayakan butang \"Hanya saya ada kawalan\". Ia membolehkan mereka mengawal tetapan main video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Soalan Lazim",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Apakah yang boleh saya lakukan dengan sambungan HBO Max Watch Party?",
+        "answer": "Jika anda seorang pelanggan HBO, maka anda boleh menikmati menonton rancangan TV kegemaran anda, siri web, filem dan banyak lagi di HBO selari dengan orang kegemaran anda dalam talian. Tambahan pula, sambungan ini juga membolehkan anda bersembang dengan rakan anda semasa menonton filem."
+      },
+      {
+        "id": "f2",
+        "question": "Berapa ramai orang boleh menyertai satu Parti Tontonan HBO?",
+        "answer": "Tiada had bilangan orang yang boleh menyertai parti maya. Oleh itu, anda boleh menambah seberapa ramai ahli yang anda mahu."
+      },
+      {
+        "id": "f3",
+        "question": "Adakah sambungan juga mempunyai ciri sembang?",
+        "answer": "Ya, ia mempunyai fungsi sembang, yang membolehkan anda berbual sambil menstrim dengan peserta lain."
+      },
+      {
+        "id": "f4",
+        "question": "Apakah pra-keperluan untuk memasang sambungan HBO Watch Party?",
+        "answer": "Untuk menyediakan HBO Watch Party:-",
+        "p1": "1. Laman Web Rasmi HBO: Lawati bahagian sokongan HBO untuk mendapatkan maklumat dan sambungan pihak menonton.",
+        "p2": "2. Kedai Sambungan: Semak Kedai Web Chrome atau Alat tambah Mozilla untuk mendapatkan sambungan \"HBO watch party\".",
+        "p3": "3. Keperluan Sistem: Sahkan keperluan sistem dan pelayar.",
+        "p4": "4. Pasang Sambungan: Klik 'Tambah pada Chrome' atau yang setara dalam stor sambungan.",
+        "p5": "5. Log masuk: Log masuk ke akaun HBO anda selepas pemasangan.",
+        "p6": "6. Jemput: Mulakan dan jemput peserta mengikut arahan platform."
+      },
+      {
+        "id": "f5",
+        "question": "Apakah kaedah untuk mencipta parti maya menggunakan sambungan HBO Watch Party?",
+        "answer": "Untuk membuat Pesta Tontonan HBO:-",
+        "p1": "1. Lawati laman web rasmi HBO atau saluran media sosial untuk pengumuman tentang ciri Watch Party.",
+        "p2": "2. Cari 'HBO Watch Party' di kedai sambungan penyemak imbas anda (cth., Kedai Web Chrome). Jika tersedia, pasang sambungan.",
+        "p3": "3. Log masuk ke akaun HBO anda selepas memasang sambungan untuk menyegerakkan kandungan dan parti.",
+        "P4": "4. Cari pilihan untuk memulakan Pesta Tonton, pilih kandungan dan jemput rakan untuk menyertai.",
+        "p5": "5. Gunakan alatan terbina dalam untuk menjemput rakan melalui pautan, kod atau senarai kenalan.",
+        "p6": "6. Mula menonton sebaik sahaja peserta menyertai; main balik biasanya disegerakkan.",
+        "p7": "7. Gunakan ciri sembang atau komen untuk komunikasi dan reaksi masa nyata."
+      },
+      {
+        "id": "f6",
+        "question": "Bagaimana untuk menyertai pesta menonton?",
+        "answer": "Ikuti langkah-langkah ini untuk menyertai parti:-",
+        "p1": "1. Pilih perkhidmatan penstriman (cth., Netflix, Hulu) atau platform media sosial dengan ciri pesta tonton.",
+        "p2": "2. Cari 'Watch Party' atau ciri yang serupa. Pasang sambungan atau apl penyemak imbas yang diperlukan jika perlu.",
+        "p3": "3. Kongsi pautan, jana kod atau gunakan senarai kenalan anda untuk menjemput rakan.",
+        "p4": "4 . Setelah peserta menyertai, hos memulakan video dan semua orang menonton secara serentak.",
+        "p5": "5. Terlibat dalam perbincangan masa nyata menggunakan ciri sembang atau ulasan platform.",
+        "p6": "6. Patuhi sebarang keperluan khusus platform, seperti sambungan penyemak imbas atau pemasangan apl."
+      },
+      {
+        "id": "f7",
+        "question": "Adakah perlu untuk semua ahli parti pemerhati berada di negara yang sama?",
+        "answer": "Ya, jika mana-mana ahli atau peserta parti maya yang sama tinggal di negara lain, mereka boleh menggunakan VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Beritahu kami.",
+    "anyQuestions": "Ada soalan? Lawati halaman sokongan kami",
+    "blog": "Blog",
+    "privacy": "Privasi",
+    "popularSearches": "Carian Popular",
+    "disclaimer": "Penafian",
+    "disclaimerContent": "HBO ialah tanda dagangan Home Box Office, Inc.. Laman web ini",
+    "footerTags": [
+      "Pesta Tontonan HBO Max",
+      "Pesta Tontonan HBO",
+      "Tonton Party HBO Max",
+      "HBO Go Watch Party",
+      "Parti HBO",
+      "Parti HBO Max"
+    ]
+  }
+}

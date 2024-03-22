@@ -3,7 +3,7 @@ import Link from 'next/link'
 import siteConfig from '../siteConfig'
 import InstallButton from '../components/InstallButton'
 
-function Navbar() {
+function Navbar({ installBtn }) {
   return (
     <div className="nav-container flex w-screen items-center justify-evenly p-3">
       <div className="second  m-auto w-[80%] items-center justify-between md:flex">
@@ -13,7 +13,7 @@ function Navbar() {
           </div>
         </Link>
         <div className="ml-0 mt-4  md:m-0 lg:m-0 xl:m-0">
-          <InstallButton />
+          <InstallButton installBtn={installBtn} />
         </div>
       </div>
     </div>

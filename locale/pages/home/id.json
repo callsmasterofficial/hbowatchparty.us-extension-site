@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tambahkan", "free": "Ini gratis" },
+    "navBarHeading": "sekarang tersedia di Google Chrome, Microsoft Edge dan Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Tonton HBO Max bersama Teman Anda",
+      "html": "HBO Watch Party memungkinkan Anda melakukan streaming video HBO secara sinkron dengan sebanyak mungkin orang yang Anda inginkan. Ekstensi ini tersedia untuk semua pelanggan HBO. Hal ini memastikan sinkronisasi audio dan video yang sempurna untuk semua peserta <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Selain itu, Anda juga dapat mengobrol dengan peserta lain di sidebar sambil melakukan streaming video bersama!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Cara menggunakan Pesta Tontonan HBO Max",
+      "subHeading": "Silakan ikuti langkah-langkah yang tercantum di bawah ini untuk memulai Ekstensi HBO Watch Party: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instal dan sematkan ekstensi ke toolbar",
+          "answer": "Silakan instal ekstensi dengan <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> ekstensi Chrome</u></a >. Harap diperhatikan bahwa ekstensi ini hanya kompatibel dengan perangkat Chromebook, Windows, atau macOS. Selain itu, Anda juga harus ingat bahwa Anda dapat mengunduh ekstensi melalui browser Google Chrome atau Microsoft Edge. Setelah Anda memasang ekstensi, Anda harus menyematkannya ke bilah alat."
+        },
+        {
+          "id": "2",
+          "question": "Masuk HBO",
+          "answer": "Anda harus berlangganan HBO untuk menggunakan ekstensi HBO Party. Selain itu, Anda harus masuk ke akun HBO Anda untuk membuat atau bergabung dengan pesta virtual."
+        },
+        {
+          "id": "3",
+          "question": "Cari dan putar videonya",
+          "answer": "Setelah HBO masuk, Anda harus mencari acara TV, serial web, film, atau video lain yang ingin Anda streaming di Pesta HBO Anda. Selanjutnya, Anda perlu memutar video untuk membuat pesta."
+        },
+        {
+          "id": "4",
+          "question": "Selenggarakan atau Buat Pesta Virtual",
+          "answer": "Anda dapat membuat atau menyelenggarakan pesta virtual menggunakan ekstensi HBO Watch Party. Untuk ini, yang perlu Anda lakukan hanyalah masuk ke akun HBO dan mencari serta memutar videonya. Setelah ini, Anda harus mengklik ikon ekstensi HBO Party. Kemudian, pilih opsi “Mulai Pesta” untuk membuat tautan pesta virtual Anda. Selanjutnya, silakan bagikan tautan ini kepada teman dan keluarga untuk mengundang mereka ke Pesta HBO."
+        },
+        {
+          "id": "5",
+          "question": "Bergabunglah dengan Pesta Tontonan HBO",
+          "answer": "Anda dapat bergabung dengan pesta HBO dengan tautan pesta. Untuk melakukan ini, Anda perlu masuk ke akun HBO dan mengklik tautannya. Selanjutnya, Anda harus menginstal ekstensi HBO Party jika Anda belum melakukannya. Sekarang, Anda akan diarahkan ke pesta."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Fitur luar biasa dari HBO Watch Party",
+      "subHeading": "Ekstensi ini memberi Anda akses ke berbagai fitur unik dan menakjubkan, seperti:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Fitur penyesuaian",
+          "answer": "Fitur penyesuaian ekstensi memungkinkan Anda memilih dan mengatur nama pengguna dan ikon pengguna pilihan Anda. HBO Watch Party Extension juga memiliki berbagai avatar lucu dan lucu yang bisa Anda jadikan sebagai ikon profil Anda. Selain itu, Anda juga dapat memasukkan nama panggilan Anda sebagai nama pengguna Anda. Nama pengguna dan ikon Anda akan terlihat oleh orang-orang."
+        },
+        {
+          "id": "t2",
+          "question": "Mengobrol dengan Teman",
+          "answer": "Anda juga dapat mengobrol dengan anggota partai virtual lainnya sambil streaming. Oleh karena itu, ini akan menambah kesenangan pada pesta menonton Anda."
+        },
+        {
+          "id": "t3",
+          "question": "Mendukung perangkat yang berbeda",
+          "answer": "Ekstensi pesta jam tangan HBO kompatibel dengan semua laptop atau PC macOS, Windows, dan Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Ketersediaan di seluruh dunia",
+          "answer": "Ekstensi ini tersedia di seluruh dunia. Oleh karena itu, Anda dapat menikmati menonton film dan acara HBO favorit Anda bersama teman atau keluarga kapan saja, di mana saja."
+        },
+        {
+          "id": "t5",
+          "question": "Streaming HD dalam Sinkronisasi",
+          "answer": "Tonton acara TV favorit Anda, film, video apa pun di HBO yang disinkronkan dengan orang-orang favorit Anda juga dalam kualitas HD dan dengan buffering cepat."
+        },
+        {
+          "id": "t6",
+          "question": "Kontrol judul pesta jam tangan Anda",
+          "answer": "HBO Watch Party memungkinkan tuan rumah tetap mengontrol pesta dengan mengaktifkan tombol “Hanya saya yang memiliki kendali”. Hal ini memungkinkan mereka untuk mengontrol pengaturan pemutaran video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Apa yang dapat saya lakukan dengan ekstensi HBO Max Watch Party?",
+        "answer": "Jika Anda pelanggan HBO, Anda dapat menikmati menonton acara TV, serial web, film favorit Anda, dan banyak lagi di HBO yang disinkronkan dengan orang-orang favorit Anda secara online. Selain itu, ekstensi ini juga memungkinkan Anda mengobrol dengan teman sambil menonton film."
+      },
+      {
+        "id": "f2",
+        "question": "Berapa banyak orang yang dapat bergabung dalam satu Pesta Tontonan HBO?",
+        "answer": "Tidak ada batasan jumlah orang yang dapat bergabung dalam pesta virtual. Oleh karena itu, Anda dapat menambahkan anggota sebanyak yang Anda inginkan."
+      },
+      {
+        "id": "f3",
+        "question": "Apakah ekstensi tersebut juga memiliki fitur chat?",
+        "answer": "Ya, ia memiliki fungsi obrolan, yang memungkinkan Anda mengobrol sambil streaming dengan peserta lain."
+      },
+      {
+        "id": "f4",
+        "question": "Apa saja prasyarat untuk menginstal ekstensi HBO Watch Party?",
+        "answer": "Untuk mengatur Pesta Tontonan HBO:-",
+        "p1": "1. Situs Web Resmi HBO: Kunjungi bagian dukungan HBO untuk informasi dan ekstensi pesta tontonan.",
+        "p2": "2. Toko Ekstensi: Periksa Toko Web Chrome atau Pengaya Mozilla untuk ekstensi \"HBO watch party\".",
+        "p3": "3. Persyaratan Sistem: Verifikasi persyaratan sistem dan browser.",
+        "p4": "4. Instal Ekstensi: Klik 'Tambahkan ke Chrome' atau yang setara di toko ekstensi.",
+        "p5": "5. Masuk: Masuk ke akun HBO Anda setelah instalasi.",
+        "p6": "6. Undang: Inisiasi dan undang peserta sesuai instruksi platform."
+      },
+      {
+        "id": "f5",
+        "question": "Bagaimana cara membuat pesta virtual menggunakan ekstensi HBO Watch Party?",
+        "answer": "Untuk membuat Pesta Tontonan HBO:-",
+        "p1": "1. Kunjungi situs resmi HBO atau saluran media sosial untuk pengumuman tentang fitur Watch Party.",
+        "p2": "2. Telusuri 'HBO Watch Party' di toko ekstensi browser Anda (misalnya, Toko Web Chrome). Jika tersedia, instal ekstensi.",
+        "p3": "3. Masuk ke akun HBO Anda setelah menginstal ekstensi untuk menyinkronkan konten dan pesta.",
+        "P4": "4. Cari opsi untuk memulai Watch Party, pilih konten, dan undang teman untuk bergabung.",
+        "p5": "5. Gunakan alat bawaan untuk mengundang teman melalui tautan, kode, atau daftar kontak.",
+        "p6": "6. Mulailah menonton setelah peserta bergabung; pemutaran biasanya disinkronkan.",
+        "p7": "7. Manfaatkan fitur obrolan atau komentar untuk komunikasi dan reaksi waktu nyata."
+      },
+      {
+        "id": "f6",
+        "question": "Bagaimana cara bergabung dengan pesta menonton?",
+        "answer": "Ikuti langkah-langkah berikut untuk bergabung dengan pesta: –",
+        "p1": "1. Pilih layanan streaming (misalnya Netflix, Hulu) atau platform media sosial dengan fitur menonton pesta.",
+        "p2": "2. Cari 'Watch Party' atau fitur serupa. Instal ekstensi atau aplikasi browser yang diperlukan jika diperlukan.",
+        "p3": "3. Bagikan tautan, buat kode, atau gunakan daftar kontak Anda untuk mengundang teman.",
+        "p4": "4. Setelah peserta bergabung, pembawa acara memulai video, dan semua orang menonton secara bersamaan.",
+        "p5": "5. Terlibat dalam diskusi real-time menggunakan fitur obrolan atau komentar platform.",
+        "p6": "6. Patuhi persyaratan spesifik platform apa pun, seperti ekstensi browser atau pemasangan aplikasi."
+      },
+      {
+        "id": "f7",
+        "question": "Apakah semua anggota Watch Party harus berada di negara yang sama?",
+        "answer": "Ya, jika ada anggota atau peserta pesta virtual yang sama yang tinggal di negara berbeda, mereka dapat menggunakan VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Beritahu kami.",
+    "anyQuestions": "Ada pertanyaan? Kunjungi halaman dukungan kami",
+    "blog": "Blog",
+    "privacy": "Pribadi",
+    "popularSearches": "Pencarian Populer",
+    "disclaimer": "Penafian",
+    "disclaimerContent": "HBO adalah merek dagang dari Home Box Office, Inc. Situs web ini",
+    "footerTags": [
+      "Pesta Tontonan HBO Max",
+      "Pesta Tontonan HBO",
+      "Tonton Pesta HBO Max",
+      "Pesta Tontonan HBO Go",
+      "Pesta HBO",
+      "Pesta HBO Max"
+    ]
+  }
+}

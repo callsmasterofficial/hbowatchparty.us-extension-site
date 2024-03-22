@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Hozzáadás", "free": "Ingyen van" },
+    "navBarHeading": "már elérhető a Google Chrome, a Microsoft Edge és a Mozilla Firefox böngészőn"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party – Nézze meg az HBO Max-ot barátaival",
+      "html": "Az HBO Watch Party lehetővé teszi az HBO-videók streamelését szinkronban annyi személlyel, amennyivel csak akarja. A bővítmény minden HBO-előfizető számára elérhető. Biztosítja az <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> résztvevőinek tökéletes hang- és képszinkronizálását . Ezenkívül cseveghet más résztvevőkkel az oldalsávon, miközben együtt streameli a videót!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Az HBO Max Watch Party használata",
+      "subHeading": "Kérjük, kövesse az alábbi lépéseket az HBO Watch Party bővítmény használatának megkezdéséhez: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Telepítse és rögzítse a bővítményt az eszköztárhoz",
+          "answer": "Kérjük, telepítse a bővítményt a <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome-bővítmény</u></a segítségével. >. Felhívjuk figyelmét, hogy a bővítmény csak Chromebook-, Windows- vagy macOS-eszközökkel kompatibilis. Ezen kívül azt is szem előtt kell tartania, hogy a bővítményt letöltheti a Google Chrome vagy a Microsoft Edge böngészőn keresztül. Miután telepítette a bővítményt, rögzítse azt az eszköztárhoz."
+        },
+        {
+          "id": "2",
+          "question": "HBO bejelentkezés",
+          "answer": "Az HBO Party bővítmény használatához HBO-előfizetéssel kell rendelkeznie. Ezenkívül be kell jelentkeznie az HBO-fiókjába, hogy létrehozza a virtuális párt, vagy csatlakozzon hozzá."
+        },
+        {
+          "id": "3",
+          "question": "Keresse meg és játssza le a videót",
+          "answer": "Az HBO bejelentkezés után keressen egy tévéműsort, websorozatot, filmet vagy bármely más videót, amelyet streamelni szeretne az HBO Party-n. Ezenkívül le kell játszani a videót egy parti létrehozásához."
+        },
+        {
+          "id": "4",
+          "question": "Szervezzen vagy hozzon létre egy virtuális partit",
+          "answer": "Létrehozhatja vagy házigazdája a virtuális partit az HBO Watch Party bővítmény használatával. Ehhez nem kell mást tennie, mint bejelentkezni az HBO-fiókba, megkeresni és lejátszani a videót. Ezt követően kattintson az HBO Party kiterjesztés ikonjára. Ezután válassza a „Parti indítása” lehetőséget a virtuális parti linkjének létrehozásához. Továbbá kérjük, ossza meg ezt a linket barátaival és családjával, hogy meghívja őket az HBO Party-ra."
+        },
+        {
+          "id": "5",
+          "question": "Csatlakozz egy HBO Watch Party-hoz",
+          "answer": "Az HBO bulijához a partylink segítségével csatlakozhatsz. Ehhez be kell jelentkeznie az HBO-fiókjába, és kattintson a hivatkozásra. Ezenkívül telepítenie kell az HBO Party bővítményt, ha még nem tette meg. Most át lesz irányítva a buliba."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Az HBO Watch Party kiemelkedő szolgáltatásai",
+      "subHeading": "A bővítmény hozzáférést biztosít számos egyedi és elképesztő funkcióhoz, mint például:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Testreszabási funkció",
+          "answer": "A bővítmény testreszabási funkciója lehetővé teszi az Ön által választott felhasználónév és felhasználói ikon kiválasztását és beállítását. Az HBO Watch Party Extension különféle aranyos és vicces avatarokkal is rendelkezik, amelyeket beállíthat profilikonjaként. Ezenkívül a becenevét is megadhatja felhasználónévként. Felhasználóneve és ikonja látható lesz az emberek számára."
+        },
+        {
+          "id": "t2",
+          "question": "Csevegés a barátokkal",
+          "answer": "Streamelés közben is cseveghet a virtuális párt többi tagjával. Ezért még szórakoztatóbbá teszi az órapartit."
+        },
+        {
+          "id": "t3",
+          "question": "Támogatja a különböző eszközöket",
+          "answer": "Az HBO watch party bővítmény kompatibilis az összes macOS, Windows és Chromebook laptoppal vagy PC-vel."
+        },
+        {
+          "id": "t4",
+          "question": "Világszerte elérhető",
+          "answer": "A kiterjesztés az egész világon elérhető. Ezért bármikor és bárhol élvezheti kedvenc HBO-filmjeit és műsorait barátaival vagy családjával együtt."
+        },
+        {
+          "id": "t5",
+          "question": "HD streaming szinkronban",
+          "answer": "Nézze meg kedvenc tévéműsorait, filmjeit és bármilyen videóját az HBO-n kedvenc embereivel szinkronban, HD minőségben és gyors puffereléssel."
+        },
+        {
+          "id": "t6",
+          "question": "Irányítsd az óraparti címét",
+          "answer": "Az HBO Watch Party lehetővé teszi, hogy a műsorvezető irányítsa a partit az „Csak én rendelkezem” gomb engedélyezésével. Lehetővé teszi számukra, hogy szabályozzák a videó lejátszási beállításait."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Gyakran Ismételt Kérdések",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mit tehetek az HBO Max Watch Party bővítménnyel?",
+        "answer": "Ha Ön HBO-előfizető, akkor kedvenc tévéműsorait, websorozatait, filmjeit és még sok mást nézheti az HBO-n, szinkronban kedvenc embereivel az interneten. Ezenkívül a bővítmény lehetővé teszi, hogy filmnézés közben csevegjen barátaival."
+      },
+      {
+        "id": "f2",
+        "question": "Hány ember csatlakozhat egyetlen HBO Watch Party-hoz?",
+        "answer": "Nincs korlátozva a virtuális bulihoz csatlakozók száma. Ezért annyi tagot vehet fel, amennyit csak akar."
+      },
+      {
+        "id": "f3",
+        "question": "A bővítménynek van chat funkciója is?",
+        "answer": "Igen, van benne csevegési funkció, amely lehetővé teszi a csevegést, miközben streamel a többi résztvevővel."
+      },
+      {
+        "id": "f4",
+        "question": "Mik az HBO Watch Party bővítmény telepítésének előfeltételei?",
+        "answer": "Az HBO Watch Party létrehozása: -",
+        "p1": "1. Hivatalos HBO-webhely: Látogasson el az HBO támogatási részébe a partikkal kapcsolatos információkért és a bővítményekért.",
+        "p2": "2. Bővítmények áruháza: Keresse meg a Chrome Internetes áruházban vagy a Mozilla-bővítményekben az „HBO watch party” bővítményt.",
+        "p3": "3. Rendszerkövetelmények: Ellenőrizze a rendszer- és böngészőkövetelményeket.",
+        "p4": "4. Bővítmény telepítése: Kattintson a \"Hozzáadás a Chrome-hoz\" vagy annak megfelelő elemre a bővítménytárban.",
+        "p5": "5. Bejelentkezés: A telepítés után jelentkezzen be HBO-fiókjába.",
+        "p6": "6. Meghívás: A platform utasításai szerint kezdeményezzen és hívjon meg résztvevőket."
+      },
+      {
+        "id": "f5",
+        "question": "Milyen módszerrel hozhat létre virtuális bulit az HBO Watch Party bővítmény használatával?",
+        "answer": "HBO Watch Party létrehozása: -",
+        "p1": "1. Látogassa meg az HBO hivatalos webhelyét vagy a közösségi média csatornáit a Watch Party funkcióval kapcsolatos bejelentésekért.",
+        "p2": "2. Keressen rá az „HBO Watch Party” kifejezésre a böngésző bővítményboltjában (pl. Chrome Internetes áruház). Ha elérhető, telepítse a bővítményt.",
+        "p3": "3. A bővítmény telepítése után jelentkezzen be HBO-fiókjába a tartalmak és a felek szinkronizálásához.",
+        "P4": "4. Keresse meg a Watch Party indításának lehetőségét, válasszon tartalmat, és hívjon meg ismerősöket a csatlakozásra.",
+        "p5": "5. A beépített eszközök segítségével hívjon meg barátokat linken, kódon vagy névjegyzéken keresztül.",
+        "p6": "6. Kezdje el a nézést, amint a résztvevők csatlakoznak; a lejátszás általában szinkronizált.",
+        "p7": "7. Használja a chat vagy megjegyzés funkciót a valós idejű kommunikációhoz és reakciókhoz."
+      },
+      {
+        "id": "f6",
+        "question": "Hogyan lehet csatlakozni az órapartihoz?",
+        "answer": "Kövesse az alábbi lépéseket a partihoz való csatlakozáshoz: -",
+        "p1": "1. Válasszon egy streaming szolgáltatást (pl. Netflix, Hulu) vagy egy közösségimédia-platformot partinézési funkciókkal.",
+        "p2": "2. Keresse a „Watch Party” vagy hasonló funkciókat. Szükség esetén telepítse a szükséges böngészőbővítményeket vagy alkalmazásokat.",
+        "p3": "3. Osszon meg egy linket, generáljon kódot, vagy használja a névjegyzékét barátok meghívásához.",
+        "p4": "4. Amint a résztvevők csatlakoznak, a műsorvezető elindítja a videót, és mindenki egyszerre nézi.",
+        "p5": "5. Vegyen részt valós idejű megbeszélésekben a platform chat vagy megjegyzés funkciójával.",
+        "p6": "6. Tartsa be a platform-specifikus követelményeket, például a böngészőbővítményeket vagy az alkalmazástelepítéseket."
+      },
+      {
+        "id": "f7",
+        "question": "Szükséges, hogy az őrpárt összes tagjának ugyanabban az országban legyen?",
+        "answer": "Igen, ha ugyanannak a virtuális pártnak bármely tagja vagy résztvevője egy másik országban él, használhat VPN-t."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Tudasd velünk.",
+    "anyQuestions": "Kérdései vannak? Látogassa meg támogatási oldalunkat",
+    "blog": "Blog",
+    "privacy": "Magánélet",
+    "popularSearches": "Népszerű keresések",
+    "disclaimer": "Jogi nyilatkozat",
+    "disclaimerContent": "Az HBO a Home Box Office, Inc. védjegye. Ez a webhely",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Nézd meg a Party HBO Max-ot",
+      "HBO Go Watch Party",
+      "HBO Party",
+      "HBO Max Party"
+    ]
+  }
+}

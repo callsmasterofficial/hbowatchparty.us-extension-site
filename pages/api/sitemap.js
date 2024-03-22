@@ -1,10 +1,12 @@
 import db from '../../config/db'
 import Blog from '../../models/blog'
+import { i18n } from '../../next.config'
 import siteConfig from '../../siteConfig'
 
 export default async function handler(req, res) {
   try {
     await db()
+    const { locales } = i18n
     const blogs = await Blog.find({ site: siteConfig.siteId }, '-_id slug')
     res.setHeader('Content-Type', 'text/xml')
 
@@ -14,26 +16,39 @@ export default async function handler(req, res) {
     // generate sitemap here
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
       <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-      <url>
-            <loc>${siteConfig.url}</loc>
-        </url>
-        <url>
-            <loc>${siteConfig.url}blog/</loc>
-        </url>
+        ${locales
+          .map(
+            (locale) =>
+              `<url>
+            <loc>${siteConfig.url}${locale}</loc>
+        </url>`
+          )
+          .join('')}
+        ${locales
+          .map(
+            (locale) =>
+              `<url>
+            <loc>${siteConfig.url}${locale}/blog</loc>
+        </url>`
+          )
+          .join('')}
       ${blogs
         .map(({ slug }) => {
-          return `
-                <url>
-                    <loc>${`${siteConfig.url}blog/${encodeURIComponent(
-                      slug
-                    )}`}</loc>
-                </url>
-            `
+          return locales
+            .map(
+              (locale) =>
+                `<url>
+                  <loc>${`${siteConfig.url}${locale}/blog/${encodeURIComponent(
+                    slug
+                  )}`}</loc>
+                </url>`
+            )
+            .join('')
         })
         .join('')}
       </urlset>`
     res.end(xml)
   } catch (err) {
-    res.send({ err })
+    res.send({ err: err.message })
   }
 }

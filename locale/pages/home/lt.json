@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pridėti prie", "free": "Nemokama" },
+    "navBarHeading": "dabar pasiekiama „Google Chrome“, „Microsoft Edge“ ir „Mozilla Firefox“."
+  },
+  "section": {
+    "first": {
+      "heading": "„HBO Watch Party“ – žiūrėkite „HBO Max“ su draugais",
+      "html": "„HBO Watch Party“ suteikia galimybę srautiniu būdu transliuoti HBO vaizdo įrašus sinchroniškai su tiek žmonių, kiek norite. Plėtinys prieinamas visiems HBO abonentams. Tai užtikrina puikų visų <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO žiūrėjimo vakarėlio</u></b></a> dalyvių garso ir vaizdo įrašų sinchronizavimą . Be to, kartu transliuodami vaizdo įrašą galite kalbėtis su kitais dalyviais šoninėje juostoje!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Kaip naudotis HBO Max Watch Party",
+      "subHeading": "Atlikite toliau nurodytus veiksmus, kad pradėtumėte naudoti HBO žiūrėjimo vakarėlio plėtinį: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Įdiekite ir prisekite plėtinį prie įrankių juostos",
+          "answer": "Įdiekite plėtinį naudodami <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> „Chrome“ plėtinį</u></a >. Atminkite, kad plėtinys suderinamas tik su „Chromebook“, „Windows“ arba „MacOS“ įrenginiais. Be to, taip pat turėtumėte nepamiršti, kad plėtinį galite atsisiųsti naudodami „Google Chrome“ arba „Microsoft Edge“ naršykles. Įdiegę plėtinį turėtumėte prisegti jį prie įrankių juostos."
+        },
+        {
+          "id": "2",
+          "question": "HBO prisijungimas",
+          "answer": "Norėdami naudoti HBO vakarėlio plėtinį, turite turėti HBO prenumeratą. Be to, norėdami sukurti virtualų vakarėlį arba prisijungti prie jo, turite prisijungti prie savo HBO paskyros."
+        },
+        {
+          "id": "3",
+          "question": "Ieškokite ir paleiskite vaizdo įrašą",
+          "answer": "Prisijungę HBO turėtumėte ieškoti TV laidos, žiniatinklio serialo, filmo ar bet kurio kito vaizdo įrašo, kurį norite transliuoti savo HBO vakarėlyje. Be to, norėdami sukurti vakarėlį, turite paleisti vaizdo įrašą."
+        },
+        {
+          "id": "4",
+          "question": "Organizuokite arba sukurkite virtualų vakarėlį",
+          "answer": "Galite sukurti arba surengti virtualų vakarėlį naudodami HBO Watch Party plėtinį. Norėdami tai padaryti, jums tereikia prisijungti prie HBO paskyros ir ieškoti bei paleisti vaizdo įrašą. Po to turėtumėte spustelėti HBO Party plėtinio piktogramą. Tada pasirinkite parinktį „Pradėti vakarėlį“, kad sukurtumėte virtualaus vakarėlio nuorodą. Be to, pasidalykite šia nuoroda su draugais ir šeima, kad pakviestumėte juos į HBO vakarėlį."
+        },
+        {
+          "id": "5",
+          "question": "Prisijunkite prie HBO žiūrėjimo vakarėlio",
+          "answer": "Prie HBO vakarėlio galite prisijungti naudodami vakarėlio nuorodą. Norėdami tai padaryti, turite prisijungti prie HBO paskyros ir spustelėti nuorodą. Be to, turite įdiegti „HBO Party“ plėtinį, jei to dar nepadarėte. Dabar būsite nukreipti į vakarėlį."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Išskirtinės „HBO Watch Party“ funkcijos",
+      "subHeading": "Plėtinys suteikia prieigą prie įvairių unikalių ir pribloškiančių funkcijų, tokių kaip:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tinkinimo funkcija",
+          "answer": "Plėtinio tinkinimo funkcija leidžia pasirinkti ir nustatyti pasirinktą vartotojo vardą ir vartotojo piktogramą. HBO Watch Party Extension taip pat turi įvairių mielų ir juokingų avatarų, kuriuos galite nustatyti kaip savo profilio piktogramą. Be to, kaip vartotojo vardą galite įdėti savo slapyvardį. Jūsų naudotojo vardas ir piktograma bus matomi žmonėms."
+        },
+        {
+          "id": "t2",
+          "question": "Bendrauti su draugais",
+          "answer": "Taip pat galite kalbėtis su kitais virtualaus vakarėlio nariais srautiniu būdu. Todėl tai suteiks daugiau linksmybių jūsų laikrodžių vakarėliui."
+        },
+        {
+          "id": "t3",
+          "question": "Palaiko skirtingus įrenginius",
+          "answer": "HBO laikrodžių vakarėlio plėtinys suderinamas su visais „macOS“, „Windows“ ir „Chromebook“ nešiojamaisiais ar asmeniniais kompiuteriais."
+        },
+        {
+          "id": "t4",
+          "question": "Prieinamumas visame pasaulyje",
+          "answer": "Plėtinys pasiekiamas visame pasaulyje. Todėl galite mėgautis mėgstamų HBO filmų ir laidų žiūrėjimu kartu su draugais ar šeima bet kada ir bet kur."
+        },
+        {
+          "id": "t5",
+          "question": "HD srautinis perdavimas sinchronizavimo režimu",
+          "answer": "Žiūrėkite mėgstamas TV laidas, filmus ir bet kokius vaizdo įrašus per HBO sinchronizuodami su mėgstamais žmonėmis HD kokybe ir sparčiu buferiu."
+        },
+        {
+          "id": "t6",
+          "question": "Valdykite savo žiūrėjimo vakarėlio pavadinimą",
+          "answer": "„HBO Watch Party“ leidžia rengėjui kontroliuoti vakarėlį įjungus mygtuką „Tik aš galiu valdyti“. Tai leidžia jiems valdyti vaizdo įrašo atkūrimo nustatymus."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Dažnai užduodami klausimai",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ką galiu padaryti su HBO Max Watch Party plėtiniu?",
+        "answer": "Jei prenumeruojate HBO, galite mėgautis mėgstamomis TV laidomis, žiniatinklio serialais, filmais ir dar daugiau HBO sinchronizuodami su mėgstamais žmonėmis internete. Be to, plėtinys taip pat leidžia kalbėtis su draugais žiūrint filmus."
+      },
+      {
+        "id": "f2",
+        "question": "Kiek žmonių gali prisijungti prie vieno HBO žiūrėjimo vakarėlio?",
+        "answer": "Žmonių, galinčių prisijungti prie virtualaus vakarėlio, skaičius neribojamas. Taigi galite pridėti tiek narių, kiek norite."
+      },
+      {
+        "id": "f3",
+        "question": "Ar plėtinyje taip pat yra pokalbių funkcija?",
+        "answer": "Taip, jame yra pokalbių funkcija, leidžianti kalbėtis srautiniu būdu su kitais dalyviais."
+      },
+      {
+        "id": "f4",
+        "question": "Kokie yra išankstiniai reikalavimai norint įdiegti „HBO Watch Party“ plėtinį?",
+        "answer": "Norėdami nustatyti HBO žiūrėjimo vakarėlį:",
+        "p1": "1. Oficiali HBO svetainė: apsilankykite HBO palaikymo skiltyje, kur rasite informacijos apie vakarėlį ir plėtinius.",
+        "p2": "2. Plėtinių parduotuvė: „Chrome“ internetinėje parduotuvėje arba „Mozilla“ prieduose ieškokite plėtinio „HBO watch party“.",
+        "p3": "3. Sistemos reikalavimai: patikrinkite sistemos ir naršyklės reikalavimus.",
+        "p4": "4. Įdiekite plėtinį: plėtinių parduotuvėje spustelėkite „Pridėti prie „Chrome“ arba lygiavertį elementą.",
+        "p5": "5. Prisijungimas: po įdiegimo prisijunkite prie savo HBO paskyros.",
+        "p6": "6. Pakviesti: inicijuokite ir pakvieskite dalyvius pagal platformos instrukcijas."
+      },
+      {
+        "id": "f5",
+        "question": "Koks būdas sukurti virtualų vakarėlį naudojant HBO Watch Party plėtinį?",
+        "answer": "Norėdami sukurti HBO žiūrėjimo vakarėlį:",
+        "p1": "1. Apsilankykite oficialioje HBO svetainėje arba socialinės žiniasklaidos kanaluose, kad gautumėte pranešimų apie žiūrėjimo vakarėlio funkciją.",
+        "p2": "2. Ieškokite „HBO Watch Party“ naršyklės plėtinių parduotuvėje (pvz., „Chrome“ internetinėje parduotuvėje). Jei įmanoma, įdiekite plėtinį.",
+        "p3": "3. Įdiegę plėtinį prisijunkite prie savo HBO paskyros, kad sinchronizuotumėte turinį ir vakarėlius.",
+        "P4": "4. Ieškokite parinkties pradėti žiūrėjimo vakarėlį, pasirinkite turinį ir pakvieskite prisijungti draugus.",
+        "p5": "5. Naudokite integruotus įrankius, kad pakviestumėte draugus naudodami nuorodą, kodą arba kontaktų sąrašą.",
+        "p6": "6. Pradėkite žiūrėti, kai tik dalyviai prisijungs; atkūrimas paprastai yra sinchronizuotas.",
+        "p7": "7. Pasinaudokite pokalbių arba komentarų funkcija bendravimui ir reakcijai realiuoju laiku."
+      },
+      {
+        "id": "f6",
+        "question": "Kaip prisijungti prie laikrodžių vakarėlio?",
+        "answer": "Norėdami prisijungti prie vakarėlio, atlikite šiuos veiksmus: -",
+        "p1": "1. Pasirinkite srautinio perdavimo paslaugą (pvz., „Netflix“, „Hulu“) arba socialinės žiniasklaidos platformą su žiūrėjimo vakarėlio funkcijomis.",
+        "p2": "2. Ieškokite „Žiūrėti vakarėlį“ ar panašių funkcijų. Jei reikia, įdiekite reikiamus naršyklės plėtinius arba programas.",
+        "p3": "3. Pasidalykite nuoroda, sugeneruokite kodą arba naudokite savo kontaktų sąrašą, kad pakviestumėte draugų.",
+        "p4": "4 . Dalyviams prisijungus, vedėjas pradeda vaizdo įrašą ir visi žiūri vienu metu.",
+        "p5": "5. Įsitraukite į diskusijas realiuoju laiku naudodami platformos pokalbių arba komentarų funkciją.",
+        "p6": "6. Laikykitės visų konkrečiai platformai taikomų reikalavimų, pvz., naršyklės plėtinių ar programų diegimo."
+      },
+      {
+        "id": "f7",
+        "question": "Ar būtina, kad visi budintys partijos nariai būtų toje pačioje šalyje?",
+        "answer": "Taip, jei bet kuris to paties virtualaus vakarėlio narys ar dalyvis gyvena kitoje šalyje, jis gali naudoti VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Praneškite mums.",
+    "anyQuestions": "Turite klausimų? Apsilankykite mūsų palaikymo puslapyje",
+    "blog": "Dienoraštis",
+    "privacy": "Privatumas",
+    "popularSearches": "Populiarios paieškos",
+    "disclaimer": "Atsisakymas",
+    "disclaimerContent": "HBO yra Home Box Office, Inc. prekės ženklas. Ši svetainė",
+    "footerTags": [
+      "HBO Max žiūrėjimo vakarėlis",
+      "HBO žiūrėjimo vakarėlis",
+      "Žiūrėkite vakarėlį HBO Max",
+      "„HBO Go Watch Party“.",
+      "HBO vakarėlis",
+      "HBO Max vakarėlis"
+    ]
+  }
+}
