@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodać do", "free": "To jest darmowe" },
+    "navBarHeading": "jest teraz dostępny w przeglądarkach Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party — oglądaj HBO Max ze znajomymi",
+      "html": "HBO Watch Party umożliwia synchronizację strumieniowego przesyłania filmów HBO z dowolną liczbą osób. Rozszerzenie dostępne jest dla wszystkich abonentów HBO. Zapewnia idealną synchronizację dźwięku i obrazu wszystkich uczestników <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Co więcej, możesz także rozmawiać z innymi uczestnikami na pasku bocznym podczas wspólnego przesyłania strumieniowego wideo!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Jak korzystać z HBO Max Watch Party",
+      "subHeading": "Aby rozpocząć korzystanie z rozszerzenia HBO Watch Party, wykonaj poniższe czynności: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Zainstaluj i przypnij rozszerzenie do paska narzędzi",
+          "answer": "Zainstaluj rozszerzenie za pomocą <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> rozszerzenia Chrome</u></a >. Pamiętaj, że rozszerzenie jest kompatybilne tylko z urządzeniami Chromebook, Windows i macOS. Oprócz tego należy pamiętać, że rozszerzenie można pobrać za pośrednictwem przeglądarek Google Chrome lub Microsoft Edge. Po zainstalowaniu rozszerzenia należy przypiąć je do paska narzędzi."
+        },
+        {
+          "id": "2",
+          "question": "Logowanie do HBO",
+          "answer": "Aby móc korzystać z rozszerzenia HBO Party, musisz mieć subskrypcję HBO. Co więcej, aby utworzyć lub dołączyć do wirtualnej imprezy, musisz zalogować się na swoje konto HBO."
+        },
+        {
+          "id": "3",
+          "question": "Wyszukaj i odtwórz wideo",
+          "answer": "Po zalogowaniu się do HBO wyszukaj program telewizyjny, serial internetowy, film lub inny film, który chcesz przesyłać strumieniowo podczas HBO Party. Ponadto musisz odtworzyć wideo, aby utworzyć imprezę."
+        },
+        {
+          "id": "4",
+          "question": "Zorganizuj lub utwórz wirtualną imprezę",
+          "answer": "Możesz utworzyć lub zorganizować wirtualną imprezę, korzystając z rozszerzenia HBO Watch Party. W tym celu wystarczy zalogować się na konto HBO, wyszukać i odtworzyć film. Następnie kliknij ikonę rozszerzenia HBO Party. Następnie wybierz opcję „Rozpocznij imprezę”, aby utworzyć łącze do wirtualnej imprezy. Ponadto udostępnij ten link znajomym i rodzinie, aby zaprosić ich na imprezę HBO."
+        },
+        {
+          "id": "5",
+          "question": "Dołącz do imprezy HBO Watch Party",
+          "answer": "Możesz dołączyć do imprezy HBO za pomocą linku do imprezy. W tym celu należy zalogować się na konto HBO i kliknąć w link. Ponadto musisz zainstalować rozszerzenie HBO Party, jeśli jeszcze tego nie zrobiłeś. Teraz zostaniesz przekierowany na imprezę."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Wyjątkowe funkcje HBO Watch Party",
+      "subHeading": "Rozszerzenie zapewnia dostęp do różnych unikalnych i niesamowitych funkcji, takich jak:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Funkcja dostosowywania",
+          "answer": "Funkcja dostosowywania rozszerzenia umożliwia wybranie i ustawienie wybranej nazwy użytkownika i ikony użytkownika. Rozszerzenie HBO Watch Party zawiera także różne urocze i zabawne awatary, które możesz ustawić jako ikonę swojego profilu. Ponadto możesz także umieścić swój pseudonim jako nazwę użytkownika. Twoja nazwa użytkownika i ikona będą widoczne dla innych."
+        },
+        {
+          "id": "t2",
+          "question": "Pogawędka ze znajomymi",
+          "answer": "Podczas transmisji możesz także rozmawiać z innymi członkami wirtualnej drużyny. Dlatego doda więcej zabawy do imprezy z oglądaniem."
+        },
+        {
+          "id": "t3",
+          "question": "Obsługuje różne urządzenia",
+          "answer": "Rozszerzenie HBO Watch Party jest kompatybilne ze wszystkimi laptopami i komputerami stacjonarnymi z systemem macOS, Windows i Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Dostępność na całym świecie",
+          "answer": "Rozszerzenie jest dostępne na całym świecie. Dzięki temu możesz cieszyć się oglądaniem ulubionych filmów i programów HBO razem ze znajomymi lub rodziną w dowolnym miejscu i czasie."
+        },
+        {
+          "id": "t5",
+          "question": "Przesyłanie strumieniowe HD w trybie synchronizacji",
+          "answer": "Oglądaj swoje ulubione programy telewizyjne, filmy i dowolne filmy w HBO zsynchronizowane z ulubionymi osobami, także w jakości HD i z szybkim buforowaniem."
+        },
+        {
+          "id": "t6",
+          "question": "Kontroluj tytuł swojego wydarzenia podczas oglądania",
+          "answer": "HBO Watch Party pozwala gospodarzowi zachować kontrolę nad imprezą, włączając przycisk „Tylko ja mam kontrolę”. Pozwala im kontrolować ustawienia odtwarzania wideo."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Często Zadawane Pytania",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Co mogę zrobić dzięki rozszerzeniu HBO Max Watch Party?",
+        "answer": "Jeśli jesteś subskrybentem HBO, możesz oglądać swoje ulubione programy telewizyjne, seriale internetowe, filmy i wiele więcej w HBO w synchronizacji z ulubionymi osobami w Internecie. Co więcej, rozszerzenie umożliwia także rozmowę ze znajomymi podczas oglądania filmów."
+      },
+      {
+        "id": "f2",
+        "question": "Ile osób może dołączyć do jednej imprezy HBO Watch Party?",
+        "answer": "Nie ma ograniczeń co do liczby osób, które mogą dołączyć do wirtualnej imprezy. Dlatego możesz dodać dowolną liczbę członków."
+      },
+      {
+        "id": "f3",
+        "question": "Czy rozszerzenie posiada również funkcję czatu?",
+        "answer": "Tak, ma funkcję czatu, która pozwala rozmawiać podczas transmisji strumieniowej z innymi uczestnikami."
+      },
+      {
+        "id": "f4",
+        "question": "Jakie są wymagania wstępne, aby zainstalować rozszerzenie HBO Watch Party?",
+        "answer": "Aby skonfigurować imprezę HBO Watch Party: –",
+        "p1": "1. Oficjalna witryna HBO: odwiedź sekcję pomocy HBO, aby uzyskać informacje i rozszerzenia dotyczące oglądania imprez.",
+        "p2": "2. Sklep z rozszerzeniami: sprawdź w sklepie Chrome Web Store lub dodatkach Mozilla rozszerzenie „HBO Watch Party”.",
+        "p3": "3. Wymagania systemowe: Sprawdź wymagania systemowe i przeglądarki.",
+        "p4": "4. Zainstaluj rozszerzenie: Kliknij „Dodaj do Chrome” lub odpowiednik w sklepie z rozszerzeniami.",
+        "p5": "5. Zaloguj się: Po instalacji zaloguj się na swoje konto HBO.",
+        "p6": "6. Zaproś: inicjuj i zapraszaj uczestników zgodnie z instrukcjami platformy."
+      },
+      {
+        "id": "f5",
+        "question": "Jaka jest metoda tworzenia wirtualnej imprezy za pomocą rozszerzenia HBO Watch Party?",
+        "answer": "Aby utworzyć imprezę oglądania HBO: –",
+        "p1": "1. Odwiedź oficjalną stronę internetową HBO lub kanały mediów społecznościowych, aby zapoznać się z ogłoszeniami dotyczącymi funkcji Watch Party.",
+        "p2": "2. Wyszukaj „HBO Watch Party” w sklepie z rozszerzeniami swojej przeglądarki (np. Chrome Web Store). Jeśli jest dostępne, zainstaluj rozszerzenie.",
+        "p3": "3. Zaloguj się na swoje konto HBO po zainstalowaniu rozszerzenia, aby synchronizować treści i imprezy.",
+        "P4": "4. Poszukaj opcji rozpoczęcia wspólnego oglądania, wybierz zawartość i zaproś znajomych do przyłączenia się.",
+        "p5": "5. Użyj wbudowanych narzędzi, aby zapraszać znajomych za pomocą linku, kodu lub listy kontaktów.",
+        "p6": "6. Rozpocznij oglądanie, gdy uczestnicy dołączą; odtwarzanie jest zazwyczaj zsynchronizowane.",
+        "p7": "7. Korzystaj z funkcji czatu lub komentarzy, aby komunikować się i reagować w czasie rzeczywistym."
+      },
+      {
+        "id": "f6",
+        "question": "Jak dołączyć do oglądania imprezy?",
+        "answer": "Aby dołączyć do imprezy, wykonaj następujące kroki: –",
+        "p1": "1. Wybierz usługę przesyłania strumieniowego (np. Netflix, Hulu) lub platformę mediów społecznościowych z funkcjami wspólnego oglądania.",
+        "p2": "2. Poszukaj funkcji „Watch Party” lub podobnych. W razie potrzeby zainstaluj wymagane rozszerzenia przeglądarki lub aplikacje.",
+        "p3": "3. Udostępnij link, wygeneruj kod lub skorzystaj z listy kontaktów, aby zaprosić znajomych.",
+        "p4": "4. Gdy uczestnicy dołączą, gospodarz rozpoczyna wideo i wszyscy oglądają jednocześnie.",
+        "p5": "5. Weź udział w dyskusjach w czasie rzeczywistym, korzystając z funkcji czatu lub komentarzy na platformie.",
+        "p6": "6. Przestrzegaj wszelkich wymagań specyficznych dla platformy, takich jak rozszerzenia przeglądarki lub instalacje aplikacji."
+      },
+      {
+        "id": "f7",
+        "question": "Czy wszyscy członkowie grupy obserwacyjnej muszą znajdować się w tym samym kraju?",
+        "answer": "Tak, jeśli jakikolwiek członek lub uczestnik tej samej wirtualnej imprezy mieszka w innym kraju, może korzystać z VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Daj nam znać.",
+    "anyQuestions": "Mieć pytania? Odwiedź naszą stronę wsparcia",
+    "blog": "Bloga",
+    "privacy": "Prywatność",
+    "popularSearches": "popularne wyszukiwania",
+    "disclaimer": "Zastrzeżenie",
+    "disclaimerContent": "HBO jest znakiem towarowym firmy Home Box Office, Inc.. Ta witryna internetowa",
+    "footerTags": [
+      "Impreza z oglądaniem HBO Max",
+      "Impreza z oglądaniem HBO",
+      "Oglądaj Impreza HBO Max",
+      "Impreza z oglądaniem HBO Go",
+      "Impreza HBO",
+      "Impreza HBO Max"
+    ]
+  }
+}

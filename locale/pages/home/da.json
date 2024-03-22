@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tilføj til", "free": "Det er gratis" },
+    "navBarHeading": "er nu tilgængelig på Google Chrome, Microsoft Edge og Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Se HBO Max med dine venner",
+      "html": "HBO Watch Party giver dig mulighed for at streame HBO-videoer synkroniseret med så mange mennesker, du vil. Udvidelsen er tilgængelig for alle HBO-abonnenter. Det sikrer den perfekte lyd- og videosynkronisering af alle <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a>-deltagere . Ydermere kan du også chatte med andre deltagere i en sidebar, mens du streamer videoen sammen!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Sådan bruger du HBO Max Watch Party",
+      "subHeading": "Følg venligst nedenstående trin for at komme i gang med HBO Watch Party Extension: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installer og fastgør udvidelsen til værktøjslinjen",
+          "answer": "Installer venligst udvidelsen med <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome-udvidelse</u></a >. Bemærk venligst, at udvidelsen kun er kompatibel med Chromebook-, Windows- eller macOS-enheder. Udover dette skal du også huske på, at du kan downloade udvidelsen via Google Chrome eller Microsoft Edge browsere. Når du har installeret udvidelsen, skal du fastgøre den til værktøjslinjen."
+        },
+        {
+          "id": "2",
+          "question": "HBO login",
+          "answer": "Du skal have et HBO-abonnement for at bruge HBO Party-udvidelsen. Desuden skal du logge ind på din HBO-konto for at oprette eller deltage i den virtuelle fest."
+        },
+        {
+          "id": "3",
+          "question": "Søg og afspil videoen",
+          "answer": "Efter at HBO har logget ind, skal du søge efter et tv-program, en webserie, en film eller enhver anden video, som du vil streame i din HBO Party. Desuden skal du afspille videoen for at skabe en fest."
+        },
+        {
+          "id": "4",
+          "question": "Vær vært for eller opret en virtuel fest",
+          "answer": "Du kan oprette eller være vært for den virtuelle fest ved hjælp af HBO Watch Party-udvidelsen. Til dette skal du blot logge ind på HBO-kontoen og søge og afspille videoen. Herefter skal du klikke på HBO Party-udvidelsesikonet. Vælg derefter \"Start festen\" for at oprette dit virtuelle festlink. Del venligst dette link med venner og familie for at invitere dem til HBO-festen."
+        },
+        {
+          "id": "5",
+          "question": "Deltag i en HBO Watch Party",
+          "answer": "Du kan deltage i HBO-festen med festlinket. For at gøre dette skal du logge ind på HBO-kontoen og klikke på linket. Desuden skal du installere HBO Party-udvidelsen, hvis du ikke allerede har gjort det. Nu vil du blive omdirigeret til festen."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Fremragende funktioner i HBO Watch Party",
+      "subHeading": "Udvidelsen giver dig adgang til forskellige unikke og overvældende funktioner, såsom:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tilpasningsfunktion",
+          "answer": "Tilpasningsfunktionen i udvidelsen giver dig mulighed for at vælge og indstille brugernavnet og brugerikonet efter eget valg. HBO Watch Party Extension har også forskellige søde og sjove avatarer, som du kan indstille som dit profilikon. Derudover kan du også sætte dit kaldenavn som dit brugernavn. Dit brugernavn og ikon vil være synligt for folk."
+        },
+        {
+          "id": "t2",
+          "question": "Chatte med venner",
+          "answer": "Du kan også chatte med de andre virtuelle partimedlemmer, mens du streamer. Derfor vil det tilføje mere sjov til din urfest."
+        },
+        {
+          "id": "t3",
+          "question": "Understøtter forskellige enheder",
+          "answer": "HBO Watch Party-udvidelsen er kompatibel med alle macOS, Windows og Chromebook bærbare eller pc'er."
+        },
+        {
+          "id": "t4",
+          "question": "Verdensomspændende tilgængelighed",
+          "answer": "Udvidelsen er tilgængelig over hele verden. Derfor kan du nyde at se dine yndlings HBO-film og -serier sammen med dine venner eller familie når som helst og hvor som helst."
+        },
+        {
+          "id": "t5",
+          "question": "HD-streaming i Sync",
+          "answer": "Se dine foretrukne tv-serier, film, enhver video på HBO synkroniseret med dine yndlingsmennesker, også i HD-kvalitet og med hurtig buffering."
+        },
+        {
+          "id": "t6",
+          "question": "Styr din urfesttitel",
+          "answer": "HBO Watch Party lader værten beholde kontrollen over festen ved at aktivere knappen \"Kun jeg har kontrol\". Det giver dem mulighed for at kontrollere afspilningsindstillingerne for videoen."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Ofte stillede spørgsmål",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hvad kan jeg gøre med HBO Max Watch Party-udvidelsen?",
+        "answer": "Hvis du er HBO-abonnent, så kan du nyde at se dine yndlings-tv-serier, webserier, film og meget mere på HBO i sync med dine yndlingsmennesker online. Ydermere giver udvidelsen dig også mulighed for at chatte med dine venner, mens du ser film."
+      },
+      {
+        "id": "f2",
+        "question": "Hvor mange mennesker kan deltage i en enkelt HBO Watch Party?",
+        "answer": "Der er ingen begrænsning på antallet af personer, der kan deltage i den virtuelle fest. Derfor kan du tilføje så mange medlemmer, som du vil."
+      },
+      {
+        "id": "f3",
+        "question": "Har udvidelsen også en chatfunktion?",
+        "answer": "Ja, den har chatfunktionen, som giver dig mulighed for at chatte, mens du streamer med de andre deltagere."
+      },
+      {
+        "id": "f4",
+        "question": "Hvad er forudsætningerne for at installere HBO Watch Party-udvidelsen?",
+        "answer": "Sådan konfigurerer du HBO Watch Party:-",
+        "p1": "1. Officielt HBO-websted: Besøg HBO's supportsektion for at se oplysninger om fester og udvidelser.",
+        "p2": "2. Extension Store: Tjek Chrome Webshop eller Mozilla Add-ons for \"HBO watch party\"-udvidelsen.",
+        "p3": "3. Systemkrav: Bekræft system- og browserkrav.",
+        "p4": "4. Installer udvidelse: Klik på \"Tilføj til Chrome\" eller tilsvarende i udvidelsesbutikken.",
+        "p5": "5. Login: Log ind på din HBO-konto efter installationen.",
+        "p6": "6. Inviter: Initier og inviter deltagere efter platformsinstruktioner."
+      },
+      {
+        "id": "f5",
+        "question": "Hvad er metoden til at oprette en virtuel fest ved hjælp af HBO Watch Party-udvidelsen?",
+        "answer": "Sådan oprettes en HBO Watch Party:-",
+        "p1": "1. Besøg HBO's officielle hjemmeside eller sociale mediekanaler for meddelelser om Watch Party-funktionen.",
+        "p2": "2. Søg efter 'HBO Watch Party' i din browsers udvidelsesbutik (f.eks. Chrome Webshop). Installer udvidelsen, hvis den er tilgængelig.",
+        "p3": "3. Log ind på din HBO-konto efter installation af udvidelsen for at synkronisere indhold og fester.",
+        "P4": "4. Se efter muligheden for at starte en Watch Party, vælg indhold og inviter venner til at deltage.",
+        "p5": "5. Brug indbyggede værktøjer til at invitere venner via link, kode eller kontaktliste.",
+        "p6": "6. Begynd at se, når deltagerne tilmelder sig; afspilning er typisk synkroniseret.",
+        "p7": "7. Brug chat- eller kommentarfunktionen til realtidskommunikation og reaktioner."
+      },
+      {
+        "id": "f6",
+        "question": "Hvordan deltager man i urfesten?",
+        "answer": "Følg disse trin for at deltage i festen: –",
+        "p1": "1. Vælg en streamingtjeneste (f.eks. Netflix, Hulu) eller en social medieplatform med se-festfunktioner.",
+        "p2": "2. Se efter 'Watch Party' eller lignende funktioner. Installer nødvendige browserudvidelser eller apps, hvis det er nødvendigt.",
+        "p3": "3. Del et link, generer en kode, eller brug din kontaktliste til at invitere venner.",
+        "p4": "4 . Når deltagerne tilmelder sig, starter værten videoen, og alle ser samtidigt.",
+        "p5": "5. Deltag i diskussioner i realtid ved hjælp af platformens chat- eller kommentarfunktion.",
+        "p6": "6. Overhold alle platformsspecifikke krav, såsom browserudvidelser eller app-installationer."
+      },
+      {
+        "id": "f7",
+        "question": "Er det nødvendigt for alle medlemmer af urpartiet at være i samme land?",
+        "answer": "Ja, hvis et medlem eller en deltager af det samme virtuelle parti bor i et andet land, kan de bruge en VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Lad os vide.",
+    "anyQuestions": "Har du spørgsmål? Besøg vores supportside",
+    "blog": "Blog",
+    "privacy": "Privatliv",
+    "popularSearches": "Populære søgninger",
+    "disclaimer": "Ansvarsfraskrivelse",
+    "disclaimerContent": "HBO er et varemærke tilhørende Home Box Office, Inc.. Denne hjemmeside",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Se Party HBO Max",
+      "HBO Go Watch Party",
+      "HBO fest",
+      "HBO Max Party"
+    ]
+  }
+}

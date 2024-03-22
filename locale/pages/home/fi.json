@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lisätä", "free": "Se on ilmainen" },
+    "navBarHeading": "on nyt saatavilla Google Chromessa, Microsoft Edgessä ja Mozilla Firefoxissa"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party – katso HBO Maxia ystäviesi kanssa",
+      "html": "HBO Watch Partyn avulla voit suoratoistaa HBO-videoita synkronoituna niin monen ihmisen kanssa kuin haluat. Laajennus on kaikkien HBO-tilaajien saatavilla. Se varmistaa kaikkien <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> -osallistujien äänen ja videon täydellisen synkronoinnin . Lisäksi voit myös keskustella muiden osallistujien kanssa sivupalkissa, kun suoratoistat videota yhdessä!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Kuinka käyttää HBO Max Watch Partya",
+      "subHeading": "Noudata alla olevia ohjeita aloittaaksesi HBO Watch Party -laajennuksen: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Asenna ja kiinnitä laajennus työkalupalkkiin",
+          "answer": "Asenna laajennus <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome-laajennuksella</u></a >. Huomaa, että laajennus on yhteensopiva vain Chromebook-, Windows- tai macOS-laitteiden kanssa. Tämän lisäksi sinun tulee myös muistaa, että voit ladata laajennuksen Google Chrome- tai Microsoft Edge -selaimien kautta. Kun olet asentanut laajennuksen, kiinnitä se työkalupalkkiin."
+        },
+        {
+          "id": "2",
+          "question": "HBO-kirjautuminen",
+          "answer": "Sinulla on oltava HBO-tilaus, jotta voit käyttää HBO Party -laajennusta. Lisäksi sinun on kirjauduttava sisään HBO-tilillesi luodaksesi virtuaalisen puolueen tai liittyäksesi siihen."
+        },
+        {
+          "id": "3",
+          "question": "Etsi ja toista video",
+          "answer": "HBO-kirjautumisen jälkeen sinun tulee etsiä TV-ohjelmaa, verkkosarjaa, elokuvaa tai muuta videota, jonka haluat suoratoistaa HBO-juhlissasi. Lisäksi sinun on toistettava video juhlien luomiseksi."
+        },
+        {
+          "id": "4",
+          "question": "Järjestä tai luo virtuaalijuhlat",
+          "answer": "Voit luoda tai isännöidä virtuaalisia juhlia käyttämällä HBO Watch Party -laajennusta. Tätä varten sinun tarvitsee vain kirjautua sisään HBO-tilille ja etsiä ja toistaa video. Tämän jälkeen sinun tulee napsauttaa HBO Party -laajennuksen kuvaketta. Valitse sitten \"Aloita juhla\" -vaihtoehto luodaksesi virtuaalisen juhlan linkin. Lisäksi jaa tämä linkki ystävien ja perheen kanssa kutsuaksesi heidät HBO-juhliin."
+        },
+        {
+          "id": "5",
+          "question": "Liity HBO:n katselubileisiin",
+          "answer": "HBO:n juhliin pääset mukaan juhlalinkin kautta. Tätä varten sinun on kirjauduttava sisään HBO-tilille ja napsautettava linkkiä. Lisäksi sinun on asennettava HBO Party -laajennus, jos et ole jo tehnyt sitä. Nyt sinut ohjataan juhliin."
+        }
+      ]
+    },
+    "three": {
+      "heading": "HBO Watch Partyn erinomaiset ominaisuudet",
+      "subHeading": "Laajennus tarjoaa sinulle pääsyn erilaisiin ainutlaatuisiin ja mieleenpainuviin ominaisuuksiin, kuten:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Räätälöintiominaisuus",
+          "answer": "Laajennuksen mukauttamisominaisuuden avulla voit valita ja asettaa haluamasi käyttäjänimen ja käyttäjäkuvakkeen. HBO Watch Party Extension sisältää myös erilaisia ​​söpöjä ja hauskoja avatareja, jotka voit asettaa profiilikuvakkeeksi. Lisäksi voit myös laittaa lempinimesi käyttäjätunnukseksi. Käyttäjänimesi ja kuvakkeesi näkyvät ihmisille."
+        },
+        {
+          "id": "t2",
+          "question": "Keskustele ystävien kanssa",
+          "answer": "Voit myös keskustella muiden virtuaalisen puolueen jäsenten kanssa suoratoiston aikana. Siksi se lisää hauskuutta kellobileihisi."
+        },
+        {
+          "id": "t3",
+          "question": "Tukee erilaisia ​​laitteita",
+          "answer": "HBO Watch Party -laajennus on yhteensopiva kaikkien macOS-, Windows- ja Chromebook-kannettavien tai PC-tietokoneiden kanssa."
+        },
+        {
+          "id": "t4",
+          "question": "Maailmanlaajuinen saatavuus",
+          "answer": "Laajennus on saatavilla kaikkialla maailmassa. Siksi voit nauttia suosikki HBO-elokuvien ja -ohjelmien katselusta yhdessä ystäviesi tai perheesi kanssa milloin tahansa ja missä tahansa."
+        },
+        {
+          "id": "t5",
+          "question": "HD-suoratoisto synkronoinnissa",
+          "answer": "Katso suosikki-TV-sarjojasi, elokuviasi ja mitä tahansa videoita HBO:lla synkronoituna suosikkiihmistesi kanssa HD-laadulla ja nopealla puskuroinnilla."
+        },
+        {
+          "id": "t6",
+          "question": "Hallitse katselubileiden nimeä",
+          "answer": "HBO Watch Party antaa isäntälle mahdollisuuden hallita juhlia ottamalla käyttöön \"Vain minulla on valvonta\" -painikkeen. Sen avulla he voivat hallita videon toistoasetuksia."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Usein Kysytyt Kysymykset",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mitä voin tehdä HBO Max Watch Party -laajennuksella?",
+        "answer": "Jos olet HBO-tilaaja, voit katsella suosikki-TV-ohjelmiasi, verkkosarjojasi, elokuviasi ja paljon muuta HBO:lla synkronoituna suosikkiihmistesi kanssa verkossa. Lisäksi laajennuksen avulla voit myös keskustella ystäviesi kanssa katsoessasi elokuvia."
+      },
+      {
+        "id": "f2",
+        "question": "Kuinka monta ihmistä voi liittyä yhteen HBO-katselubileeseen?",
+        "answer": "Virtuaalijuhliin osallistuvien henkilöiden määrää ei ole rajoitettu. Näin ollen voit lisätä niin monta jäsentä kuin haluat."
+      },
+      {
+        "id": "f3",
+        "question": "Onko laajennuksessa myös chat-ominaisuus?",
+        "answer": "Kyllä, siinä on chat-toiminto, jonka avulla voit keskustella samalla kun suoratoistat muiden osallistujien kanssa."
+      },
+      {
+        "id": "f4",
+        "question": "Mitkä ovat HBO Watch Party -laajennuksen asentamisen ennakkovaatimukset?",
+        "answer": "HBO Watch Partyn perustaminen: -",
+        "p1": "1. Virallinen HBO-verkkosivusto: HBO:n tukiosiossa saat tietoja katselubileistä ja laajennuksista.",
+        "p2": "2. Laajennuskauppa: Tarkista Chrome Web Storesta tai Mozillan lisäosista HBO watch party -laajennus.",
+        "p3": "3. Järjestelmävaatimukset: Tarkista järjestelmä- ja selainvaatimukset.",
+        "p4": "4. Asenna laajennus: Napsauta \"Lisää Chromeen\" tai vastaavaa laajennuskaupassa.",
+        "p5": "5. Kirjautuminen: Kirjaudu HBO-tilillesi asennuksen jälkeen.",
+        "p6": "6. Kutsu: Aloita ja kutsu osallistujia alustan ohjeiden mukaisesti."
+      },
+      {
+        "id": "f5",
+        "question": "Mikä on tapa luoda virtuaaliset juhlat HBO Watch Party -laajennuksella?",
+        "answer": "HBO-katselubileiden luominen: -",
+        "p1": "1. Vieraile HBO:n virallisella verkkosivustolla tai sosiaalisen median kanavilla saadaksesi ilmoituksia Watch Party -ominaisuudesta.",
+        "p2": "2. Hae \"HBO Watch Party\" selaimesi laajennuskaupasta (esim. Chrome Web Store). Jos saatavilla, asenna laajennus.",
+        "p3": "3. Kirjaudu sisään HBO-tilillesi laajennuksen asentamisen jälkeen synkronoidaksesi sisällön ja juhlat.",
+        "P4": "4. Etsi mahdollisuus aloittaa Watch Party, valitse sisältöä ja kutsu ystäviä liittymään.",
+        "p5": "5. Käytä sisäänrakennettuja työkaluja kutsuaksesi ystäviä linkin, koodin tai yhteystietoluettelon kautta.",
+        "p6": "6. Aloita katselu, kun osallistujat liittyvät. toisto on yleensä synkronoitu.",
+        "p7": "7. Käytä chat- tai kommenttiominaisuutta reaaliaikaiseen viestintään ja reaktioihin."
+      },
+      {
+        "id": "f6",
+        "question": "Kuinka liittyä kellobileisiin?",
+        "answer": "Liity puolueeseen noudattamalla näitä ohjeita: –",
+        "p1": "1. Valitse suoratoistopalvelu (esim. Netflix, Hulu) tai sosiaalisen median alusta, jossa on katselubileiden ominaisuuksia.",
+        "p2": "2. Etsi \"Katsojuhlat\" tai vastaavat ominaisuudet. Asenna tarvittavat selainlaajennukset tai sovellukset tarvittaessa.",
+        "p3": "3. Jaa linkki, luo koodi tai käytä yhteystietoluetteloasi ystävien kutsumiseen.",
+        "p4": "4. Kun osallistujat liittyvät, isäntä aloittaa videon ja kaikki katsovat sitä samanaikaisesti.",
+        "p5": "5. Osallistu reaaliaikaisiin keskusteluihin alustan chat- tai kommenttiominaisuuden avulla.",
+        "p6": "6. Noudata kaikkia alustakohtaisia ​​vaatimuksia, kuten selainlaajennuksia tai sovellusasennuksia."
+      },
+      {
+        "id": "f7",
+        "question": "Onko kaikkien vahtipuolueen jäsenten oltava samassa maassa?",
+        "answer": "Kyllä, jos joku saman virtuaalisen puolueen jäsen tai osallistuja asuu eri maassa, hän voi käyttää VPN:ää."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Kerro meille.",
+    "anyQuestions": "Onko sinulla kysyttävää? Vieraile tukisivullamme",
+    "blog": "Blogi",
+    "privacy": "Yksityisyys",
+    "popularSearches": "Suositut haut",
+    "disclaimer": "Vastuuvapauslauseke",
+    "disclaimerContent": "HBO on Home Box Office, Inc:n tavaramerkki. Tämä verkkosivusto",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO:n katselubileet",
+      "Katso Party HBO Max",
+      "HBO Go Watch -bileet",
+      "HBO:n juhlat",
+      "HBO Max -bileet"
+    ]
+  }
+}

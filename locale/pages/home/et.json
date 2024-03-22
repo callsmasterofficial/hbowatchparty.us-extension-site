@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lisa", "free": "See on tasuta" },
+    "navBarHeading": "on nüüd saadaval Google Chrome'is, Microsoft Edge'is ja Mozilla Firefoxis"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO vaatamispidu – vaadake HBO Maxi oma sõpradega",
+      "html": "HBO Watch Party võimaldab teil voogesitada HBO videoid sünkroonis nii paljude inimestega, kui soovite. Laiendus on saadaval kõigile HBO tellijatele. See tagab kõigi <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> osalejate heli ja video täiusliku sünkroonimise . Lisaks saate video koos voogesituse ajal vestelda teiste osalejatega külgribal!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Kuidas kasutada HBO Max Watch Party",
+      "subHeading": "HBO Watch Party Extensioniga alustamiseks järgige allolevaid juhiseid.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installige laiendus ja kinnitage see tööriistaribale",
+          "answer": "Installige laiendus <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u>Chrome'i laienduse</u></a abil >. Pange tähele, et laiendus ühildub ainult Chromebooki, Windowsi või macOS-i seadmetega. Lisaks peaksite meeles pidama, et saate laienduse alla laadida Google Chrome'i või Microsoft Edge'i brauserite kaudu. Kui olete laienduse installinud, peaksite selle tööriistaribale kinnitama."
+        },
+        {
+          "id": "2",
+          "question": "HBO sisselogimine",
+          "answer": "HBO Party laienduse kasutamiseks peab teil olema HBO tellimus. Lisaks peate virtuaalse peo loomiseks või sellega liitumiseks oma HBO kontole sisse logima."
+        },
+        {
+          "id": "3",
+          "question": "Otsige ja esitage videot",
+          "answer": "Pärast HBO sisselogimist peaksite otsima telesaadet, veebisarja, filmi või mõnda muud videot, mida soovite oma HBO peol voogesitada. Lisaks peate peo loomiseks video esitama."
+        },
+        {
+          "id": "4",
+          "question": "Korraldage või looge virtuaalne pidu",
+          "answer": "Virtuaalse peo saate luua või korraldada HBO Watch Party laienduse abil. Selleks pead vaid HBO kontole sisse logima ning videot otsima ja esitama. Pärast seda peaksite klõpsama HBO Party laienduse ikooni. Seejärel valige virtuaalse peo lingi loomiseks suvand \"Alusta pidu\". Lisaks jagage seda linki sõprade ja perega, et kutsuda neid HBO peole."
+        },
+        {
+          "id": "5",
+          "question": "Liituge HBO vaatamispeoga",
+          "answer": "HBO peoga saad liituda peo lingiga. Selleks peate HBO kontole sisse logima ja klõpsama lingil. Lisaks peate installima HBO Party laienduse, kui te pole seda juba teinud. Nüüd suunatakse teid peole."
+        }
+      ]
+    },
+    "three": {
+      "heading": "HBO Watch Party silmapaistvad funktsioonid",
+      "subHeading": "Laiendus annab teile juurdepääsu erinevatele ainulaadsetele ja hämmastavatele funktsioonidele, näiteks:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Kohandamise funktsioon",
+          "answer": "Laienduse kohandamisfunktsioon võimaldab teil valida ja määrata teie valitud kasutajanime ja kasutajaikooni. HBO Watch Party Extensionil on ka erinevaid armsaid ja naljakaid avatare, mille saate määrata oma profiiliikooniks. Lisaks saate kasutajanimeks panna ka oma hüüdnime. Teie kasutajanimi ja ikoon on inimestele nähtavad."
+        },
+        {
+          "id": "t2",
+          "question": "Vestelge sõpradega",
+          "answer": "Samuti saate voogesituse ajal vestelda teiste virtuaalse peoliikmetega. Seetõttu lisab see teie kellapeole lõbusamaks."
+        },
+        {
+          "id": "t3",
+          "question": "Toetab erinevaid seadmeid",
+          "answer": "HBO kellapeo laiendus ühildub kõigi macOS-i, Windowsi ja Chromebooki sülearvutite või personaalarvutitega."
+        },
+        {
+          "id": "t4",
+          "question": "Ülemaailmne kättesaadavus",
+          "answer": "Laiendus on saadaval kogu maailmas. Seetõttu saate nautida oma lemmik HBO filmide ja -saadete vaatamist koos oma sõprade või perega igal ajal ja igal pool."
+        },
+        {
+          "id": "t5",
+          "question": "HD voogesitus sünkroonimises",
+          "answer": "Vaadake oma lemmiktelesaateid, -filme ja mis tahes videoid HBO-s sünkroonis oma lemmikinimestega, samuti HD-kvaliteediga ja kiire puhverdamisega."
+        },
+        {
+          "id": "t6",
+          "question": "Kontrollige oma vaatamispeo pealkirja",
+          "answer": "HBO Watch Party võimaldab võõrustajal peo üle kontrolli hoida, lubades nupu „Ainult minul on kontroll”. See võimaldab neil juhtida video esitusseadeid."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Korduma kippuvad küsimused",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mida ma saan HBO Max Watch Party laiendiga teha?",
+        "answer": "Kui olete HBO tellija, saate nautida oma lemmiktelesaadete, veebisarjade, filmide ja palju muu vaatamist HBO-s sünkroonis oma lemmikinimestega võrgus. Lisaks võimaldab laiendus teil filme vaadates sõpradega vestelda."
+      },
+      {
+        "id": "f2",
+        "question": "Kui palju inimesi saab ühe HBO vaatamispeoga liituda?",
+        "answer": "Virtuaalse peoga liituvate inimeste arv ei ole piiratud. Seega saate lisada nii palju liikmeid kui soovite."
+      },
+      {
+        "id": "f3",
+        "question": "Kas laiendusel on ka vestlusfunktsioon?",
+        "answer": "Jah, sellel on vestlusfunktsioon, mis võimaldab teil teiste osalejatega voogesituse ajal vestelda."
+      },
+      {
+        "id": "f4",
+        "question": "Millised on HBO Watch Party laienduse installimise eeltingimused?",
+        "answer": "HBO vaatamispeo seadistamiseks toimige järgmiselt.",
+        "p1": "1. HBO ametlik veebisait: vaatamise peo teabe ja laienduste vaatamiseks külastage HBO tugijaotist.",
+        "p2": "2. Laienduste pood: otsige Chrome'i veebipoest või Mozilla lisandmoodulitest laiendust \"HBO vaatamispidu\".",
+        "p3": "3. Süsteeminõuded: kontrollige süsteemi ja brauseri nõudeid.",
+        "p4": "4. Installige laiendus: klõpsake laienduste poes nuppu „Lisa Chrome'i” või samaväärset.",
+        "p5": "5. Sisselogimine: logige pärast installimist oma HBO kontole sisse.",
+        "p6": "6. Kutsu: algatage ja kutsuge osalejaid vastavalt platvormi juhistele."
+      },
+      {
+        "id": "f5",
+        "question": "Mis meetod on virtuaalse peo loomiseks HBO Watch Party laienduse abil?",
+        "answer": "HBO vaatamispeo loomiseks toimige järgmiselt.",
+        "p1": "1. Külastage HBO ametlikku veebisaiti või sotsiaalmeediakanaleid, et saada teateid Watch Party funktsiooni kohta.",
+        "p2": "2. Otsige oma brauseri laienduste poest (nt Chrome'i veebipoest) sõna „HBO Watch Party”. Kui see on saadaval, installige laiendus.",
+        "p3": "3. Sisu ja pidude sünkroonimiseks logige pärast laienduse installimist sisse oma HBO kontole.",
+        "P4": "4. Otsige üles valik vaatamispeo alustamiseks, valige sisu ja kutsuge sõpru liituma.",
+        "p5": "5. Kasutage sisseehitatud tööriistu sõprade kutsumiseks lingi, koodi või kontaktiloendi kaudu.",
+        "p6": "6. Alustage vaatamist, kui osalejad liituvad; taasesitus on tavaliselt sünkroonitud.",
+        "p7": "7. Kasutage vestluse või kommenteerimise funktsiooni reaalajas suhtlemiseks ja reageerimiseks."
+      },
+      {
+        "id": "f6",
+        "question": "Kuidas valvepeoga liituda?",
+        "answer": "Peoga liitumiseks järgige neid samme: -",
+        "p1": "1. Valige voogedastusteenus (nt Netflix, Hulu) või vaatamispeo funktsioonidega sotsiaalmeediaplatvorm.",
+        "p2": "2. Otsige üles „Vaata pidu” või sarnaseid funktsioone. Vajadusel installige vajalikud brauseri laiendused või rakendused.",
+        "p3": "3. Jagage linki, looge kood või kasutage sõprade kutsumiseks oma kontaktiloendit.",
+        "p4": "4 . Kui osalejad on liitunud, alustab võõrustaja videot ja kõik vaatavad seda korraga.",
+        "p5": "5. Osalege reaalajas aruteludes, kasutades platvormi vestlus- või kommenteerimisfunktsiooni.",
+        "p6": "6. Järgige kõiki platvormipõhiseid nõudeid, näiteks brauseri laiendusi või rakenduste installimisi."
+      },
+      {
+        "id": "f7",
+        "question": "Kas kõik valvepartei liikmed peavad olema ühes riigis?",
+        "answer": "Jah, kui mõni sama virtuaalse peo liige või osaleja elab teises riigis, saab ta kasutada VPN-i."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Anna meile teada.",
+    "anyQuestions": "Kas teil on küsimusi? Külastage meie tugilehte",
+    "blog": "Blogi",
+    "privacy": "Privaatsus",
+    "popularSearches": "Populaarsed otsingud",
+    "disclaimer": "Vastutusest loobumine",
+    "disclaimerContent": "HBO on ettevõtte Home Box Office, Inc. kaubamärk. See veebisait",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO vaatamispidu",
+      "Vaadake Party HBO Max",
+      "HBO Go Watch Party",
+      "HBO pidu",
+      "HBO Max pidu"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ongezea", "free": "Ni Bure" },
+    "navBarHeading": "sasa inapatikana kwenye Google Chrome, Microsoft Edge na Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Tazama HBO Max na Marafiki Wako",
+      "html": "HBO Watch Party hukuwezesha kutiririsha video za HBO kwa kusawazisha na watu wengi unavyotaka. Kiendelezi kinapatikana kwa watumiaji wote wa HBO. Inahakikisha usawazishaji kamili wa sauti na video wa washiriki wote wa <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Zaidi ya hayo, unaweza pia kupiga gumzo na washiriki wengine kwenye upau wa kando wakati wa kutiririsha video pamoja!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Jinsi ya kutumia HBO Max Watch Party",
+      "subHeading": "Tafadhali fuata hatua zilizoorodheshwa hapa chini ili kuanza na Kiendelezi cha Chama cha Kutazama cha HBO: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Sakinisha na ubandike kiendelezi kwenye upau wa vidhibiti",
+          "answer": "Tafadhali sakinisha kiendelezi kwa <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> kiendelezi cha Chrome</u></a >. Tafadhali kumbuka kuwa kiendelezi kinaweza kutumika tu na vifaa vya Chromebook, Windows, au macOS. Mbali na hili, unapaswa pia kukumbuka kuwa unaweza kupakua ugani kupitia vivinjari vya Google Chrome au Microsoft Edge. Mara tu ukisakinisha kiendelezi, unapaswa kukibandika kwenye upau wa vidhibiti."
+        },
+        {
+          "id": "2",
+          "question": "Kuingia kwa HBO",
+          "answer": "Ni lazima uwe na usajili wa HBO ili kutumia kiendelezi cha HBO Party. Zaidi ya hayo, unahitaji kuingia katika akaunti yako ya HBO ili kuunda au kujiunga na chama pepe."
+        },
+        {
+          "id": "3",
+          "question": "Tafuta na ucheze video",
+          "answer": "Baada ya HBO kuingia, unapaswa kutafuta kipindi cha TV, mfululizo wa wavuti, filamu, au video nyingine yoyote ambayo ungependa kutiririsha katika HBO Party yako. Zaidi ya hayo, unahitaji kucheza video ili kuunda sherehe."
+        },
+        {
+          "id": "4",
+          "question": "Pandisha au Unda Tafrija ya Mtandaoni",
+          "answer": "Unaweza kuunda au kukaribisha sherehe pepe kwa kutumia kiendelezi cha HBO Watch Party. Kwa hili, unachohitaji kufanya ni kuingia kwenye akaunti ya HBO na kutafuta na kucheza video. Baada ya hayo, unapaswa kubofya ikoni ya ugani ya HBO Party. Kisha, chagua chaguo la \"Anzisha Sherehe\" ili kuunda kiungo chako cha karamu pepe. Zaidi ya hayo, tafadhali shiriki kiungo hiki na marafiki na familia ili kuwaalika kwenye HBO Party."
+        },
+        {
+          "id": "5",
+          "question": "Jiunge na Sherehe ya Kutazama ya HBO",
+          "answer": "Unaweza kujiunga na chama cha HBO kwa kiungo cha chama. Kwa hili, unahitaji kuingia kwenye akaunti ya HBO na ubofye kiungo. Zaidi ya hayo, lazima usakinishe kiendelezi cha HBO Party ikiwa bado hujafanya hivyo. Sasa, utaelekezwa kwenye chama."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Vipengele bora vya HBO Watch Party",
+      "subHeading": "Kiendelezi hukupa ufikiaji wa vipengele mbalimbali vya kipekee na vya kuvutia akili, kama vile:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Kipengele cha kubinafsisha",
+          "answer": "Kipengele cha ubinafsishaji cha kiendelezi hukuruhusu kuchagua na kuweka jina la mtumiaji na ikoni ya mtumiaji unayopenda. Kiendelezi cha Sherehe ya Kutazama ya HBO pia kina avatari mbalimbali za kupendeza na za kuchekesha ambazo unaweza kuweka kama ikoni ya wasifu wako. Kwa kuongeza, unaweza pia kuweka jina lako la utani kama jina lako la mtumiaji. Jina lako la mtumiaji na ikoni zitaonekana kwa watu."
+        },
+        {
+          "id": "t2",
+          "question": "Sogoa na Marafiki",
+          "answer": "Unaweza pia kuzungumza na wanachama wengine wa chama pepe wakati wa kutiririsha. Kwa hivyo, itaongeza furaha zaidi kwenye chama chako cha saa."
+        },
+        {
+          "id": "t3",
+          "question": "Inasaidia vifaa tofauti",
+          "answer": "Kiendelezi cha chama cha saa cha HBO kinaweza kutumika na kompyuta za mkononi za MacOS, Windows na Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Upatikanaji wa dunia nzima",
+          "answer": "Kiendelezi kinapatikana kote ulimwenguni. Kwa hivyo, unaweza kufurahia kutazama filamu na vipindi unavyovipenda vya HBO pamoja na marafiki au familia yako wakati wowote, mahali popote."
+        },
+        {
+          "id": "t5",
+          "question": "Utiririshaji wa HD katika Usawazishaji",
+          "answer": "Tazama vipindi vya televisheni unavyopenda, filamu, video yoyote kwenye HBO kwa kusawazisha na watu unaowapenda ambao pia katika ubora wa HD na kwa kuakibisha haraka."
+        },
+        {
+          "id": "t6",
+          "question": "Dhibiti jina la chama chako cha saa",
+          "answer": "HBO Watch Party huruhusu mpangishaji kudhibiti sherehe kwa kuwasha kitufe cha \"Mimi Pekee ninayeweza kudhibiti\". Inawaruhusu kudhibiti mipangilio ya kucheza ya video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "maswali yanayoulizwa mara kwa mara",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Je, ninaweza kufanya nini na kiendelezi cha HBO Max Watch Party?",
+        "answer": "Ikiwa wewe ni mteja wa HBO, basi unaweza kufurahia kutazama vipindi vya televisheni unavyovipenda, mifululizo ya wavuti, filamu, na mengi zaidi kwenye HBO kwa kusawazisha na watu unaowapenda mtandaoni. Zaidi ya hayo, kiendelezi pia hukuwezesha kuzungumza na marafiki zako unapotazama filamu."
+      },
+      {
+        "id": "f2",
+        "question": "Ni watu wangapi wanaweza kujiunga na HBO Watch Party moja?",
+        "answer": "Hakuna kikomo kwa idadi ya watu wanaoweza kujiunga na chama pepe. Kwa hivyo, unaweza kuongeza washiriki wengi unavyotaka."
+      },
+      {
+        "id": "f3",
+        "question": "Je, kiendelezi pia kina kipengele cha gumzo?",
+        "answer": "Ndiyo, ina kipengele cha gumzo, ambacho hukuruhusu kupiga gumzo wakati wa kutiririsha na washiriki wengine."
+      },
+      {
+        "id": "f4",
+        "question": "Je, ni mahitaji gani ya awali ya kusakinisha kiendelezi cha HBO Watch Party?",
+        "answer": "Ili kuanzisha HBO Watch Party:-",
+        "p1": "1. Tovuti Rasmi ya HBO: Tembelea sehemu ya usaidizi ya HBO kwa maelezo ya chama cha kutazama na viendelezi.",
+        "p2": "2. Duka la Kiendelezi: Angalia Duka la Chrome kwenye Wavuti au Viongezi vya Mozilla kwa kiendelezi cha \"HBO watch party\".",
+        "p3": "3. Mahitaji ya Mfumo: Thibitisha mahitaji ya mfumo na kivinjari.",
+        "p4": "4. Sakinisha Kiendelezi: Bofya 'Ongeza kwenye Chrome' au sawa katika hifadhi ya kiendelezi.",
+        "p5": "5. Ingia: Ingia kwenye akaunti yako ya HBO baada ya kusakinisha.",
+        "p6": "6. Alika: Anzisha na waalike washiriki kulingana na maagizo ya jukwaa."
+      },
+      {
+        "id": "f5",
+        "question": "Ni njia gani ya kuunda sherehe pepe kwa kutumia kiendelezi cha HBO Watch Party?",
+        "answer": "Ili kuunda Sherehe ya Kutazama ya HBO:-",
+        "p1": "1. Tembelea tovuti rasmi ya HBO au chaneli za mitandao ya kijamii kwa matangazo kuhusu kipengele cha Watch Party.",
+        "p2": "2. Tafuta 'HBO Watch Party' kwenye duka la kiendelezi la kivinjari chako (k.m., Duka la Chrome kwenye Wavuti). Ikipatikana, sakinisha kiendelezi.",
+        "p3": "3. Ingia kwenye akaunti yako ya HBO baada ya kusakinisha kiendelezi ili kusawazisha maudhui na wahusika.",
+        "P4": "4. Tafuta chaguo la kuanzisha Sherehe ya Kutazama, chagua maudhui na uwaalike marafiki kujiunga.",
+        "p5": "5. Tumia zana zilizojengewa ndani ili kualika marafiki kupitia kiungo, msimbo, au orodha ya anwani.",
+        "p6": "6. Anza kutazama mara washiriki wanapojiunga; uchezaji kwa kawaida husawazishwa.",
+        "p7": "7. Tumia kipengele cha gumzo au maoni kwa mawasiliano na miitikio ya wakati halisi."
+      },
+      {
+        "id": "f6",
+        "question": "Jinsi ya kujiunga na chama cha kutazama?",
+        "answer": "Fuata hatua hizi ili kujiunga na chama:-",
+        "p1": "1. Chagua huduma ya kutiririsha (k.m., Netflix, Hulu) au jukwaa la mitandao ya kijamii lenye vipengele vya chama cha kutazama.",
+        "p2": "2. Tafuta 'Sherehe ya Kutazama' au vipengele sawa. Sakinisha viendelezi vya kivinjari vinavyohitajika au programu ikiwa inahitajika.",
+        "p3": "3. Shiriki kiungo, toa msimbo, au tumia orodha yako ya anwani kuwaalika marafiki.",
+        "p4": "4 . Mara tu washiriki wanapojiunga, mpangishaji anaanza video, na kila mtu atatazama kwa wakati mmoja.",
+        "p5": "5. Shiriki katika majadiliano ya wakati halisi kwa kutumia kipengele cha gumzo au maoni cha jukwaa.",
+        "p6": "6. Zingatia mahitaji yoyote mahususi ya jukwaa, kama vile viendelezi vya kivinjari au usakinishaji wa programu."
+      },
+      {
+        "id": "f7",
+        "question": "Je, ni muhimu kwa wanachama wote wa chama kuwa katika nchi moja?",
+        "answer": "Ndiyo, ikiwa mwanachama au mshiriki yeyote wa chama sawa pepe anaishi katika nchi tofauti, anaweza kutumia VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Tujulishe.",
+    "anyQuestions": "Una maswali? Tembelea ukurasa wetu wa usaidizi",
+    "blog": "Blogu",
+    "privacy": "Faragha",
+    "popularSearches": "Utafutaji Maarufu",
+    "disclaimer": "Kanusho",
+    "disclaimerContent": "HBO ni chapa ya biashara ya Home Box Office, Inc.. Tovuti hii",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Tazama Sherehe ya HBO Max",
+      "HBO Go Watch Party",
+      "Chama cha HBO",
+      "HBO Max Party"
+    ]
+  }
+}

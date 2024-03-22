@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "添加", "free": "这是免费的" },
+    "navBarHeading": "现已在 Google Chrome、Microsoft Edge 和 Mozilla Firefox 上提供"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO 观看派对 - 与朋友一起观看 HBO Max",
+      "html": "HBO Watch Party 使您能够与任意数量的人同步流式传输 HBO 视频。该扩展适用于所有 HBO 订阅者。它确保所有 <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> 参与者的音频和视频完美同步。此外，您还可以在侧边栏中与其他参与者聊天，同时一起传输视频！",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "如何使用 HBO Max Watch Party",
+      "subHeading": "请按照下面列出的步骤开始使用 HBO Watch Party 扩展： –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "安装扩展并将其固定到工具栏",
+          "answer": "请通过 <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome 扩展程序</u>安装该扩展程序</a >。请注意，该扩展程序仅与 Chromebook、Windows 或 macOS 设备兼容。除此之外，您还应该记住，您可以通过 Google Chrome 或 Microsoft Edge 浏览器下载扩展程序。安装扩展程序后，您应该将其固定到工具栏上。"
+        },
+        {
+          "id": "2",
+          "question": "HBO 登录",
+          "answer": "您必须订阅 HBO 才能使用 HBO Party 扩展。此外，您需要登录您的 HBO 帐户才能创建或加入虚拟派对。"
+        },
+        {
+          "id": "3",
+          "question": "搜索并播放视频",
+          "answer": "登录 HBO 后，您应该搜索想要在 ​​HBO Party 中流式传输的电视节目、网络连续剧、电影或任何其他视频。此外，您需要播放视频才能创建聚会。"
+        },
+        {
+          "id": "4",
+          "question": "主持或创建虚拟聚会",
+          "answer": "您可以使用 HBO Watch Party 扩展创建或主持虚拟派对。为此，您所需要做的就是登录 HBO 帐户并搜索并播放视频。之后，您应该单击 HBO Party 扩展图标。然后，选择“开始聚会”选项来创建虚拟聚会链接。此外，请与朋友和家人分享此链接，邀请他们参加 HBO 派对。"
+        },
+        {
+          "id": "5",
+          "question": "参加 HBO 观看派对",
+          "answer": "您可以通过派对链接加入 HBO 派对。为此，您需要登录 HBO 帐户并单击链接。此外，如果您还没有安装 HBO Party 扩展，则必须安装。现在，您将被重定向到聚会。"
+        }
+      ]
+    },
+    "three": {
+      "heading": "HBO Watch Party 的突出特点",
+      "subHeading": "该扩展使您可以访问各种独特且令人兴奋的功能，例如：",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "定制功能",
+          "answer": "扩展程序的自定义功能允许您选择和设置您选择的用户名和用户图标。 HBO Watch Party Extension 还拥有各种可爱有趣的头像，您可以将其设置为个人资料图标。此外，您还可以将您的昵称作为您的用户名。人们可以看到您的用户名和图标。"
+        },
+        {
+          "id": "t2",
+          "question": "跟朋友聊天",
+          "answer": "您还可以在直播时与其他虚拟派对成员聊天。因此，它会给您的观看聚会增添更多乐趣。"
+        },
+        {
+          "id": "t3",
+          "question": "支持不同设备",
+          "answer": "HBO 观看派对扩展程序与所有 macOS、Windows 和 Chromebook 笔记本电脑或 PC 兼容。"
+        },
+        {
+          "id": "t4",
+          "question": "全球供应",
+          "answer": "该扩展在全球范围内可用。因此，您可以随时随地与朋友或家人一起观看您喜爱的 HBO 电影和节目。"
+        },
+        {
+          "id": "t5",
+          "question": "同步高清流媒体",
+          "answer": "在 HBO 上与您最喜欢的人同步观看您最喜欢的电视节目、电影和任何视频，同样具有高清质量和快速缓冲。"
+        },
+        {
+          "id": "t6",
+          "question": "控制您的观看派对标题",
+          "answer": "HBO Watch Party 让主持人通过启用“只有我可以控制”按钮来保持对聚会的控制。它允许他们控制视频的播放设置。"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "经常问的问题",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "我可以使用 HBO Max Watch Party 扩展程序做什么？",
+        "answer": "如果您是 HBO 订阅者，那么您可以在 HBO 上与您最喜欢的人在线同步观看您最喜欢的电视节目、网络连续剧、电影等。此外，该扩展还允许您在看电影时与朋友聊天。"
+      },
+      {
+        "id": "f2",
+        "question": "一次 HBO Watch Party 可以有多少人参加？",
+        "answer": "可以加入虚拟聚会的人数没有限制。因此，您可以添加任意数量的成员。"
+      },
+      {
+        "id": "f3",
+        "question": "该扩展程序还具有聊天功能吗？",
+        "answer": "是的，它有聊天功能，您可以在直播时与其他参与者聊天。"
+      },
+      {
+        "id": "f4",
+        "question": "安装 HBO Watch Party 扩展有哪些先决条件？",
+        "answer": "要设置 HBO Watch Party：-",
+        "p1": "1. HBO 官方网站：访问 HBO 的支持部分以获取观看派对信息和扩展。",
+        "p2": "2. 扩展程序商店：检查 Chrome Web Store 或 Mozilla 附加组件中的“HBO watch party”扩展程序。",
+        "p3": "3. 系统要求：验证系统和浏览器要求。",
+        "p4": "4. 安装扩展程序：单击“添加到 Chrome”或扩展程序商店中的等效项。",
+        "p5": "5. 登录：安装后登录您的 HBO 帐户。",
+        "p6": "6. 邀请：按照平台说明发起并邀请参与者。"
+      },
+      {
+        "id": "f5",
+        "question": "使用 HBO Watch Party 扩展创建虚拟派对的方法是什么？",
+        "answer": "创建 HBO 观看派对：-",
+        "p1": "1. 访问HBO官网或社交媒体渠道，了解有关Watch Party功能的公告。",
+        "p2": "2. 在浏览器的扩展程序商店（例如 Chrome 网上应用店）中搜索“HBO Watch Party”。如果可用，请安装扩展。",
+        "p3": "3. 安装扩展程序后登录您的 HBO 帐户以同步内容和聚会。",
+        "P4": "4. 寻找发起观看派对的选项，选择内容并邀请朋友加入。",
+        "p5": "5. 使用内置工具通过链接、代码或联系人列表邀请好友。",
+        "p6": "6. 参与者加入后开始观看；播放通常是同步的。",
+        "p7": "7. 利用聊天或评论功能进行实时沟通和反应。"
+      },
+      {
+        "id": "f6",
+        "question": "如何参加观看派对？",
+        "answer": "请按照以下步骤加入聚会： –",
+        "p1": "1. 选择流媒体服务（例如 Netflix、Hulu）或具有观看派对功能的社交媒体平台。",
+        "p2": "2. 寻找“Watch Party”或类似功能。如果需要，安装所需的浏览器扩展或应用程序。",
+        "p3": "3. 分享链接、生成代码或使用您的联系人列表邀请朋友。",
+        "p4": "4.参与者加入后，主持人开始视频，所有人同时观看。",
+        "p5": "5. 使用平台的聊天或评论功能进行实时讨论。",
+        "p6": "6. 遵守任何特定于平台的要求，例如浏览器扩展或应用程序安装。"
+      },
+      {
+        "id": "f7",
+        "question": "观看队伍的所有成员必须在同一个国家吗？",
+        "answer": "是的，如果同一虚拟聚会的任何成员或参与者居住在不同的国家/地区，他们可以使用 VPN。"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "让我们知道。",
+    "anyQuestions": "有疑问吗？访问我们的支持页面",
+    "blog": "博客",
+    "privacy": "隐私",
+    "popularSearches": "热门搜索",
+    "disclaimer": "免责声明",
+    "disclaimerContent": "HBO 是 Home Box Office, Inc. 的商标。本网站",
+    "footerTags": [
+      "HBO Max 观看派对",
+      "HBO 观看派对",
+      "观看派对 HBO Max",
+      "HBO 观看派对",
+      "HBO 派对",
+      "HBO Max 派对"
+    ]
+  }
+}

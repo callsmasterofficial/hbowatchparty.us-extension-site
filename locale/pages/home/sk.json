@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pridať k", "free": "Je to zadarmo" },
+    "navBarHeading": "je teraz k dispozícii v prehliadačoch Google Chrome, Microsoft Edge a Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party – Sledujte HBO Max so svojimi priateľmi",
+      "html": "HBO Watch Party vám umožňuje streamovať videá HBO synchronizovane s toľkými ľuďmi, koľko chcete. Rozšírenie je dostupné pre všetkých predplatiteľov HBO. Zabezpečuje dokonalú synchronizáciu zvuku a videa všetkých účastníkov <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Okrem toho môžete tiež chatovať s ostatnými účastníkmi na bočnom paneli pri spoločnom streamovaní videa!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Ako používať HBO Max Watch Party",
+      "subHeading": "Ak chcete začať s rozšírením HBO Watch Party Extension, postupujte podľa nižšie uvedených krokov: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Nainštalujte a pripnite rozšírenie na panel s nástrojmi",
+          "answer": "Nainštalujte si rozšírenie pomocou <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> rozšírenia Chrome</u></a >. Upozorňujeme, že rozšírenie je kompatibilné iba so zariadeniami Chromebook, Windows alebo macOS. Okrem toho by ste mali pamätať na to, že rozšírenie si môžete stiahnuť prostredníctvom prehliadačov Google Chrome alebo Microsoft Edge. Po nainštalovaní rozšírenia by ste ho mali pripnúť na panel s nástrojmi."
+        },
+        {
+          "id": "2",
+          "question": "Prihlásenie na HBO",
+          "answer": "Ak chcete používať rozšírenie HBO Party, musíte mať predplatné HBO. Ak chcete vytvoriť virtuálnu párty alebo sa k nej pripojiť, musíte sa prihlásiť do svojho účtu HBO."
+        },
+        {
+          "id": "3",
+          "question": "Vyhľadajte a prehrajte video",
+          "answer": "Po prihlásení do HBO by ste mali vyhľadať televíznu reláciu, webovú sériu, film alebo akékoľvek iné video, ktoré chcete streamovať na HBO Party. Okrem toho musíte prehrať video, aby ste vytvorili párty."
+        },
+        {
+          "id": "4",
+          "question": "Hostite alebo vytvorte virtuálnu párty",
+          "answer": "Virtuálnu párty môžete vytvoriť alebo usporiadať pomocou rozšírenia HBO Watch Party. Na to sa stačí prihlásiť do účtu HBO a vyhľadať a prehrať video. Potom by ste mali kliknúť na ikonu rozšírenia HBO Party. Potom vyberte možnosť „Začať párty“ a vytvorte odkaz na virtuálnu párty. Okrem toho zdieľajte tento odkaz s priateľmi a rodinou, aby ste ich pozvali na HBO Party."
+        },
+        {
+          "id": "5",
+          "question": "Pripojte sa k HBO Watch Party",
+          "answer": "Na párty HBO sa môžete pripojiť pomocou odkazu na párty. Na to sa musíte prihlásiť do účtu HBO a kliknúť na odkaz. Okrem toho si musíte nainštalovať rozšírenie HBO Party, ak ste tak ešte neurobili. Teraz budete presmerovaní na párty."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Vynikajúce vlastnosti HBO Watch Party",
+      "subHeading": "Rozšírenie vám poskytuje prístup k rôznym jedinečným a ohromujúcim funkciám, ako napríklad:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Funkcia prispôsobenia",
+          "answer": "Funkcia prispôsobenia rozšírenia vám umožňuje vybrať a nastaviť používateľské meno a ikonu používateľa podľa vášho výberu. HBO Watch Party Extension má tiež rôzne roztomilé a vtipné avatary, ktoré si môžete nastaviť ako ikonu svojho profilu. Okrem toho môžete ako používateľské meno zadať aj svoju prezývku. Vaše používateľské meno a ikona budú viditeľné pre ľudí."
+        },
+        {
+          "id": "t2",
+          "question": "Chat s kamarátmi",
+          "answer": "Počas streamovania môžete tiež chatovať s ostatnými členmi virtuálnej skupiny. Preto dodá vašej hodinárskej párty viac zábavy."
+        },
+        {
+          "id": "t3",
+          "question": "Podporuje rôzne zariadenia",
+          "answer": "Rozšírenie HBO Watch Party je kompatibilné so všetkými notebookmi alebo počítačmi MacOS, Windows a Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Celosvetová dostupnosť",
+          "answer": "Rozšírenie je dostupné po celom svete. Svoje obľúbené filmy a relácie HBO si preto môžete vychutnať spolu s priateľmi alebo rodinou kedykoľvek a kdekoľvek."
+        },
+        {
+          "id": "t5",
+          "question": "HD streamovanie v synchronizácii",
+          "answer": "Sledujte svoje obľúbené televízne programy, filmy, akékoľvek video na HBO v synchronizácii so svojimi obľúbenými ľuďmi, a to v HD kvalite a s rýchlym ukladaním do vyrovnávacej pamäte."
+        },
+        {
+          "id": "t6",
+          "question": "Ovládajte názov večierka pri sledovaní",
+          "answer": "HBO Watch Party umožňuje hostiteľovi udržať kontrolu nad párty povolením tlačidla „Ovládať mám len ja“. Umožňuje im ovládať nastavenia prehrávania videa."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "často kladené otázky",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Čo môžem robiť s rozšírením HBO Max Watch Party?",
+        "answer": "Ak ste predplatiteľom HBO, môžete si vychutnať sledovanie svojich obľúbených televíznych relácií, webových seriálov, filmov a oveľa viac na HBO v synchronizácii so svojimi obľúbenými ľuďmi online. Okrem toho vám rozšírenie tiež umožňuje chatovať s priateľmi pri sledovaní filmov."
+      },
+      {
+        "id": "f2",
+        "question": "Koľko ľudí sa môže zúčastniť jednej HBO Watch Party?",
+        "answer": "Počet ľudí, ktorí sa môžu pripojiť k virtuálnej párty, nie je obmedzený. Preto môžete pridať toľko členov, koľko chcete."
+      },
+      {
+        "id": "f3",
+        "question": "Má rozšírenie aj funkciu chatu?",
+        "answer": "Áno, má funkciu chatu, ktorá vám umožňuje chatovať počas streamovania s ostatnými účastníkmi."
+      },
+      {
+        "id": "f4",
+        "question": "Aké sú predbežné požiadavky na inštaláciu rozšírenia HBO Watch Party?",
+        "answer": "Ak chcete nastaviť HBO Watch Party: -",
+        "p1": "1. Oficiálna webová stránka HBO: Navštívte sekciu podpory HBO, kde nájdete informácie o večierkoch a rozšíreniach.",
+        "p2": "2. Obchod s rozšíreniami: V Internetovom obchode Chrome alebo v doplnkoch Mozilla si vyhľadajte rozšírenie „HBO watch party“.",
+        "p3": "3. Systémové požiadavky: Overte si požiadavky na systém a prehliadač.",
+        "p4": "4. Inštalácia rozšírenia: Kliknite na položku „Pridať do prehliadača Chrome“ alebo ekvivalent v obchode s rozšíreniami.",
+        "p5": "5. Prihlásenie: Po inštalácii sa prihláste do svojho účtu HBO.",
+        "p6": "6. Pozvať: Iniciujte a pozývajte účastníkov podľa pokynov platformy."
+      },
+      {
+        "id": "f5",
+        "question": "Aký je spôsob vytvorenia virtuálnej párty pomocou rozšírenia HBO Watch Party?",
+        "answer": "Ak chcete vytvoriť HBO Watch Party: -",
+        "p1": "1. Navštívte oficiálnu webovú stránku HBO alebo kanály sociálnych médií, kde nájdete oznámenia o funkcii Watch Party.",
+        "p2": "2. Vyhľadajte „HBO Watch Party“ v obchode s rozšíreniami svojho prehliadača (napr. Internetový obchod Chrome). Ak je k dispozícii, nainštalujte rozšírenie.",
+        "p3": "3. Prihláste sa do svojho účtu HBO po nainštalovaní rozšírenia na synchronizáciu obsahu a večierkov.",
+        "P4": "4. Vyhľadajte možnosť začať Watch Party, vybrať obsah a pozvať priateľov, aby sa pripojili.",
+        "p5": "5. Použite vstavané nástroje na pozvanie priateľov prostredníctvom odkazu, kódu alebo zoznamu kontaktov.",
+        "p6": "6. Začnite sledovať, keď sa účastníci pripoja; prehrávanie je zvyčajne synchronizované.",
+        "p7": "7. Využite funkciu chatu alebo komentára na komunikáciu a reakcie v reálnom čase."
+      },
+      {
+        "id": "f6",
+        "question": "Ako sa pripojiť k hodinám?",
+        "answer": "Ak sa chcete pripojiť k párty, postupujte podľa týchto krokov: –",
+        "p1": "1. Vyberte streamovaciu službu (napr. Netflix, Hulu) alebo platformu sociálnych médií s funkciami večierkov.",
+        "p2": "2. Hľadajte „Watch Party“ alebo podobné funkcie. V prípade potreby nainštalujte požadované rozšírenia prehliadača alebo aplikácie.",
+        "p3": "3. Zdieľajte odkaz, vygenerujte kód alebo použite svoj zoznam kontaktov na pozvanie priateľov.",
+        "p4": "4. Keď sa účastníci pripoja, hostiteľ spustí video a všetci ho pozerajú súčasne.",
+        "p5": "5. Zapojte sa do diskusií v reálnom čase pomocou funkcie chatu alebo komentárov platformy.",
+        "p6": "6. Dodržiavajte všetky požiadavky špecifické pre platformu, ako sú rozšírenia prehliadača alebo inštalácie aplikácií."
+      },
+      {
+        "id": "f7",
+        "question": "Je potrebné, aby všetci členovia sledovacej skupiny boli v rovnakej krajine?",
+        "answer": "Áno, ak ktorýkoľvek člen alebo účastník tej istej virtuálnej strany žije v inej krajine, môže použiť VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Dajte nám vedieť.",
+    "anyQuestions": "Máte otázky? Navštívte našu stránku podpory",
+    "blog": "Blog",
+    "privacy": "Ochrana osobných údajov",
+    "popularSearches": "Populárne vyhľadávania",
+    "disclaimer": "Vylúčenie zodpovednosti",
+    "disclaimerContent": "HBO je ochranná známka spoločnosti Home Box Office, Inc.. Táto webová stránka",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Sledujte Party HBO Max",
+      "HBO Go Watch Party",
+      "HBO párty",
+      "HBO Max Party"
+    ]
+  }
+}

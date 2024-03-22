@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lägg till", "free": "Det är gratis" },
+    "navBarHeading": "är nu tillgänglig på Google Chrome, Microsoft Edge och Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Titta på HBO Max med dina vänner",
+      "html": "HBO Watch Party gör att du kan strömma HBO-videor synkroniserat med så många människor du vill. Tillägget är tillgängligt för alla HBO-prenumeranter. Det säkerställer perfekt ljud- och videosynkronisering för alla <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a>-deltagare . Dessutom kan du även chatta med andra deltagare i en sidofält medan du streamar videon tillsammans!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Hur man använder HBO Max Watch Party",
+      "subHeading": "Följ stegen nedan för att komma igång med HBO Watch Party Extension: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installera och fäst tillägget i verktygsfältet",
+          "answer": "Installera tillägget med <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome-tillägget</u></a >. Observera att tillägget endast är kompatibelt med Chromebook-, Windows- eller macOS-enheter. Utöver detta bör du också tänka på att du kan ladda ner tillägget via webbläsare Google Chrome eller Microsoft Edge. När du har installerat tillägget bör du fästa det i verktygsfältet."
+        },
+        {
+          "id": "2",
+          "question": "HBO inloggning",
+          "answer": "Du måste ha ett HBO-abonnemang för att använda HBO Party-tillägget. Dessutom måste du logga in på ditt HBO-konto för att skapa eller gå med i den virtuella festen."
+        },
+        {
+          "id": "3",
+          "question": "Sök och spela upp videon",
+          "answer": "Efter att HBO loggat in bör du söka efter ett TV-program, webbserie, film eller någon annan video som du vill streama i din HBO Party. Dessutom måste du spela upp videon för att skapa en fest."
+        },
+        {
+          "id": "4",
+          "question": "Värd eller skapa en virtuell fest",
+          "answer": "Du kan skapa eller vara värd för den virtuella festen med HBO Watch Party-tillägget. För detta behöver du bara logga in på HBO-kontot och söka och spela upp videon. Efter detta bör du klicka på HBO Party-tilläggsikonen. Välj sedan alternativet \"Starta festen\" för att skapa din virtuella festlänk. Dela dessutom denna länk med vänner och familj för att bjuda in dem till HBO-festen."
+        },
+        {
+          "id": "5",
+          "question": "Gå med i en HBO Watch Party",
+          "answer": "Du kan gå med i HBO-festen med partylänken. För detta måste du logga in på HBO-kontot och klicka på länken. Dessutom måste du installera HBO Party-tillägget om du inte redan har gjort det. Nu kommer du att omdirigeras till festen."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Enastående funktioner i HBO Watch Party",
+      "subHeading": "Tillägget ger dig tillgång till olika unika och häpnadsväckande funktioner, såsom:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Anpassningsfunktion",
+          "answer": "Anpassningsfunktionen för tillägget låter dig välja och ställa in det användarnamn och användarikon du väljer. HBO Watch Party Extension har också olika söta och roliga avatarer som du kan ställa in som din profilikon. Dessutom kan du också lägga ditt smeknamn som ditt användarnamn. Ditt användarnamn och ikon kommer att vara synliga för andra."
+        },
+        {
+          "id": "t2",
+          "question": "Snacka med vänner",
+          "answer": "Du kan också chatta med andra virtuella partimedlemmar medan du streamar. Därför kommer det att lägga till roligare till din klockfest."
+        },
+        {
+          "id": "t3",
+          "question": "Stöder olika enheter",
+          "answer": "HBO Watch Party-tillägget är kompatibelt med alla bärbara eller PC-datorer med macOS, Windows och Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Tillgänglighet över hela världen",
+          "answer": "Tillägget är tillgängligt över hela världen. Därför kan du njuta av att titta på dina favoritfilmer och serier från HBO tillsammans med dina vänner eller familj när som helst, var som helst."
+        },
+        {
+          "id": "t5",
+          "question": "HD-streaming i Sync",
+          "answer": "Titta på dina favorit-tv-program, filmer, vilken video som helst på HBO i synk med dina favoritmänniskor, även i HD-kvalitet och med snabb buffring."
+        },
+        {
+          "id": "t6",
+          "question": "Styr titeln på din klockfest",
+          "answer": "HBO Watch Party låter värden behålla kontrollen över festen genom att aktivera knappen \"Endast jag har kontroll\". Det låter dem kontrollera uppspelningsinställningarna för videon."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Vanliga frågor",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Vad kan jag göra med HBO Max Watch Party-tillägget?",
+        "answer": "Om du är en HBO-prenumerant kan du titta på dina favoritprogram, webbserier, filmer och mycket mer på HBO i synk med dina favoritpersoner online. Dessutom gör tillägget också att du kan chatta med dina vänner medan du tittar på film."
+      },
+      {
+        "id": "f2",
+        "question": "Hur många personer kan gå med i en enda HBO Watch Party?",
+        "answer": "Det finns ingen begränsning på antalet personer som kan gå med i den virtuella festen. Därför kan du lägga till så många medlemmar du vill."
+      },
+      {
+        "id": "f3",
+        "question": "Har tillägget också en chattfunktion?",
+        "answer": "Ja, den har chattfunktionen, som låter dig chatta medan du streamar med de andra deltagarna."
+      },
+      {
+        "id": "f4",
+        "question": "Vilka är förkraven för att installera HBO Watch Party-tillägget?",
+        "answer": "Så här ställer du in HBO Watch Party:-",
+        "p1": "1. Officiell HBO-webbplats: Besök HBO:s supportsektion för information om visningsfester och tillägg.",
+        "p2": "2. Extension Store: Kontrollera Chrome Web Store eller Mozilla-tillägg för tillägget \"HBO watch party\".",
+        "p3": "3. Systemkrav: Verifiera system- och webbläsarkrav.",
+        "p4": "4. Installera tillägg: Klicka på \"Lägg till i Chrome\" eller motsvarande i tilläggsbutiken.",
+        "p5": "5. Logga in: Logga in på ditt HBO-konto efter installationen.",
+        "p6": "6. Bjud in: Initiera och bjud in deltagare enligt plattformsinstruktioner."
+      },
+      {
+        "id": "f5",
+        "question": "Vad är metoden för att skapa en virtuell fest med HBO Watch Party-tillägget?",
+        "answer": "Så här skapar du en HBO Watch Party:-",
+        "p1": "1. Besök HBO:s officiella webbplats eller sociala mediekanaler för meddelanden om Watch Party-funktionen.",
+        "p2": "2. Sök efter \"HBO Watch Party\" i din webbläsares tilläggsbutik (t.ex. Chrome Web Store). Om tillgängligt, installera tillägget.",
+        "p3": "3. Logga in på ditt HBO-konto efter att du har installerat tillägget för att synkronisera innehåll och fester.",
+        "P4": "4. Leta efter alternativet att starta en Watch Party, välj innehåll och bjud in vänner att gå med.",
+        "p5": "5. Använd inbyggda verktyg för att bjuda in vänner via länk, kod eller kontaktlista.",
+        "p6": "6. Börja titta när deltagarna går med; uppspelningen är vanligtvis synkroniserad.",
+        "p7": "7. Använd chatt- eller kommentarsfunktionen för kommunikation och reaktioner i realtid."
+      },
+      {
+        "id": "f6",
+        "question": "Hur går man med på klockfesten?",
+        "answer": "Följ dessa steg för att gå med i festen: –",
+        "p1": "1. Välj en streamingtjänst (t.ex. Netflix, Hulu) eller en social medieplattform med funktioner för titta på fester.",
+        "p2": "2. Leta efter \"Watch Party\" eller liknande funktioner. Installera nödvändiga webbläsartillägg eller appar om det behövs.",
+        "p3": "3. Dela en länk, generera en kod eller använd din kontaktlista för att bjuda in vänner.",
+        "p4": "4 . När deltagarna går med startar värden videon och alla tittar på samtidigt.",
+        "p5": "5. Delta i diskussioner i realtid med hjälp av plattformens chatt- eller kommentarsfunktion.",
+        "p6": "6. Följ alla plattformsspecifika krav, till exempel webbläsartillägg eller appinstallationer."
+      },
+      {
+        "id": "f7",
+        "question": "Är det nödvändigt för alla urpartimedlemmar att vara i samma land?",
+        "answer": "Ja, om någon medlem eller deltagare i samma virtuella parti bor i ett annat land kan de använda ett VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Låt oss veta.",
+    "anyQuestions": "Har frågor? Besök vår supportsida",
+    "blog": "Blogg",
+    "privacy": "Integritet",
+    "popularSearches": "Populära sökningar",
+    "disclaimer": "varning",
+    "disclaimerContent": "HBO är ett varumärke som tillhör Home Box Office, Inc.. Denna webbplats",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Titta på Party HBO Max",
+      "HBO Go Watch Party",
+      "HBO fest",
+      "HBO Max Party"
+    ]
+  }
+}

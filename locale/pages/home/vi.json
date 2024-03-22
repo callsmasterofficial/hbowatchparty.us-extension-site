@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Thêm vào", "free": "Nó miễn phí" },
+    "navBarHeading": "hiện có sẵn trên Google Chrome, Microsoft Edge và Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Bữa tiệc xem HBO - Xem HBO Max cùng bạn bè của bạn",
+      "html": "HBO Watch Party cho phép bạn truyền phát video HBO đồng bộ với bao nhiêu người tùy thích. Tiện ích mở rộng có sẵn cho tất cả người đăng ký HBO. Nó đảm bảo đồng bộ hóa âm thanh và video hoàn hảo của tất cả những người tham gia <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Hơn nữa, bạn cũng có thể trò chuyện với những người tham gia khác trong thanh bên trong khi truyền phát video cùng nhau!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Cách sử dụng HBO Max Watch Party",
+      "subHeading": "Vui lòng làm theo các bước được liệt kê bên dưới để bắt đầu với Tiện ích mở rộng HBO Watch Party: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Cài đặt và ghim tiện ích mở rộng vào thanh công cụ",
+          "answer": "Vui lòng cài đặt tiện ích mở rộng bằng <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Tiện ích mở rộng của Chrome</u></a >. Xin lưu ý rằng tiện ích mở rộng chỉ tương thích với các thiết bị Chromebook, Windows hoặc macOS. Ngoài ra, bạn cũng nên nhớ rằng bạn có thể tải xuống tiện ích mở rộng thông qua trình duyệt Google Chrome hoặc Microsoft Edge. Sau khi cài đặt tiện ích mở rộng, bạn nên ghim tiện ích mở rộng đó vào thanh công cụ."
+        },
+        {
+          "id": "2",
+          "question": "Đăng nhập HBO",
+          "answer": "Bạn phải đăng ký HBO để sử dụng tiện ích mở rộng HBO Party. Hơn nữa, bạn cần đăng nhập vào tài khoản HBO của mình để tạo hoặc tham gia bữa tiệc ảo."
+        },
+        {
+          "id": "3",
+          "question": "Tìm kiếm và phát video",
+          "answer": "Sau khi đăng nhập HBO, bạn nên tìm kiếm chương trình truyền hình, loạt phim trên web, phim hoặc bất kỳ video nào khác mà bạn muốn phát trực tuyến trong Bữa tiệc HBO của mình. Hơn nữa, bạn cần phát video để tạo một bữa tiệc."
+        },
+        {
+          "id": "4",
+          "question": "Tổ chức hoặc tạo một bữa tiệc ảo",
+          "answer": "Bạn có thể tạo hoặc tổ chức bữa tiệc ảo bằng tiện ích mở rộng HBO Watch Party. Để làm được điều này, tất cả những gì bạn cần làm là đăng nhập vào tài khoản HBO, tìm kiếm và phát video. Sau này, bạn nên nhấp vào biểu tượng tiện ích mở rộng HBO Party. Sau đó, chọn tùy chọn “Bắt đầu bữa tiệc” để tạo liên kết bữa tiệc ảo của bạn. Hơn nữa, vui lòng chia sẻ liên kết này với bạn bè và gia đình để mời họ tham gia Bữa tiệc HBO."
+        },
+        {
+          "id": "5",
+          "question": "Tham gia bữa tiệc xem HBO",
+          "answer": "Bạn có thể tham gia bữa tiệc HBO bằng liên kết bữa tiệc. Để làm điều này, bạn cần đăng nhập vào tài khoản HBO và nhấp vào liên kết. Hơn nữa, bạn phải cài đặt tiện ích mở rộng HBO Party nếu chưa cài đặt. Bây giờ, bạn sẽ được chuyển hướng đến bữa tiệc."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Tính năng nổi bật của HBO Watch Party",
+      "subHeading": "Tiện ích mở rộng này cung cấp cho bạn quyền truy cập vào nhiều tính năng độc đáo và thú vị khác nhau, chẳng hạn như:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tính năng tùy chỉnh",
+          "answer": "Tính năng tùy chỉnh của tiện ích mở rộng cho phép bạn chọn và đặt tên người dùng và biểu tượng người dùng mà bạn chọn. Tiện ích mở rộng HBO Watch Party cũng có nhiều hình đại diện dễ thương và vui nhộn khác nhau mà bạn có thể đặt làm biểu tượng hồ sơ của mình. Ngoài ra, bạn cũng có thể đặt biệt hiệu làm tên người dùng của mình. Tên người dùng và biểu tượng của bạn sẽ hiển thị với mọi người."
+        },
+        {
+          "id": "t2",
+          "question": "Trò chuyện cùng bạn bè",
+          "answer": "Bạn cũng có thể trò chuyện với các thành viên ảo khác trong khi phát trực tuyến. Vì vậy, nó sẽ tạo thêm niềm vui cho bữa tiệc xem của bạn."
+        },
+        {
+          "id": "t3",
+          "question": "Hỗ trợ các thiết bị khác nhau",
+          "answer": "Tiện ích mở rộng bữa tiệc xem HBO tương thích với tất cả máy tính xách tay hoặc PC macOS, Windows và Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Sẵn có trên toàn thế giới",
+          "answer": "Phần mở rộng có sẵn trên toàn thế giới. Do đó, bạn có thể thoải mái xem các bộ phim và chương trình HBO yêu thích của mình cùng với bạn bè hoặc gia đình mọi lúc, mọi nơi."
+        },
+        {
+          "id": "t5",
+          "question": "Truyền phát HD trong Đồng bộ hóa",
+          "answer": "Xem các chương trình truyền hình, phim, bất kỳ video yêu thích nào của bạn trên HBO đồng bộ với những người bạn yêu thích với chất lượng HD và tốc độ tải nhanh."
+        },
+        {
+          "id": "t6",
+          "question": "Kiểm soát tiêu đề buổi xem chung của bạn",
+          "answer": "HBO Watch Party cho phép người tổ chức giữ quyền kiểm soát bữa tiệc bằng cách bật nút “Chỉ tôi mới có quyền kiểm soát”. Nó cho phép họ kiểm soát cài đặt phát của video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Các câu hỏi thường gặp",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Tôi có thể làm gì với tiện ích mở rộng HBO Max Watch Party?",
+        "answer": "Nếu bạn là người đăng ký HBO thì bạn có thể thưởng thức xem các chương trình truyền hình, loạt phim trên web, phim yêu thích của mình và nhiều nội dung khác tại HBO đồng bộ với những người bạn yêu thích trực tuyến. Hơn nữa, tiện ích mở rộng còn cho phép bạn trò chuyện với bạn bè trong khi xem phim."
+      },
+      {
+        "id": "f2",
+        "question": "Có bao nhiêu người có thể tham gia một HBO Watch Party?",
+        "answer": "Không có giới hạn về số lượng người có thể tham gia bữa tiệc ảo. Do đó, bạn có thể thêm bao nhiêu thành viên tùy thích."
+      },
+      {
+        "id": "f3",
+        "question": "Tiện ích mở rộng cũng có tính năng trò chuyện phải không?",
+        "answer": "Có, nó có chức năng trò chuyện, cho phép bạn trò chuyện trong khi phát trực tuyến với những người tham gia khác."
+      },
+      {
+        "id": "f4",
+        "question": "Các yêu cầu trước để cài đặt tiện ích mở rộng HBO Watch Party là gì?",
+        "answer": "Để thiết lập HBO Watch Party: -",
+        "p1": "1. Trang web chính thức của HBO: Truy cập phần hỗ trợ của HBO để biết thông tin và tiện ích mở rộng về bữa tiệc xem.",
+        "p2": "2. Cửa hàng tiện ích mở rộng: Kiểm tra Cửa hàng Chrome trực tuyến hoặc Tiện ích bổ sung của Mozilla để biết tiện ích mở rộng \"Bữa tiệc xem HBO\".",
+        "p3": "3. Yêu cầu hệ thống: Xác minh các yêu cầu về hệ thống và trình duyệt.",
+        "p4": "4. Cài đặt tiện ích mở rộng: Nhấp vào 'Thêm vào Chrome' hoặc tương đương trong cửa hàng tiện ích mở rộng.",
+        "p5": "5. Đăng nhập: Đăng nhập vào tài khoản HBO của bạn sau khi cài đặt.",
+        "p6": "6. Mời: Bắt đầu và mời người tham gia theo hướng dẫn của nền tảng."
+      },
+      {
+        "id": "f5",
+        "question": "Phương pháp tạo bữa tiệc ảo bằng tiện ích mở rộng HBO Watch Party là gì?",
+        "answer": "Để tạo Buổi xem chung trên HBO: -",
+        "p1": "1. Truy cập trang web chính thức của HBO hoặc các kênh truyền thông xã hội để biết thông báo về tính năng Watch Party.",
+        "p2": "2. Tìm kiếm 'HBO Watch Party' trên cửa hàng tiện ích mở rộng của trình duyệt của bạn (ví dụ: Cửa hàng Chrome trực tuyến). Nếu có, hãy cài đặt tiện ích mở rộng.",
+        "p3": "3. Đăng nhập vào tài khoản HBO của bạn sau khi cài đặt tiện ích mở rộng để đồng bộ hóa nội dung và các bữa tiệc.",
+        "P4": "4. Tìm tùy chọn để bắt đầu Watch Party, chọn nội dung và mời bạn bè tham gia.",
+        "p5": "5. Sử dụng các công cụ tích hợp để mời bạn bè qua liên kết, mã hoặc danh sách liên hệ.",
+        "p6": "6. Bắt đầu xem khi người tham gia tham gia; phát lại thường được đồng bộ hóa.",
+        "p7": "7. Sử dụng tính năng trò chuyện hoặc nhận xét để liên lạc và phản hồi theo thời gian thực."
+      },
+      {
+        "id": "f6",
+        "question": "Làm thế nào để tham gia bữa tiệc xem?",
+        "answer": "Thực hiện theo các bước sau để tham gia bữa tiệc: –",
+        "p1": "1. Chọn dịch vụ phát trực tuyến (ví dụ: Netflix, Hulu) hoặc nền tảng truyền thông xã hội có tính năng xem chung.",
+        "p2": "2. Tìm kiếm 'Watch Party' hoặc các tính năng tương tự. Cài đặt các ứng dụng hoặc tiện ích mở rộng trình duyệt cần thiết nếu cần.",
+        "p3": "3. Chia sẻ liên kết, tạo mã hoặc sử dụng danh sách liên hệ của bạn để mời bạn bè.",
+        "p4": "4 . Sau khi người tham gia tham gia, người dẫn chương trình sẽ bắt đầu phát video và mọi người cùng xem.",
+        "p5": "5. Tham gia vào các cuộc thảo luận trong thời gian thực bằng tính năng trò chuyện hoặc nhận xét của nền tảng.",
+        "p6": "6. Tuân thủ mọi yêu cầu dành riêng cho nền tảng, chẳng hạn như tiện ích mở rộng trình duyệt hoặc cài đặt ứng dụng."
+      },
+      {
+        "id": "f7",
+        "question": "Có nhất thiết tất cả các thành viên trong nhóm theo dõi phải ở cùng một quốc gia không?",
+        "answer": "Có, nếu bất kỳ thành viên hoặc người tham gia nào của cùng một nhóm ảo sống ở một quốc gia khác, họ có thể sử dụng VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Hãy cho chúng tôi biết.",
+    "anyQuestions": "Có một vài câu hỏi? Truy cập trang hỗ trợ của chúng tôi",
+    "blog": "Blog",
+    "privacy": "Sự riêng tư",
+    "popularSearches": "Tìm kiếm phổ biến",
+    "disclaimer": "Tuyên bố từ chối trách nhiệm",
+    "disclaimerContent": "HBO là thương hiệu của Home Box Office, Inc.. Trang web này",
+    "footerTags": [
+      "Bữa tiệc xem HBO Max",
+      "Bữa tiệc xem HBO",
+      "Bữa tiệc xem HBO Max",
+      "Bữa tiệc xem HBO Go",
+      "bữa tiệc HBO",
+      "Bữa tiệc tối đa của HBO"
+    ]
+  }
+}

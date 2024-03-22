@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "A ekle", "free": "Ücretsiz" },
+    "navBarHeading": "artık Google Chrome, Microsoft Edge ve Mozilla Firefox'ta mevcut"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Arkadaşlarınızla HBO Max'i İzleyin",
+      "html": "HBO Watch Party, HBO videolarını istediğiniz kadar kişiyle senkronize olarak yayınlamanıza olanak tanır. Uzantı tüm HBO aboneleri tarafından kullanılabilir. Tüm <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> katılımcılarının mükemmel ses ve video senkronizasyonunu sağlar. . Ayrıca, videoyu birlikte yayınlarken kenar çubuğunda diğer katılımcılarla da sohbet edebilirsiniz!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "HBO Max İzleme Partisi nasıl kullanılır?",
+      "subHeading": "HBO Watch Party Uzantısını kullanmaya başlamak için lütfen aşağıda listelenen adımları izleyin: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Uzantıyı yükleyin ve araç çubuğuna sabitleyin",
+          "answer": "Lütfen uzantıyı <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome uzantısı</u></a ile yükleyin. >. Uzantının yalnızca Chromebook, Windows veya macOS cihazlarıyla uyumlu olduğunu lütfen unutmayın. Bunun yanı sıra uzantıyı Google Chrome veya Microsoft Edge tarayıcıları üzerinden de indirebileceğinizi unutmamalısınız. Uzantıyı yükledikten sonra araç çubuğuna sabitlemelisiniz."
+        },
+        {
+          "id": "2",
+          "question": "HBO Girişi",
+          "answer": "HBO Party uzantısını kullanmak için bir HBO aboneliğinizin olması gerekir. Üstelik sanal parti oluşturmak veya katılmak için HBO hesabınıza giriş yapmanız gerekiyor."
+        },
+        {
+          "id": "3",
+          "question": "Videoyu arayın ve oynatın",
+          "answer": "HBO'ya giriş yaptıktan sonra HBO Partinizde yayınlamak istediğiniz bir TV şovunu, web dizisini, filmi veya başka bir videoyu aramalısınız. Ayrıca parti oluşturmak için videoyu oynatmanız gerekir."
+        },
+        {
+          "id": "4",
+          "question": "Sanal Parti Ev Sahipliği Yapın veya Oluşturun",
+          "answer": "HBO Watch Party uzantısını kullanarak sanal parti oluşturabilir veya barındırabilirsiniz. Bunun için tek yapmanız gereken HBO hesabına giriş yapıp videoyu arayıp oynatmak. Bundan sonra HBO Party uzantı simgesine tıklamalısınız. Daha sonra sanal parti bağlantınızı oluşturmak için “Partiyi Başlat” seçeneğini seçin. Ayrıca, onları HBO Partisine davet etmek için lütfen bu bağlantıyı arkadaşlarınız ve ailenizle paylaşın."
+        },
+        {
+          "id": "5",
+          "question": "HBO İzleme Partisine katılın",
+          "answer": "Parti linki ile HBO partisine katılabilirsiniz. Bunun için HBO hesabına giriş yapıp bağlantıya tıklamanız gerekiyor. Ayrıca, henüz yapmadıysanız HBO Party uzantısını yüklemeniz gerekir. Şimdi partiye yönlendirileceksiniz."
+        }
+      ]
+    },
+    "three": {
+      "heading": "HBO Watch Party'nin olağanüstü özellikleri",
+      "subHeading": "Uzantı size aşağıdakiler gibi çeşitli benzersiz ve akıllara durgunluk veren özelliklere erişim sağlar:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Kişiselleştirme özelliği",
+          "answer": "Uzantının kişiselleştirme özelliği, istediğiniz kullanıcı adını ve kullanıcı simgesini seçip ayarlamanıza olanak tanır. HBO Watch Party Uzantısı ayrıca profil simgeniz olarak ayarlayabileceğiniz çeşitli sevimli ve eğlenceli avatarlara da sahiptir. Ayrıca kullanıcı adınız olarak takma adınızı da girebilirsiniz. Kullanıcı adınız ve simgeniz insanlar tarafından görülebilecektir."
+        },
+        {
+          "id": "t2",
+          "question": "Arkadaşlarla sohbet",
+          "answer": "Yayın sırasında diğer sanal parti üyeleriyle de sohbet edebilirsiniz. Bu nedenle izleme partinize daha fazla eğlence katacaktır."
+        },
+        {
+          "id": "t3",
+          "question": "Farklı cihazları destekler",
+          "answer": "HBO izleme partisi uzantısı tüm macOS, Windows ve Chromebook dizüstü veya PC'lerle uyumludur."
+        },
+        {
+          "id": "t4",
+          "question": "Dünya çapında kullanılabilirlik",
+          "answer": "Uzantı tüm dünyada mevcuttur. Bu nedenle, en sevdiğiniz HBO filmlerini ve şovlarını arkadaşlarınız veya ailenizle birlikte istediğiniz zaman, istediğiniz yerde izlemenin keyfini çıkarabilirsiniz."
+        },
+        {
+          "id": "t5",
+          "question": "Senkronizasyonda HD akışı",
+          "answer": "En sevdiğiniz TV şovlarını, filmleri ve herhangi bir videoyu HBO'da, en sevdiğiniz kişilerle senkronize olarak, HD kalitesinde ve hızlı ara belleğe alma özelliğiyle izleyin."
+        },
+        {
+          "id": "t6",
+          "question": "İzleme partisi başlığınızı kontrol edin",
+          "answer": "HBO Watch Party, \"Kontrol Yalnızca Bende\" düğmesini etkinleştirerek sunucunun partinin kontrolünü elinde tutmasına olanak tanır. Videonun oynatma ayarlarını kontrol etmelerini sağlar."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Sıkça Sorulan Sorular",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "HBO Max Watch Party uzantısıyla neler yapabilirim?",
+        "answer": "HBO abonesiyseniz, en sevdiğiniz TV şovlarını, web dizilerini, filmleri ve çok daha fazlasını HBO'da çevrimiçi olarak en sevdiğiniz kişilerle senkronize olarak izlemenin keyfini çıkarabilirsiniz. Ayrıca uzantı, film izlerken arkadaşlarınızla sohbet etmenize de olanak tanır."
+      },
+      {
+        "id": "f2",
+        "question": "Tek bir HBO İzleme Partisine kaç kişi katılabilir?",
+        "answer": "Sanal partiye katılabilecek kişi sayısında herhangi bir sınırlama yoktur. Bu nedenle dilediğiniz kadar üye ekleyebilirsiniz."
+      },
+      {
+        "id": "f3",
+        "question": "Uzantının ayrıca sohbet özelliği var mı?",
+        "answer": "Evet, diğer katılımcılarla yayın yaparken sohbet etmenize olanak tanıyan sohbet işlevi vardır."
+      },
+      {
+        "id": "f4",
+        "question": "HBO Watch Party uzantısını yüklemek için ön gereksinimler nelerdir?",
+        "answer": "HBO Watch Party'yi kurmak için: -",
+        "p1": "1. Resmi HBO Web Sitesi: İzleme partisi bilgileri ve uzantıları için HBO'nun destek bölümünü ziyaret edin.",
+        "p2": "2. Uzantı Mağazası: \"HBO izleme partisi\" uzantısı için Chrome Web Mağazası veya Mozilla Eklentilerini kontrol edin.",
+        "p3": "3. Sistem Gereksinimleri: Sistem ve tarayıcı gereksinimlerini doğrulayın.",
+        "p4": "4. Uzantıyı Yükleyin: Uzantı deposunda 'Chrome'a ​​Ekle'yi veya eşdeğerini tıklayın.",
+        "p5": "5. Oturum Açın: Kurulum sonrasında HBO hesabınızda oturum açın.",
+        "p6": "6. Davet Et: Platform talimatlarına göre katılımcıları başlatın ve davet edin."
+      },
+      {
+        "id": "f5",
+        "question": "HBO Watch Party uzantısını kullanarak sanal parti oluşturmanın yöntemi nedir?",
+        "answer": "HBO İzleme Partisi oluşturmak için: -",
+        "p1": "1. Watch Party özelliğine ilişkin duyurular için HBO'nun resmi web sitesini veya sosyal medya kanallarını ziyaret edin.",
+        "p2": "2. Tarayıcınızın uzantı mağazasında (ör. Chrome Web Mağazası) 'HBO Watch Party'yi arayın. Varsa uzantıyı yükleyin.",
+        "p3": "3. İçeriği ve partileri senkronize etmek için uzantıyı yükledikten sonra HBO hesabınızda oturum açın.",
+        "P4": "4. Bir Seyir Partisi başlatma seçeneğini bulun, içeriği seçin ve arkadaşlarınızı katılmaya davet edin.",
+        "p5": "5. Arkadaşlarınızı bağlantı, kod veya kişi listesi aracılığıyla davet etmek için yerleşik araçları kullanın.",
+        "p6": "6. Katılımcılar katıldıktan sonra izlemeye başlayın; oynatma genellikle senkronize edilir.",
+        "p7": "7. Gerçek zamanlı iletişim ve tepkiler için sohbet veya yorum özelliğini kullanın."
+      },
+      {
+        "id": "f6",
+        "question": "İzleme partisine nasıl katılabilirsiniz?",
+        "answer": "Partiye katılmak için şu adımları izleyin: –",
+        "p1": "1. Bir yayın hizmeti (ör. Netflix, Hulu) veya parti izleme özelliklerine sahip bir sosyal medya platformu seçin.",
+        "p2": "2. 'Partiyi İzle' veya benzer özellikleri arayın. Gerekirse gerekli tarayıcı uzantılarını veya uygulamalarını yükleyin.",
+        "p3": "3. Arkadaşlarınızı davet etmek için bir bağlantı paylaşın, bir kod oluşturun veya kişi listenizi kullanın.",
+        "p4": "4. Katılımcılar katıldıktan sonra toplantıyı düzenleyen kişi videoyu başlatır ve herkes aynı anda izler.",
+        "p5": "5. Platformun sohbet veya yorum özelliğini kullanarak gerçek zamanlı tartışmalara katılın.",
+        "p6": "6. Tarayıcı uzantıları veya uygulama yüklemeleri gibi platforma özgü gereksinimlere uyun."
+      },
+      {
+        "id": "f7",
+        "question": "Tüm nöbetçi parti üyelerinin aynı ülkede olması gerekiyor mu?",
+        "answer": "Evet, aynı sanal tarafın herhangi bir üyesi veya katılımcısı farklı bir ülkede yaşıyorsa VPN kullanabilir."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Bilmemize izin ver.",
+    "anyQuestions": "Sorularım var? Destek sayfamızı ziyaret edin",
+    "blog": "Blog",
+    "privacy": "Mahremiyet",
+    "popularSearches": "popüler aramalar",
+    "disclaimer": "Sorumluluk reddi beyanı",
+    "disclaimerContent": "HBO, Home Box Office, Inc.'in ticari markasıdır. Bu web sitesi",
+    "footerTags": [
+      "HBO Max İzleme Partisi",
+      "HBO İzleme Partisi",
+      "Parti HBO Max'i izleyin",
+      "HBO Go Watch Partisi",
+      "HBO Partisi",
+      "HBO Max Partisi"
+    ]
+  }
+}

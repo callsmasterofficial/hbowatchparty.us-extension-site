@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodaj u", "free": "Besplatno je" },
+    "navBarHeading": "sada je dostupan na preglednicima Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - gledajte HBO Max sa svojim prijateljima",
+      "html": "HBO Watch Party omogućuje vam sinkronizirano strujanje HBO videa s koliko god ljudi želite. Proširenje je dostupno za sve HBO pretplatnike. Osigurava savršenu audio i video sinkronizaciju svih sudionika <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Nadalje, također možete razgovarati s drugim sudionicima na bočnoj traci dok zajedno strujite video!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Kako koristiti HBO Max Watch Party",
+      "subHeading": "Molimo vas da slijedite dolje navedene korake kako biste započeli s proširenjem HBO Watch Party: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instalirajte i prikvačite proširenje na alatnu traku",
+          "answer": "Instalirajte proširenje pomoću <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> proširenja za Chrome</u></a >. Napominjemo da je proširenje kompatibilno samo s uređajima Chromebook, Windows ili macOS. Osim toga, trebali biste također imati na umu da proširenje možete preuzeti putem preglednika Google Chrome ili Microsoft Edge. Nakon što instalirate proširenje, trebali biste ga prikvačiti na alatnu traku."
+        },
+        {
+          "id": "2",
+          "question": "Prijava na HBO",
+          "answer": "Morate imati HBO pretplatu da biste koristili proširenje HBO Party. Štoviše, morate se prijaviti na svoj HBO račun kako biste kreirali ili se pridružili virtualnoj zabavi."
+        },
+        {
+          "id": "3",
+          "question": "Pretražite i reproducirajte video",
+          "answer": "Nakon što se prijavite na HBO, trebali biste potražiti TV emisiju, web seriju, film ili bilo koji drugi video koji želite emitirati na svojoj HBO zabavi. Nadalje, morate reproducirati video kako biste napravili zabavu."
+        },
+        {
+          "id": "4",
+          "question": "Domaćin ili stvorite virtualnu zabavu",
+          "answer": "Virtualnu zabavu možete kreirati ili ugostiti pomoću proširenja HBO Watch Party. Za to se trebate samo prijaviti na HBO račun te pretražiti i reproducirati video. Nakon toga trebate kliknuti na ikonu proširenja HBO Party. Zatim odaberite opciju \"Pokreni zabavu\" da biste kreirali poveznicu za svoju virtualnu zabavu. Nadalje, podijelite ovu vezu s prijateljima i obitelji kako biste ih pozvali na HBO Party."
+        },
+        {
+          "id": "5",
+          "question": "Pridružite se HBO Watch Partyju",
+          "answer": "HBO partyju se možete pridružiti putem linka za party. Za to se morate prijaviti na HBO račun i kliknuti na poveznicu. Nadalje, morate instalirati proširenje HBO Party ako već niste. Sada ćete biti preusmjereni na zabavu."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Izvanredne značajke HBO Watch Partyja",
+      "subHeading": "Proširenje vam omogućuje pristup raznim jedinstvenim i nevjerojatnim značajkama, kao što su:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Značajka prilagodbe",
+          "answer": "Značajka prilagodbe proširenja omogućuje vam odabir i postavljanje korisničkog imena i korisničke ikone po vašem izboru. HBO Watch Party Extension također ima razne slatke i smiješne avatare koje možete postaviti kao ikonu svog profila. Osim toga, svoj nadimak možete staviti i kao korisničko ime. Vaše korisničko ime i ikona bit će vidljivi ljudima."
+        },
+        {
+          "id": "t2",
+          "question": "Razgovarajte s prijateljima",
+          "answer": "Također možete razgovarati s drugim članovima virtualne zabave tijekom strujanja. Stoga će dodati više zabave vašoj zabavi gledanja."
+        },
+        {
+          "id": "t3",
+          "question": "Podržava različite uređaje",
+          "answer": "Proširenje HBO watch party kompatibilno je sa svim macOS, Windows i Chromebook prijenosnim ili osobnim računalima."
+        },
+        {
+          "id": "t4",
+          "question": "Dostupnost u cijelom svijetu",
+          "answer": "Ekstenzija je dostupna u cijelom svijetu. Stoga možete uživati ​​u gledanju svojih omiljenih HBO filmova i emisija zajedno sa svojim prijateljima ili obitelji bilo kada i bilo gdje."
+        },
+        {
+          "id": "t5",
+          "question": "HD streaming u sinkronizaciji",
+          "answer": "Gledajte svoje omiljene TV emisije, filmove, bilo koji video na HBO-u sinkronizirano sa svojim omiljenim ljudima, također u HD kvaliteti i s brzim međuspremnikom."
+        },
+        {
+          "id": "t6",
+          "question": "Upravljajte naslovom svoje zabave gledanja",
+          "answer": "HBO Watch Party omogućuje domaćinu da zadrži kontrolu nad zabavom omogućavanjem gumba \"Samo ja imam kontrolu\". Omogućuje im kontrolu postavki reprodukcije videozapisa."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Često postavljana pitanja",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Što mogu učiniti s proširenjem HBO Max Watch Party?",
+        "answer": "Ako ste pretplatnik HBO-a, tada možete uživati ​​u gledanju svojih omiljenih TV emisija, web serija, filmova i još mnogo toga na HBO-u sinkronizirano sa svojim omiljenim ljudima na mreži. Nadalje, proširenje vam također omogućuje razgovor s prijateljima dok gledate filmove."
+      },
+      {
+        "id": "f2",
+        "question": "Koliko se ljudi može pridružiti jednom HBO Watch Partyju?",
+        "answer": "Ne postoji ograničenje broja ljudi koji se mogu pridružiti virtualnoj zabavi. Dakle, možete dodati onoliko članova koliko želite."
+      },
+      {
+        "id": "f3",
+        "question": "Ima li proširenje i značajku chata?",
+        "answer": "Da, ima funkciju čavrljanja, koja vam omogućuje čavrljanje dok strujite s ostalim sudionicima."
+      },
+      {
+        "id": "f4",
+        "question": "Koji su preduvjeti za instaliranje proširenja HBO Watch Party?",
+        "answer": "Za postavljanje HBO Watch Partyja:-",
+        "p1": "1. Službeno HBO web mjesto: Posjetite odjeljak za podršku HBO-a za informacije o zabavi i produžetke.",
+        "p2": "2. Extension Store: Provjerite Chrome Web Store ili Mozilla Add-ons za proširenje \"HBO watch party\".",
+        "p3": "3. Zahtjevi sustava: Provjerite zahtjeve sustava i preglednika.",
+        "p4": "4. Instalirajte proširenje: kliknite \"Dodaj u Chrome\" ili ekvivalent u trgovini proširenja.",
+        "p5": "5. Prijava: Prijavite se na svoj HBO račun nakon instalacije.",
+        "p6": "6. Pozovite: Pokrenite i pozovite sudionike prema uputama platforme."
+      },
+      {
+        "id": "f5",
+        "question": "Koji je način stvaranja virtualne zabave pomoću proširenja HBO Watch Party?",
+        "answer": "Da biste kreirali HBO Watch Party:-",
+        "p1": "1. Posjetite službenu web stranicu HBO-a ili kanale društvenih medija za najave o značajci Watch Party.",
+        "p2": "2. Potražite 'HBO Watch Party' u trgovini proširenja vašeg preglednika (npr. Chrome web trgovina). Ako je dostupno, instalirajte proširenje.",
+        "p3": "3. Prijavite se na svoj HBO račun nakon instaliranja proširenja za sinkronizaciju sadržaja i zabava.",
+        "P4": "4. Potražite opciju za pokretanje Watch Partyja, odaberite sadržaj i pozovite prijatelje da se pridruže.",
+        "p5": "5. Koristite ugrađene alate za pozivanje prijatelja putem veze, koda ili popisa kontakata.",
+        "p6": "6. Počnite gledati kada se sudionici pridruže; reprodukcija je obično sinkronizirana.",
+        "p7": "7. Iskoristite značajku chata ili komentara za komunikaciju i reakcije u stvarnom vremenu."
+      },
+      {
+        "id": "f6",
+        "question": "Kako se pridružiti zabavi gledanja?",
+        "answer": "Slijedite ove korake da biste se pridružili zabavi: –",
+        "p1": "1. Odaberite uslugu strujanja (npr. Netflix, Hulu) ili platformu društvenih medija sa značajkama gledanja zabave.",
+        "p2": "2. Potražite 'Watch Party' ili slične značajke. Instalirajte potrebna proširenja preglednika ili aplikacije ako je potrebno.",
+        "p3": "3. Podijelite vezu, generirajte kod ili koristite svoj popis kontakata da pozovete prijatelje.",
+        "p4": "4 . Nakon što se sudionici pridruže, domaćin pokreće video i svi ga gledaju istovremeno.",
+        "p5": "5. Uključite se u rasprave u stvarnom vremenu koristeći značajku chata ili komentara na platformi.",
+        "p6": "6. Pridržavajte se svih zahtjeva specifičnih za platformu, kao što su proširenja preglednika ili instalacije aplikacija."
+      },
+      {
+        "id": "f7",
+        "question": "Je li nužno da svi članovi watch party-a budu u istoj državi?",
+        "answer": "Da, ako bilo koji član ili sudionik iste virtualne zabave živi u drugoj zemlji, može koristiti VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Javite nam.",
+    "anyQuestions": "Imate pitanja? Posjetite našu stranicu za podršku",
+    "blog": "Blog",
+    "privacy": "Privatnost",
+    "popularSearches": "Popularne pretrage",
+    "disclaimer": "Odricanje",
+    "disclaimerContent": "HBO je zaštitni znak tvrtke Home Box Office, Inc. Ova web stranica",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Gledajte Party HBO Max",
+      "HBO Go Watch Party",
+      "HBO zabava",
+      "HBO Max zabava"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pievienot", "free": "Tas ir bezmaksas" },
+    "navBarHeading": "tagad ir pieejams pārlūkprogrammās Google Chrome, Microsoft Edge un Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO skatīšanās ballīte — skatieties HBO Max kopā ar draugiem",
+      "html": "Izmantojot HBO skatīšanās ballīti, varat straumēt HBO videoklipus sinhroni ar tik daudziem cilvēkiem, cik vēlaties. Paplašinājums ir pieejams visiem HBO abonentiem. Tas nodrošina nevainojamu visu <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO skatīšanās ballītes</u></b></a> dalībnieku audio un video sinhronizāciju. . Turklāt varat arī tērzēt ar citiem dalībniekiem sānjoslā, vienlaikus straumējot video!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Kā izmantot HBO Max Watch Party",
+      "subHeading": "Lai sāktu darbu ar HBO Watch Party paplašinājumu, lūdzu, veiciet tālāk norādītās darbības.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instalējiet un piespraudiet paplašinājumu rīkjoslai",
+          "answer": "Lūdzu, instalējiet paplašinājumu, izmantojot <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u>Chrome paplašinājumu</u></a. >. Lūdzu, ņemiet vērā, ka paplašinājums ir saderīgs tikai ar Chromebook, Windows vai MacOS ierīcēm. Papildus tam ņemiet vērā, ka paplašinājumu var lejupielādēt, izmantojot pārlūkprogrammas Google Chrome vai Microsoft Edge. Kad paplašinājums ir instalēts, tas jāpiesprauž rīkjoslai."
+        },
+        {
+          "id": "2",
+          "question": "HBO pieteikšanās",
+          "answer": "Lai izmantotu HBO Party paplašinājumu, jums ir jābūt HBO abonementam. Turklāt jums ir jāpiesakās savā HBO kontā, lai izveidotu virtuālo ballīti vai pievienotos tai."
+        },
+        {
+          "id": "3",
+          "question": "Meklējiet un atskaņojiet videoklipu",
+          "answer": "Pēc HBO pierakstīšanās jums vajadzētu meklēt TV pārraidi, tīmekļa seriālu, filmu vai jebkuru citu videoklipu, ko vēlaties straumēt savā HBO ballītē. Turklāt, lai izveidotu ballīti, ir jāatskaņo videoklips."
+        },
+        {
+          "id": "4",
+          "question": "Sarīkojiet vai izveidojiet virtuālu ballīti",
+          "answer": "Varat izveidot vai rīkot virtuālo ballīti, izmantojot paplašinājumu HBO Watch Party. Lai to izdarītu, jums tikai jāpiesakās HBO kontā un jāmeklē un jāatskaņo videoklips. Pēc tam jums vajadzētu noklikšķināt uz HBO Party paplašinājuma ikonas. Pēc tam atlasiet opciju “Sākt ballīti”, lai izveidotu virtuālās ballītes saiti. Turklāt, lūdzu, kopīgojiet šo saiti ar draugiem un ģimeni, lai uzaicinātu viņus uz HBO ballīti."
+        },
+        {
+          "id": "5",
+          "question": "Pievienojieties HBO skatīšanās ballītei",
+          "answer": "Jūs varat pievienoties HBO ballītei, izmantojot ballītes saiti. Lai to izdarītu, jums ir jāpierakstās HBO kontā un jānoklikšķina uz saites. Turklāt jums ir jāinstalē HBO Party paplašinājums, ja vēl neesat to izdarījis. Tagad jūs tiksit novirzīts uz ballīti."
+        }
+      ]
+    },
+    "three": {
+      "heading": "HBO Watch Party izcilās funkcijas",
+      "subHeading": "Paplašinājums nodrošina piekļuvi dažādām unikālām un aizraujošām funkcijām, piemēram:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Pielāgošanas funkcija",
+          "answer": "Paplašinājuma pielāgošanas funkcija ļauj jums izvēlēties un iestatīt lietotājvārdu un lietotāja ikonu pēc jūsu izvēles. HBO Watch Party paplašinājumam ir arī dažādi jauki un smieklīgi iemiesojumi, kurus varat iestatīt kā sava profila ikonu. Turklāt kā lietotājvārdu varat ievietot savu segvārdu. Jūsu lietotājvārds un ikona būs redzami cilvēkiem."
+        },
+        {
+          "id": "t2",
+          "question": "Tērzējiet ar draugiem",
+          "answer": "Straumēšanas laikā varat arī tērzēt ar citiem virtuālās ballītes dalībniekiem. Tāpēc tas papildinās jūsu pulksteņu ballīti."
+        },
+        {
+          "id": "t3",
+          "question": "Atbalsta dažādas ierīces",
+          "answer": "HBO pulksteņu ballītes paplašinājums ir saderīgs ar visiem MacOS, Windows un Chromebook klēpjdatoriem vai personālajiem datoriem."
+        },
+        {
+          "id": "t4",
+          "question": "Pieejamība visā pasaulē",
+          "answer": "Paplašinājums ir pieejams visā pasaulē. Tāpēc varat baudīt savu iecienītāko HBO filmu un šovu skatīšanos kopā ar draugiem vai ģimeni jebkurā laikā un vietā."
+        },
+        {
+          "id": "t5",
+          "question": "HD straumēšana sinhronizācijā",
+          "answer": "Skatieties savus iecienītākos TV pārraides, filmas un jebkuru videoklipu HBO sinhronizācijā ar iecienītākajiem cilvēkiem, turklāt HD kvalitātē un ar ātru buferizāciju."
+        },
+        {
+          "id": "t6",
+          "question": "Kontrolējiet savu skatīšanās ballītes nosaukumu",
+          "answer": "HBO Watch Party ļauj rīkotājam kontrolēt ballīti, iespējojot pogu “Tikai man ir kontrole”. Tas ļauj viņiem kontrolēt video atskaņošanas iestatījumus."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "bieži uzdotie jautājumi",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ko es varu darīt ar HBO Max Watch Party paplašinājumu?",
+        "answer": "Ja esat HBO abonents, varat baudīt iecienītāko TV šovu, tīmekļa seriālu, filmu un daudz ko citu skatīšanos HBO sinhronizācijā ar iecienītākajiem cilvēkiem tiešsaistē. Turklāt paplašinājums ļauj arī tērzēt ar draugiem, skatoties filmas."
+      },
+      {
+        "id": "f2",
+        "question": "Cik cilvēku var pievienoties vienai HBO skatīšanās ballītei?",
+        "answer": "Cilvēku skaits, kuri var pievienoties virtuālajai ballītei, nav ierobežots. Tādējādi jūs varat pievienot tik daudz dalībnieku, cik vēlaties."
+      },
+      {
+        "id": "f3",
+        "question": "Vai paplašinājumam ir arī tērzēšanas funkcija?",
+        "answer": "Jā, tai ir tērzēšanas funkcija, kas ļauj tērzēt, straumējot ar citiem dalībniekiem."
+      },
+      {
+        "id": "f4",
+        "question": "Kādi ir priekšnosacījumi, lai instalētu HBO Watch Party paplašinājumu?",
+        "answer": "Lai iestatītu HBO skatīšanās partiju:",
+        "p1": "1. Oficiālā HBO vietne: apmeklējiet HBO atbalsta sadaļu, lai iegūtu informāciju par skatīšanās ballītēm un paplašinājumiem.",
+        "p2": "2. Paplašinājumu veikals. Chrome interneta veikalā vai Mozilla papildinājumos meklējiet paplašinājumu “HBO skatīšanās ballīte”.",
+        "p3": "3. Sistēmas prasības: pārbaudiet sistēmas un pārlūkprogrammas prasības.",
+        "p4": "4. Instalējiet paplašinājumu: paplašinājumu veikalā noklikšķiniet uz Pievienot pārlūkam Chrome vai līdzvērtīga.",
+        "p5": "5. Pieteikšanās: pēc instalēšanas piesakieties savā HBO kontā.",
+        "p6": "6. Uzaicinājums: iniciējiet un uzaiciniet dalībniekus saskaņā ar platformas norādījumiem."
+      },
+      {
+        "id": "f5",
+        "question": "Kā var izveidot virtuālu ballīti, izmantojot paplašinājumu HBO Watch Party?",
+        "answer": "Lai izveidotu HBO skatīšanās ballīti:",
+        "p1": "1. Apmeklējiet HBO oficiālo vietni vai sociālo mediju kanālus, lai saņemtu paziņojumus par funkciju Watch Party.",
+        "p2": "2. Pārlūkprogrammas paplašinājumu veikalā (piemēram, Chrome interneta veikalā) meklējiet “HBO Watch Party”. Ja pieejams, instalējiet paplašinājumu.",
+        "p3": "3. Pēc paplašinājuma instalēšanas piesakieties savā HBO kontā, lai sinhronizētu saturu un ballītes.",
+        "P4": "4. Meklējiet iespēju sākt skatīšanās ballīti, atlasiet saturu un uzaiciniet pievienoties draugus.",
+        "p5": "5. Izmantojiet iebūvētos rīkus, lai uzaicinātu draugus, izmantojot saiti, kodu vai kontaktpersonu sarakstu.",
+        "p6": "6. Sāciet skatīties, kad dalībnieki pievienojas; atskaņošana parasti tiek sinhronizēta.",
+        "p7": "7. Izmantojiet tērzēšanas vai komentāru funkciju, lai sazinātos un reaģētu reāllaikā."
+      },
+      {
+        "id": "f6",
+        "question": "Kā pievienoties pulksteņu ballītei?",
+        "answer": "Lai pievienotos partijai, veiciet šīs darbības: -",
+        "p1": "1. Atlasiet straumēšanas pakalpojumu (piemēram, Netflix, Hulu) vai sociālo saziņas līdzekļu platformu ar skatīšanās ballītes funkcijām.",
+        "p2": "2. Meklējiet “Skatīties ballīti” vai līdzīgas funkcijas. Ja nepieciešams, instalējiet nepieciešamos pārlūkprogrammas paplašinājumus vai lietotnes.",
+        "p3": "3. Kopīgojiet saiti, ģenerējiet kodu vai izmantojiet savu kontaktpersonu sarakstu, lai uzaicinātu draugus.",
+        "p4": "4 . Kad dalībnieki pievienojas, saimnieks sāk video, un visi skatās vienlaikus.",
+        "p5": "5. Iesaistieties reāllaika diskusijās, izmantojot platformas tērzēšanas vai komentāru funkciju.",
+        "p6": "6. Ievērojiet visas platformai specifiskās prasības, piemēram, pārlūkprogrammas paplašinājumus vai lietotņu instalēšanu."
+      },
+      {
+        "id": "f7",
+        "question": "Vai visiem pulksteņu partijas biedriem ir jābūt vienā valstī?",
+        "answer": "Jā, ja kāds tās pašas virtuālās ballītes dalībnieks vai dalībnieks dzīvo citā valstī, viņš var izmantot VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Paziņojiet mums.",
+    "anyQuestions": "Vai jums ir jautājumi? Apmeklējiet mūsu atbalsta lapu",
+    "blog": "Emuārs",
+    "privacy": "Privātums",
+    "popularSearches": "Populāri meklējumi",
+    "disclaimer": "Atruna",
+    "disclaimerContent": "HBO ir Home Box Office, Inc. preču zīme. Šī vietne",
+    "footerTags": [
+      "HBO Max skatīšanās ballīte",
+      "HBO skatīšanās ballīte",
+      "Skatieties ballīti HBO Max",
+      "HBO Go Watch Party",
+      "HBO ballīte",
+      "HBO Max ballīte"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Idagdag sa", "free": "Ito ay Libre" },
+    "navBarHeading": "ay magagamit na ngayon sa Google Chrome, Microsoft Edge at Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "HBO Watch Party - Manood ng HBO Max kasama ang Iyong Mga Kaibigan",
+      "html": "Binibigyang-daan ka ng HBO Watch Party na mag-stream ng mga HBO na video nang naka-sync sa pinakamaraming tao hangga't gusto mo. Available ang extension para sa lahat ng subscriber ng HBO. Tinitiyak nito ang perpektong pag-synchronize ng audio at video ng lahat ng kalahok sa <a href=\"https://www.hbowatchparty.us/\"><b><u>HBO Watch Party</u></b></a> . Higit pa rito, maaari ka ring makipag-chat sa iba pang mga kalahok sa isang sidebar habang magkasamang nagsi-stream ng video!",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/HBOmax-Watch-Party-Video-01.mp4"
+    },
+    "second": {
+      "heading": "Paano gamitin ang HBO Max Watch Party",
+      "subHeading": "Mangyaring sundin ang mga nakalistang hakbang sa ibaba upang makapagsimula sa HBO Watch Party Extension: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-HBOmax-Watch-Party.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "I-install at i-pin ang extension sa toolbar",
+          "answer": "Paki-install ang extension sa pamamagitan ng <a href=\"https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa\" target=\"_blank\" ><u> Chrome extension</u></a >. Pakitandaan na ang extension ay tugma lamang sa Chromebook, Windows, o macOS device. Bilang karagdagan dito, dapat mo ring tandaan na maaari mong i-download ang extension sa pamamagitan ng mga browser ng Google Chrome o Microsoft Edge. Kapag na-install mo na ang extension, dapat mo itong i-pin sa toolbar."
+        },
+        {
+          "id": "2",
+          "question": "Pag-login sa HBO",
+          "answer": "Dapat ay mayroon kang subscription sa HBO para magamit ang extension ng HBO Party. Bukod dito, kailangan mong mag-log in sa iyong HBO account upang lumikha o sumali sa virtual party."
+        },
+        {
+          "id": "3",
+          "question": "Hanapin at i-play ang video",
+          "answer": "Pagkatapos mag-sign in sa HBO, dapat kang maghanap ng palabas sa TV, serye sa web, pelikula, o anumang iba pang video na gusto mong i-stream sa iyong HBO Party. Higit pa rito, kailangan mong i-play ang video upang lumikha ng isang party."
+        },
+        {
+          "id": "4",
+          "question": "Mag-host o Gumawa ng Virtual Party",
+          "answer": "Maaari kang lumikha o mag-host ng virtual na partido gamit ang extension ng HBO Watch Party. Para dito, ang kailangan mo lang gawin ay mag-log in sa HBO account at hanapin at i-play ang video. Pagkatapos nito, dapat kang mag-click sa icon ng extension ng HBO Party. Pagkatapos, piliin ang opsyong \"Simulan ang Party\" upang gawin ang iyong virtual na link ng party. Higit pa rito, mangyaring ibahagi ang link na ito sa mga kaibigan at pamilya para imbitahan sila sa HBO Party."
+        },
+        {
+          "id": "5",
+          "question": "Sumali sa isang HBO Watch Party",
+          "answer": "Maaari kang sumali sa HBO party gamit ang party link. Para dito, kailangan mong mag-sign in sa HBO account at mag-click sa link. Higit pa rito, kailangan mong i-install ang extension ng HBO Party kung hindi mo pa nagagawa. Ngayon, ire-redirect ka sa party."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Natitirang tampok ng HBO Watch Party",
+      "subHeading": "Ang extension ay nagbibigay sa iyo ng access sa iba't ibang natatangi at nakakagulat na mga tampok, tulad ng:",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HBO-Max-Watch.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tampok sa pagpapasadya",
+          "answer": "Ang tampok na pagpapasadya ng extension ay nagbibigay-daan sa iyong pumili at itakda ang username at icon ng user na iyong pinili. Ang HBO Watch Party Extension ay mayroon ding iba't ibang cute at nakakatawang avatar na maaari mong itakda bilang iyong icon ng profile. Bilang karagdagan, maaari mo ring ilagay ang iyong palayaw bilang iyong username. Ang iyong username at icon ay makikita ng mga tao."
+        },
+        {
+          "id": "t2",
+          "question": "Makipag-chat sa mga Kaibigan",
+          "answer": "Maaari ka ring makipag-chat sa iba pang virtual na miyembro ng partido habang nagsi-stream. Samakatuwid, ito ay magdaragdag ng higit na saya sa iyong panonood party."
+        },
+        {
+          "id": "t3",
+          "question": "Sinusuportahan ang iba't ibang mga device",
+          "answer": "Ang extension ng HBO watch party ay tugma sa lahat ng macOS, Windows, at Chromebook na mga laptop o PC."
+        },
+        {
+          "id": "t4",
+          "question": "Pagiging available sa buong mundo",
+          "answer": "Available ang extension sa buong mundo. Samakatuwid, masisiyahan ka sa panonood ng iyong mga paboritong pelikula at palabas sa HBO kasama ng iyong mga kaibigan o pamilya anumang oras, kahit saan."
+        },
+        {
+          "id": "t5",
+          "question": "HD streaming sa Sync",
+          "answer": "Panoorin ang iyong mga paboritong palabas sa TV, pelikula, anumang video sa HBO kasabay ng iyong mga paboritong tao sa HD na kalidad at may mabilis na buffering."
+        },
+        {
+          "id": "t6",
+          "question": "Kontrolin ang pamagat ng party ng iyong panonood",
+          "answer": "Hinahayaan ng HBO Watch Party ang host na panatilihing kontrolin ang party sa pamamagitan ng pag-enable sa button na \"Ako lang ang may kontrol\". Nagbibigay-daan ito sa kanila na kontrolin ang mga setting ng pag-play ng video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Mga Madalas Itanong",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ano ang maaari kong gawin sa extension ng HBO Max Watch Party?",
+        "answer": "Kung ikaw ay isang subscriber ng HBO, pagkatapos ay masisiyahan ka sa panonood ng iyong mga paboritong palabas sa TV, serye sa web, mga pelikula, at marami pang iba sa HBO kasabay ng iyong mga paboritong tao online. Higit pa rito, binibigyang-daan ka rin ng extension na makipag-chat sa iyong mga kaibigan habang nanonood ng mga pelikula."
+      },
+      {
+        "id": "f2",
+        "question": "Ilang tao ang maaaring sumali sa isang HBO Watch Party?",
+        "answer": "Walang limitasyon sa bilang ng mga taong maaaring sumali sa virtual na partido. Kaya, maaari kang magdagdag ng maraming miyembro hangga't gusto mo."
+      },
+      {
+        "id": "f3",
+        "question": "May chat feature din ba ang extension?",
+        "answer": "Oo, mayroon itong function ng chat, na nagbibigay-daan sa iyong makipag-chat habang nagsi-stream kasama ang iba pang mga kalahok."
+      },
+      {
+        "id": "f4",
+        "question": "Ano ang mga paunang kinakailangan upang mai-install ang extension ng HBO Watch Party?",
+        "answer": "Para i-set up ang HBO Watch Party:-",
+        "p1": "1. Opisyal na Website ng HBO: Bisitahin ang seksyon ng suporta ng HBO para sa impormasyon at mga extension ng panonood ng party.",
+        "p2": "2. Extension Store: Tingnan ang Chrome Web Store o Mozilla Add-on para sa extension ng \"HBO watch party.\"",
+        "p3": "3. Mga Kinakailangan ng System: I-verify ang mga kinakailangan ng system at browser.",
+        "p4": "4. I-install ang Extension: I-click ang 'Idagdag sa Chrome' o katumbas sa extension store.",
+        "p5": "5. Pag-login: Mag-log in sa iyong HBO account pagkatapos ng pag-install.",
+        "p6": "6. Mag-imbita: Magsimula at mag-imbita ng mga kalahok sa bawat mga tagubilin sa platform."
+      },
+      {
+        "id": "f5",
+        "question": "Ano ang paraan upang lumikha ng isang virtual na partido gamit ang extension ng HBO Watch Party?",
+        "answer": "Upang lumikha ng HBO Watch Party:-",
+        "p1": "1. Bisitahin ang opisyal na website ng HBO o mga social media channel para sa mga anunsyo tungkol sa tampok na Watch Party.",
+        "p2": "2. Maghanap ng 'HBO Watch Party' sa extension store ng iyong browser (hal., Chrome Web Store). Kung magagamit, i-install ang extension.",
+        "p3": "3. Mag-log in sa iyong HBO account pagkatapos i-install ang extension para i-synchronize ang content at mga party.",
+        "P4": "4. Hanapin ang opsyon para magsimula ng Watch Party, pumili ng content, at mag-imbita ng mga kaibigan na sumali.",
+        "p5": "5. Gumamit ng mga built-in na tool upang mag-imbita ng mga kaibigan sa pamamagitan ng link, code, o listahan ng contact.",
+        "p6": "6. Magsimulang manood sa sandaling sumali ang mga kalahok; karaniwang naka-synchronize ang playback.",
+        "p7": "7. Gamitin ang tampok na chat o komento para sa real-time na komunikasyon at mga reaksyon."
+      },
+      {
+        "id": "f6",
+        "question": "Paano sumali sa watch party?",
+        "answer": "Sundin ang mga hakbang na ito para makasali sa party: –",
+        "p1": "1. Pumili ng isang streaming service (hal., Netflix, Hulu) o isang social media platform na may mga feature sa panonood.",
+        "p2": "2. Maghanap ng 'Watch Party' o mga katulad na feature. Mag-install ng mga kinakailangang extension ng browser o app kung kinakailangan.",
+        "p3": "3. Magbahagi ng link, bumuo ng code, o gamitin ang iyong listahan ng contact para mag-imbita ng mga kaibigan.",
+        "p4": "4 . Kapag sumali na ang mga kalahok, sisimulan ng host ang video, at sabay-sabay na nanonood ang lahat.",
+        "p5": "5. Makisali sa mga real-time na talakayan gamit ang tampok na chat o komento ng platform.",
+        "p6": "6. Sumunod sa anumang mga kinakailangan na partikular sa platform, gaya ng mga extension ng browser o pag-install ng app."
+      },
+      {
+        "id": "f7",
+        "question": "Kailangan bang nasa iisang bansa ang lahat ng miyembro ng watch party?",
+        "answer": "Oo, kung sinumang miyembro o kalahok ng parehong virtual na partido ang nakatira sa ibang bansa, maaari silang gumamit ng VPN."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Ipaalam sa amin.",
+    "anyQuestions": "May mga katanungan? Bisitahin ang aming pahina ng suporta",
+    "blog": "Blog",
+    "privacy": "Pagkapribado",
+    "popularSearches": "Mga Patok na Paghahanap",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "Ang HBO ay isang trademark ng Home Box Office, Inc.. Ang website na ito",
+    "footerTags": [
+      "HBO Max Watch Party",
+      "HBO Watch Party",
+      "Manood ng Party HBO Max",
+      "HBO Go Watch Party",
+      "HBO Party",
+      "HBO Max Party"
+    ]
+  }
+}
