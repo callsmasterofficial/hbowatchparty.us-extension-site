@@ -5,9 +5,9 @@ export default {
   blogUrl: '/blog',
   extLink: {
     chrome:
-      'https://chrome.google.com/webstore/detail/hbo-watch-party/dnpipngojkejflmgjolflengnoegnffa',
-    firefox: 'https://addons.mozilla.org/addon/hbo-max-watch-party/',
-    edge: 'https://microsoftedge.microsoft.com/addons/detail/plgjjiaboocjgdnedfjoiailbgfndami',
+      'https://chromewebstore.google.com/detail/teleparty/mcnbfjjgfmgcbljkoaaadoddokbmnlln',
+    firefox: '',
+    edge: 'https://microsoftedge.microsoft.com/addons/detail/ghnimpmnmdnjbinopmhmjhnnjmflficn',
   },
   logo: '/logo.png',
   gtagId: '211022760-3',
