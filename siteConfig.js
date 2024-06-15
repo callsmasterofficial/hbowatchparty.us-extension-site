@@ -5,9 +5,9 @@ export default {
   blogUrl: '/blog',
   extLink: {
     chrome:
-      'https://chromewebstore.google.com/detail/teleparty/mcnbfjjgfmgcbljkoaaadoddokbmnlln',
+      'https://chromewebstore.google.com/detail/max-watch-party/hhdedbphalepkocbedpemhkeegkfoolj',
     firefox: '',
-    edge: 'https://microsoftedge.microsoft.com/addons/detail/ghnimpmnmdnjbinopmhmjhnnjmflficn',
+    edge: 'https://chromewebstore.google.com/detail/max-watch-party/hhdedbphalepkocbedpemhkeegkfoolj',
   },
   logo: '/logo.png',
   gtagId: '211022760-3',

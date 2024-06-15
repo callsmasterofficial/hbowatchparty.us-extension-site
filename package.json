@@ -4,9 +4,7 @@
     "dev": "next dev -p 3003",
     "build": "next build",
     "start": "next start -p 3003",
-    "lint": "next lint",
-    "formate": "prettier --write .",
-    "prepare": "husky install"
+    "lint": "next lint"
   },
   "dependencies": {
     "mongoose": "^6.8.3",
@@ -23,20 +21,10 @@
     "autoprefixer": "^10.4.0",
     "eslint": "^8.31.0",
     "eslint-config-next": "13.1.1",
-    "husky": "^8.0.3",
     "lint-staged": "^13.1.0",
     "postcss": "^8.4.5",
     "prettier": "2.8.2",
     "prettier-plugin-tailwindcss": "^0.1.1",
     "tailwindcss": "^3.0.7"
-  },
-  "lint-staged": {
-    "**/*.{js,jsx,ts,tsx}": [
-      "next lint",
-      "npm prettier --write"
-    ]
-  },
-  "husky": {
-    "hooks": {}
   }
 }
