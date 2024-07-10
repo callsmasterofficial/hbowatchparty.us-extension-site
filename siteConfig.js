@@ -7,7 +7,7 @@ export default {
     chrome:
       'https://chromewebstore.google.com/detail/max-watch-party/hhdedbphalepkocbedpemhkeegkfoolj',
     firefox: '',
-    edge: 'https://chromewebstore.google.com/detail/max-watch-party/hhdedbphalepkocbedpemhkeegkfoolj',
+    edge: 'https://microsoftedge.microsoft.com/addons/detail/plgjjiaboocjgdnedfjoiailbgfndami',
   },
   logo: '/logo.png',
   gtagId: '211022760-3',
